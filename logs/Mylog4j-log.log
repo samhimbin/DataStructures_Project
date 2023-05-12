@@ -7190,3 +7190,441 @@
 ['INFO ]2023-05-11 13:13:23,217(yyyy-MM-ddHH:mm:ss.SSS][main]utils.LoggerLoad1)-enter teardown
 ['INFO ]2023-05-11 13:13:23,217(yyyy-MM-ddHH:mm:ss.SSS][main]utils.LoggerLoad1)-enter getdriver
 ['INFO ]2023-05-11 13:13:23,459(yyyy-MM-ddHH:mm:ss.SSS][main]utils.LoggerLoad1)-enter getdriver
+['INFO ]2023-05-11 22:22:53,551(yyyy-MM-ddHH:mm:ss.SSS][main]utils.LoggerLoad1)-enter getdriver
+['INFO ]2023-05-11 22:22:53,587(yyyy-MM-ddHH:mm:ss.SSS][main]utils.LoggerLoad1)-enter getdriver
+['INFO ]2023-05-11 22:22:53,587(yyyy-MM-ddHH:mm:ss.SSS][main]utils.LoggerLoad1)-getdriver
+['INFO ]2023-05-11 22:22:53,606(yyyy-MM-ddHH:mm:ss.SSS][main]utils.LoggerLoad1)-enter getdriver
+['INFO ]2023-05-11 22:22:53,657(yyyy-MM-ddHH:mm:ss.SSS][main]utils.LoggerLoad1)-enter getdriver
+['INFO ]2023-05-11 22:22:53,659(yyyy-MM-ddHH:mm:ss.SSS][main]utils.LoggerLoad1)-enter getdriver
+['INFO ]2023-05-11 22:22:53,660(yyyy-MM-ddHH:mm:ss.SSS][main]utils.LoggerLoad1)-getdriver
+['INFO ]2023-05-11 22:22:53,665(yyyy-MM-ddHH:mm:ss.SSS][main]utils.LoggerLoad1)-enter getdriver
+['INFO ]2023-05-11 22:22:53,681(yyyy-MM-ddHH:mm:ss.SSS][main]utils.LoggerLoad1)-enter getdriver
+['INFO ]2023-05-11 22:22:53,685(yyyy-MM-ddHH:mm:ss.SSS][main]utils.LoggerLoad1)-enter getdriver
+['INFO ]2023-05-11 22:22:53,685(yyyy-MM-ddHH:mm:ss.SSS][main]utils.LoggerLoad1)-getdriver
+['INFO ]2023-05-11 22:22:53,693(yyyy-MM-ddHH:mm:ss.SSS][main]utils.LoggerLoad1)-enter getdriver
+['INFO ]2023-05-11 22:26:06,179(yyyy-MM-ddHH:mm:ss.SSS][main]utils.LoggerLoad1)-enter getdriver
+['INFO ]2023-05-11 22:26:06,186(yyyy-MM-ddHH:mm:ss.SSS][main]utils.LoggerLoad1)-enter getchromedriver
+['INFO ]2023-05-11 22:26:09,903(yyyy-MM-ddHH:mm:ss.SSS][main]utils.LoggerLoad1)-enter getdriver
+['INFO ]2023-05-11 22:26:09,923(yyyy-MM-ddHH:mm:ss.SSS][main]utils.LoggerLoad1)-enter getdriver
+['INFO ]2023-05-11 22:26:10,061(yyyy-MM-ddHH:mm:ss.SSS][main]utils.LoggerLoad1)-enter getdriver
+['INFO ]2023-05-11 22:26:10,068(yyyy-MM-ddHH:mm:ss.SSS][main]utils.LoggerLoad1)-driver setup
+['INFO ]2023-05-11 22:26:10,074(yyyy-MM-ddHH:mm:ss.SSS][main]utils.LoggerLoad1)-enter getdriver
+['INFO ]2023-05-11 22:26:10,074(yyyy-MM-ddHH:mm:ss.SSS][main]utils.LoggerLoad1)-getdriver
+['INFO ]2023-05-11 22:26:10,076(yyyy-MM-ddHH:mm:ss.SSS][main]utils.LoggerLoad1)-enter getdriver
+['INFO ]2023-05-11 22:26:10,099(yyyy-MM-ddHH:mm:ss.SSS][main]utils.LoggerLoad1)-launch browser
+['INFO ]2023-05-11 22:26:10,101(yyyy-MM-ddHH:mm:ss.SSS][main]utils.LoggerLoad1)-enter getdriver
+['INFO ]2023-05-11 22:26:10,679(yyyy-MM-ddHH:mm:ss.SSS][main]utils.LoggerLoad1)-Portal opened
+['INFO ]2023-05-11 22:26:11,403(yyyy-MM-ddHH:mm:ss.SSS][main]utils.LoggerLoad1)-Clicked Getstarted button
+['INFO ]2023-05-11 22:26:11,409(yyyy-MM-ddHH:mm:ss.SSS][main]utils.LoggerLoad1)-enter getdriver
+['INFO ]2023-05-11 22:26:11,437(yyyy-MM-ddHH:mm:ss.SSS][main]utils.LoggerLoad1)-user navigated to Homepage
+['INFO ]2023-05-11 22:26:11,584(yyyy-MM-ddHH:mm:ss.SSS][main]utils.LoggerLoad1)-enter getdriver
+['INFO ]2023-05-11 22:26:11,585(yyyy-MM-ddHH:mm:ss.SSS][main]utils.LoggerLoad1)-driver setup
+['INFO ]2023-05-11 22:26:11,585(yyyy-MM-ddHH:mm:ss.SSS][main]utils.LoggerLoad1)-enter getdriver
+['INFO ]2023-05-11 22:26:11,585(yyyy-MM-ddHH:mm:ss.SSS][main]utils.LoggerLoad1)-getdriver
+['INFO ]2023-05-11 22:26:11,586(yyyy-MM-ddHH:mm:ss.SSS][main]utils.LoggerLoad1)-enter getdriver
+['INFO ]2023-05-11 22:26:11,586(yyyy-MM-ddHH:mm:ss.SSS][main]utils.LoggerLoad1)-enter getdriver
+['INFO ]2023-05-11 22:26:12,610(yyyy-MM-ddHH:mm:ss.SSS][main]utils.LoggerLoad1)-User Enter username as " hima "and Password as " " 
+['INFO ]2023-05-11 22:26:12,885(yyyy-MM-ddHH:mm:ss.SSS][main]utils.LoggerLoad1)-User clicks on login button
+['INFO ]2023-05-11 22:26:12,885(yyyy-MM-ddHH:mm:ss.SSS][main]utils.LoggerLoad1)-Expected Message - Excel Sheet :  Please fill out this field.
+['INFO ]2023-05-11 22:26:13,058(yyyy-MM-ddHH:mm:ss.SSS][main]utils.LoggerLoad1)-
+['INFO ]2023-05-11 22:26:13,108(yyyy-MM-ddHH:mm:ss.SSS][main]utils.LoggerLoad1)-enter getdriver
+['INFO ]2023-05-11 22:26:13,108(yyyy-MM-ddHH:mm:ss.SSS][main]utils.LoggerLoad1)-driver setup
+['INFO ]2023-05-11 22:26:13,108(yyyy-MM-ddHH:mm:ss.SSS][main]utils.LoggerLoad1)-enter getdriver
+['INFO ]2023-05-11 22:26:13,108(yyyy-MM-ddHH:mm:ss.SSS][main]utils.LoggerLoad1)-getdriver
+['INFO ]2023-05-11 22:26:13,109(yyyy-MM-ddHH:mm:ss.SSS][main]utils.LoggerLoad1)-enter getdriver
+['INFO ]2023-05-11 22:26:13,110(yyyy-MM-ddHH:mm:ss.SSS][main]utils.LoggerLoad1)-enter getdriver
+['INFO ]2023-05-11 22:26:13,389(yyyy-MM-ddHH:mm:ss.SSS][main]utils.LoggerLoad1)-User Enter username as "  "and Password as " himasdet109" 
+['INFO ]2023-05-11 22:26:13,508(yyyy-MM-ddHH:mm:ss.SSS][main]utils.LoggerLoad1)-User clicks on login button
+['INFO ]2023-05-11 22:26:13,509(yyyy-MM-ddHH:mm:ss.SSS][main]utils.LoggerLoad1)-Expected Message - Excel Sheet :  Please fill out this field.
+['INFO ]2023-05-11 22:26:14,656(yyyy-MM-ddHH:mm:ss.SSS][main]utils.LoggerLoad1)-Please fill out this field.
+['INFO ]2023-05-11 22:26:14,683(yyyy-MM-ddHH:mm:ss.SSS][main]utils.LoggerLoad1)-enter getdriver
+['INFO ]2023-05-11 22:26:14,683(yyyy-MM-ddHH:mm:ss.SSS][main]utils.LoggerLoad1)-driver setup
+['INFO ]2023-05-11 22:26:14,683(yyyy-MM-ddHH:mm:ss.SSS][main]utils.LoggerLoad1)-enter getdriver
+['INFO ]2023-05-11 22:26:14,685(yyyy-MM-ddHH:mm:ss.SSS][main]utils.LoggerLoad1)-getdriver
+['INFO ]2023-05-11 22:26:14,685(yyyy-MM-ddHH:mm:ss.SSS][main]utils.LoggerLoad1)-enter getdriver
+['INFO ]2023-05-11 22:26:14,685(yyyy-MM-ddHH:mm:ss.SSS][main]utils.LoggerLoad1)-enter getdriver
+['INFO ]2023-05-11 22:26:17,245(yyyy-MM-ddHH:mm:ss.SSS][main]utils.LoggerLoad1)-User Enter username as " hima109 "and Password as " sdet109" 
+['INFO ]2023-05-11 22:26:17,395(yyyy-MM-ddHH:mm:ss.SSS][main]utils.LoggerLoad1)-User clicks on login button
+['INFO ]2023-05-11 22:26:17,395(yyyy-MM-ddHH:mm:ss.SSS][main]utils.LoggerLoad1)-Expected Message - Excel Sheet :  Inavalid Username and Password
+['INFO ]2023-05-11 22:26:17,713(yyyy-MM-ddHH:mm:ss.SSS][main]utils.LoggerLoad1)-enter getdriver
+['INFO ]2023-05-11 22:26:17,713(yyyy-MM-ddHH:mm:ss.SSS][main]utils.LoggerLoad1)-driver setup
+['INFO ]2023-05-11 22:26:17,713(yyyy-MM-ddHH:mm:ss.SSS][main]utils.LoggerLoad1)-enter getdriver
+['INFO ]2023-05-11 22:26:17,713(yyyy-MM-ddHH:mm:ss.SSS][main]utils.LoggerLoad1)-getdriver
+['INFO ]2023-05-11 22:26:17,713(yyyy-MM-ddHH:mm:ss.SSS][main]utils.LoggerLoad1)-enter getdriver
+['INFO ]2023-05-11 22:26:17,713(yyyy-MM-ddHH:mm:ss.SSS][main]utils.LoggerLoad1)-enter getdriver
+['INFO ]2023-05-11 22:26:17,851(yyyy-MM-ddHH:mm:ss.SSS][main]utils.LoggerLoad1)-User Enter username as " nitha "and Password as " nithasdet109" 
+['INFO ]2023-05-11 22:26:18,085(yyyy-MM-ddHH:mm:ss.SSS][main]utils.LoggerLoad1)-User clicks on login button
+['INFO ]2023-05-11 22:26:18,085(yyyy-MM-ddHH:mm:ss.SSS][main]utils.LoggerLoad1)-Expected Message - Excel Sheet :  You are logged in
+['INFO ]2023-05-11 22:26:18,570(yyyy-MM-ddHH:mm:ss.SSS][main]utils.LoggerLoad1)-enter getdriver
+['INFO ]2023-05-11 22:26:18,570(yyyy-MM-ddHH:mm:ss.SSS][main]utils.LoggerLoad1)-driver setup
+['INFO ]2023-05-11 22:26:18,570(yyyy-MM-ddHH:mm:ss.SSS][main]utils.LoggerLoad1)-enter getdriver
+['INFO ]2023-05-11 22:26:18,571(yyyy-MM-ddHH:mm:ss.SSS][main]utils.LoggerLoad1)-getdriver
+['INFO ]2023-05-11 22:26:18,571(yyyy-MM-ddHH:mm:ss.SSS][main]utils.LoggerLoad1)-enter getdriver
+['INFO ]2023-05-11 22:26:19,744(yyyy-MM-ddHH:mm:ss.SSS][main]utils.LoggerLoad1)-enter getdriver
+['INFO ]2023-05-11 22:26:28,809(yyyy-MM-ddHH:mm:ss.SSS][main]utils.LoggerLoad1)-Arrays valid output= Hello
+['INFO ]2023-05-11 22:26:28,809(yyyy-MM-ddHH:mm:ss.SSS][main]utils.LoggerLoad1)-enter getdriver
+['INFO ]2023-05-11 22:26:28,965(yyyy-MM-ddHH:mm:ss.SSS][main]utils.LoggerLoad1)-enter getdriver
+['INFO ]2023-05-11 22:26:28,965(yyyy-MM-ddHH:mm:ss.SSS][main]utils.LoggerLoad1)-driver setup
+['INFO ]2023-05-11 22:26:28,966(yyyy-MM-ddHH:mm:ss.SSS][main]utils.LoggerLoad1)-enter getdriver
+['INFO ]2023-05-11 22:26:28,967(yyyy-MM-ddHH:mm:ss.SSS][main]utils.LoggerLoad1)-getdriver
+['INFO ]2023-05-11 22:26:28,967(yyyy-MM-ddHH:mm:ss.SSS][main]utils.LoggerLoad1)-enter getdriver
+['INFO ]2023-05-11 22:26:29,283(yyyy-MM-ddHH:mm:ss.SSS][main]utils.LoggerLoad1)-Arrays invalid output= 
+['INFO ]2023-05-11 22:26:29,518(yyyy-MM-ddHH:mm:ss.SSS][main]utils.LoggerLoad1)-enter getdriver
+['INFO ]2023-05-11 22:26:29,704(yyyy-MM-ddHH:mm:ss.SSS][main]utils.LoggerLoad1)-enter getdriver
+['INFO ]2023-05-11 22:26:29,705(yyyy-MM-ddHH:mm:ss.SSS][main]utils.LoggerLoad1)-driver setup
+['INFO ]2023-05-11 22:26:29,715(yyyy-MM-ddHH:mm:ss.SSS][main]utils.LoggerLoad1)-enter getdriver
+['INFO ]2023-05-11 22:26:29,715(yyyy-MM-ddHH:mm:ss.SSS][main]utils.LoggerLoad1)-getdriver
+['INFO ]2023-05-11 22:26:29,717(yyyy-MM-ddHH:mm:ss.SSS][main]utils.LoggerLoad1)-enter getdriver
+['INFO ]2023-05-11 22:26:30,400(yyyy-MM-ddHH:mm:ss.SSS][main]utils.LoggerLoad1)-enter getdriver
+['INFO ]2023-05-11 22:26:30,400(yyyy-MM-ddHH:mm:ss.SSS][main]utils.LoggerLoad1)-driver setup
+['INFO ]2023-05-11 22:26:30,401(yyyy-MM-ddHH:mm:ss.SSS][main]utils.LoggerLoad1)-enter getdriver
+['INFO ]2023-05-11 22:26:30,401(yyyy-MM-ddHH:mm:ss.SSS][main]utils.LoggerLoad1)-getdriver
+['INFO ]2023-05-11 22:26:30,402(yyyy-MM-ddHH:mm:ss.SSS][main]utils.LoggerLoad1)-enter getdriver
+['INFO ]2023-05-11 22:26:30,402(yyyy-MM-ddHH:mm:ss.SSS][main]utils.LoggerLoad1)-launch browser
+['INFO ]2023-05-11 22:26:30,404(yyyy-MM-ddHH:mm:ss.SSS][main]utils.LoggerLoad1)-enter getdriver
+['INFO ]2023-05-11 22:26:30,569(yyyy-MM-ddHH:mm:ss.SSS][main]utils.LoggerLoad1)-Portal opened
+['INFO ]2023-05-11 22:26:30,856(yyyy-MM-ddHH:mm:ss.SSS][main]utils.LoggerLoad1)-Clicked Getstarted button
+['INFO ]2023-05-11 22:26:30,859(yyyy-MM-ddHH:mm:ss.SSS][main]utils.LoggerLoad1)-enter getdriver
+['INFO ]2023-05-11 22:26:30,877(yyyy-MM-ddHH:mm:ss.SSS][main]utils.LoggerLoad1)-user navigated to Homepage
+['INFO ]2023-05-11 22:26:30,898(yyyy-MM-ddHH:mm:ss.SSS][main]utils.LoggerLoad1)-enter getdriver
+['INFO ]2023-05-11 22:26:30,898(yyyy-MM-ddHH:mm:ss.SSS][main]utils.LoggerLoad1)-driver setup
+['INFO ]2023-05-11 22:26:30,899(yyyy-MM-ddHH:mm:ss.SSS][main]utils.LoggerLoad1)-enter getdriver
+['INFO ]2023-05-11 22:26:30,899(yyyy-MM-ddHH:mm:ss.SSS][main]utils.LoggerLoad1)-getdriver
+['INFO ]2023-05-11 22:26:30,900(yyyy-MM-ddHH:mm:ss.SSS][main]utils.LoggerLoad1)-enter getdriver
+['INFO ]2023-05-11 22:26:30,900(yyyy-MM-ddHH:mm:ss.SSS][main]utils.LoggerLoad1)-enter getdriver
+['INFO ]2023-05-11 22:26:31,118(yyyy-MM-ddHH:mm:ss.SSS][main]utils.LoggerLoad1)-User Enter username as " hima "and Password as " " 
+['INFO ]2023-05-11 22:26:31,578(yyyy-MM-ddHH:mm:ss.SSS][main]utils.LoggerLoad1)-User clicks on login button
+['INFO ]2023-05-11 22:26:31,579(yyyy-MM-ddHH:mm:ss.SSS][main]utils.LoggerLoad1)-Expected Message - Excel Sheet :  Please fill out this field.
+['INFO ]2023-05-11 22:26:31,782(yyyy-MM-ddHH:mm:ss.SSS][main]utils.LoggerLoad1)-
+['INFO ]2023-05-11 22:26:31,828(yyyy-MM-ddHH:mm:ss.SSS][main]utils.LoggerLoad1)-enter getdriver
+['INFO ]2023-05-11 22:26:31,828(yyyy-MM-ddHH:mm:ss.SSS][main]utils.LoggerLoad1)-driver setup
+['INFO ]2023-05-11 22:26:31,829(yyyy-MM-ddHH:mm:ss.SSS][main]utils.LoggerLoad1)-enter getdriver
+['INFO ]2023-05-11 22:26:31,829(yyyy-MM-ddHH:mm:ss.SSS][main]utils.LoggerLoad1)-getdriver
+['INFO ]2023-05-11 22:26:31,830(yyyy-MM-ddHH:mm:ss.SSS][main]utils.LoggerLoad1)-enter getdriver
+['INFO ]2023-05-11 22:26:31,830(yyyy-MM-ddHH:mm:ss.SSS][main]utils.LoggerLoad1)-enter getdriver
+['INFO ]2023-05-11 22:26:32,113(yyyy-MM-ddHH:mm:ss.SSS][main]utils.LoggerLoad1)-User Enter username as "  "and Password as " himasdet109" 
+['INFO ]2023-05-11 22:26:32,403(yyyy-MM-ddHH:mm:ss.SSS][main]utils.LoggerLoad1)-User clicks on login button
+['INFO ]2023-05-11 22:26:32,403(yyyy-MM-ddHH:mm:ss.SSS][main]utils.LoggerLoad1)-Expected Message - Excel Sheet :  Please fill out this field.
+['INFO ]2023-05-11 22:26:33,561(yyyy-MM-ddHH:mm:ss.SSS][main]utils.LoggerLoad1)-Please fill out this field.
+['INFO ]2023-05-11 22:26:33,585(yyyy-MM-ddHH:mm:ss.SSS][main]utils.LoggerLoad1)-enter getdriver
+['INFO ]2023-05-11 22:26:33,585(yyyy-MM-ddHH:mm:ss.SSS][main]utils.LoggerLoad1)-driver setup
+['INFO ]2023-05-11 22:26:33,587(yyyy-MM-ddHH:mm:ss.SSS][main]utils.LoggerLoad1)-enter getdriver
+['INFO ]2023-05-11 22:26:33,587(yyyy-MM-ddHH:mm:ss.SSS][main]utils.LoggerLoad1)-getdriver
+['INFO ]2023-05-11 22:26:33,587(yyyy-MM-ddHH:mm:ss.SSS][main]utils.LoggerLoad1)-enter getdriver
+['INFO ]2023-05-11 22:26:33,587(yyyy-MM-ddHH:mm:ss.SSS][main]utils.LoggerLoad1)-enter getdriver
+['INFO ]2023-05-11 22:26:33,785(yyyy-MM-ddHH:mm:ss.SSS][main]utils.LoggerLoad1)-User Enter username as " hima109 "and Password as " sdet109" 
+['INFO ]2023-05-11 22:26:34,059(yyyy-MM-ddHH:mm:ss.SSS][main]utils.LoggerLoad1)-User clicks on login button
+['INFO ]2023-05-11 22:26:34,059(yyyy-MM-ddHH:mm:ss.SSS][main]utils.LoggerLoad1)-Expected Message - Excel Sheet :  Inavalid Username and Password
+['INFO ]2023-05-11 22:26:34,395(yyyy-MM-ddHH:mm:ss.SSS][main]utils.LoggerLoad1)-enter getdriver
+['INFO ]2023-05-11 22:26:34,395(yyyy-MM-ddHH:mm:ss.SSS][main]utils.LoggerLoad1)-driver setup
+['INFO ]2023-05-11 22:26:34,395(yyyy-MM-ddHH:mm:ss.SSS][main]utils.LoggerLoad1)-enter getdriver
+['INFO ]2023-05-11 22:26:34,396(yyyy-MM-ddHH:mm:ss.SSS][main]utils.LoggerLoad1)-getdriver
+['INFO ]2023-05-11 22:26:34,396(yyyy-MM-ddHH:mm:ss.SSS][main]utils.LoggerLoad1)-enter getdriver
+['INFO ]2023-05-11 22:26:34,397(yyyy-MM-ddHH:mm:ss.SSS][main]utils.LoggerLoad1)-enter getdriver
+['INFO ]2023-05-11 22:26:34,586(yyyy-MM-ddHH:mm:ss.SSS][main]utils.LoggerLoad1)-User Enter username as " nitha "and Password as " nithasdet109" 
+['INFO ]2023-05-11 22:26:34,894(yyyy-MM-ddHH:mm:ss.SSS][main]utils.LoggerLoad1)-User clicks on login button
+['INFO ]2023-05-11 22:26:34,895(yyyy-MM-ddHH:mm:ss.SSS][main]utils.LoggerLoad1)-Expected Message - Excel Sheet :  You are logged in
+['INFO ]2023-05-11 22:26:35,541(yyyy-MM-ddHH:mm:ss.SSS][main]utils.LoggerLoad1)-enter getdriver
+['INFO ]2023-05-11 22:26:35,541(yyyy-MM-ddHH:mm:ss.SSS][main]utils.LoggerLoad1)-driver setup
+['INFO ]2023-05-11 22:26:35,541(yyyy-MM-ddHH:mm:ss.SSS][main]utils.LoggerLoad1)-enter getdriver
+['INFO ]2023-05-11 22:26:35,541(yyyy-MM-ddHH:mm:ss.SSS][main]utils.LoggerLoad1)-getdriver
+['INFO ]2023-05-11 22:26:35,542(yyyy-MM-ddHH:mm:ss.SSS][main]utils.LoggerLoad1)-enter getdriver
+['INFO ]2023-05-11 22:26:36,034(yyyy-MM-ddHH:mm:ss.SSS][main]utils.LoggerLoad1)-enter getdriver
+['INFO ]2023-05-11 22:26:36,661(yyyy-MM-ddHH:mm:ss.SSS][main]utils.LoggerLoad1)-Arrays valid output= Hello
+['INFO ]2023-05-11 22:26:36,661(yyyy-MM-ddHH:mm:ss.SSS][main]utils.LoggerLoad1)-enter getdriver
+['INFO ]2023-05-11 22:26:36,799(yyyy-MM-ddHH:mm:ss.SSS][main]utils.LoggerLoad1)-enter getdriver
+['INFO ]2023-05-11 22:26:36,799(yyyy-MM-ddHH:mm:ss.SSS][main]utils.LoggerLoad1)-driver setup
+['INFO ]2023-05-11 22:26:36,801(yyyy-MM-ddHH:mm:ss.SSS][main]utils.LoggerLoad1)-enter getdriver
+['INFO ]2023-05-11 22:26:36,801(yyyy-MM-ddHH:mm:ss.SSS][main]utils.LoggerLoad1)-getdriver
+['INFO ]2023-05-11 22:26:36,802(yyyy-MM-ddHH:mm:ss.SSS][main]utils.LoggerLoad1)-enter getdriver
+['INFO ]2023-05-11 22:26:37,136(yyyy-MM-ddHH:mm:ss.SSS][main]utils.LoggerLoad1)-Arrays invalid output= 
+['INFO ]2023-05-11 22:26:37,302(yyyy-MM-ddHH:mm:ss.SSS][main]utils.LoggerLoad1)-enter getdriver
+['INFO ]2023-05-11 22:26:37,460(yyyy-MM-ddHH:mm:ss.SSS][main]utils.LoggerLoad1)-enter getdriver
+['INFO ]2023-05-11 22:26:37,461(yyyy-MM-ddHH:mm:ss.SSS][main]utils.LoggerLoad1)-driver setup
+['INFO ]2023-05-11 22:26:37,466(yyyy-MM-ddHH:mm:ss.SSS][main]utils.LoggerLoad1)-enter getdriver
+['INFO ]2023-05-11 22:26:37,467(yyyy-MM-ddHH:mm:ss.SSS][main]utils.LoggerLoad1)-getdriver
+['INFO ]2023-05-11 22:26:37,468(yyyy-MM-ddHH:mm:ss.SSS][main]utils.LoggerLoad1)-enter getdriver
+['INFO ]2023-05-12 10:11:00,635(yyyy-MM-ddHH:mm:ss.SSS][TestNG-test=chromeTest-1]utils.LoggerLoad1)-enter getdriver
+['INFO ]2023-05-12 10:11:00,643(yyyy-MM-ddHH:mm:ss.SSS][TestNG-test=chromeTest-1]utils.LoggerLoad1)-enter getchromedriver
+['INFO ]2023-05-12 10:11:04,658(yyyy-MM-ddHH:mm:ss.SSS][TestNG-test=chromeTest-1]utils.LoggerLoad1)-enter getdriver
+['INFO ]2023-05-12 10:11:04,675(yyyy-MM-ddHH:mm:ss.SSS][TestNG-test=chromeTest-1]utils.LoggerLoad1)-enter getdriver
+['INFO ]2023-05-12 10:11:04,807(yyyy-MM-ddHH:mm:ss.SSS][TestNG-test=chromeTest-1]utils.LoggerLoad1)-enter getdriver
+['INFO ]2023-05-12 10:11:04,811(yyyy-MM-ddHH:mm:ss.SSS][TestNG-test=chromeTest-1]utils.LoggerLoad1)-driver setup
+['INFO ]2023-05-12 10:11:04,813(yyyy-MM-ddHH:mm:ss.SSS][TestNG-test=chromeTest-1]utils.LoggerLoad1)-enter getdriver
+['INFO ]2023-05-12 10:11:04,814(yyyy-MM-ddHH:mm:ss.SSS][TestNG-test=chromeTest-1]utils.LoggerLoad1)-getdriver
+['INFO ]2023-05-12 10:11:04,815(yyyy-MM-ddHH:mm:ss.SSS][TestNG-test=chromeTest-1]utils.LoggerLoad1)-enter getdriver
+['INFO ]2023-05-12 10:11:04,830(yyyy-MM-ddHH:mm:ss.SSS][TestNG-test=chromeTest-1]utils.LoggerLoad1)-launch browser
+['INFO ]2023-05-12 10:11:04,831(yyyy-MM-ddHH:mm:ss.SSS][TestNG-test=chromeTest-1]utils.LoggerLoad1)-enter getdriver
+['INFO ]2023-05-12 10:11:12,336(yyyy-MM-ddHH:mm:ss.SSS][TestNG-test=chromeTest-1]utils.LoggerLoad1)-Portal opened
+['INFO ]2023-05-12 10:11:13,431(yyyy-MM-ddHH:mm:ss.SSS][TestNG-test=chromeTest-1]utils.LoggerLoad1)-Clicked Getstarted button
+['INFO ]2023-05-12 10:11:13,431(yyyy-MM-ddHH:mm:ss.SSS][TestNG-test=chromeTest-1]utils.LoggerLoad1)-enter getdriver
+['INFO ]2023-05-12 10:11:13,444(yyyy-MM-ddHH:mm:ss.SSS][TestNG-test=chromeTest-1]utils.LoggerLoad1)-user navigated to Homepage
+['INFO ]2023-05-12 10:11:13,563(yyyy-MM-ddHH:mm:ss.SSS][TestNG-test=chromeTest-1]utils.LoggerLoad1)-enter getdriver
+['INFO ]2023-05-12 10:11:13,564(yyyy-MM-ddHH:mm:ss.SSS][TestNG-test=chromeTest-1]utils.LoggerLoad1)-driver setup
+['INFO ]2023-05-12 10:11:13,564(yyyy-MM-ddHH:mm:ss.SSS][TestNG-test=chromeTest-1]utils.LoggerLoad1)-enter getdriver
+['INFO ]2023-05-12 10:11:13,564(yyyy-MM-ddHH:mm:ss.SSS][TestNG-test=chromeTest-1]utils.LoggerLoad1)-getdriver
+['INFO ]2023-05-12 10:11:13,565(yyyy-MM-ddHH:mm:ss.SSS][TestNG-test=chromeTest-1]utils.LoggerLoad1)-enter getdriver
+['INFO ]2023-05-12 10:11:13,565(yyyy-MM-ddHH:mm:ss.SSS][TestNG-test=chromeTest-1]utils.LoggerLoad1)-enter getdriver
+['INFO ]2023-05-12 10:11:14,647(yyyy-MM-ddHH:mm:ss.SSS][TestNG-test=chromeTest-1]utils.LoggerLoad1)-User Enter username as " hima "and Password as " " 
+['INFO ]2023-05-12 10:11:14,802(yyyy-MM-ddHH:mm:ss.SSS][TestNG-test=chromeTest-1]utils.LoggerLoad1)-User clicks on login button
+['INFO ]2023-05-12 10:11:14,802(yyyy-MM-ddHH:mm:ss.SSS][TestNG-test=chromeTest-1]utils.LoggerLoad1)-Expected Message - Excel Sheet :  Please fill out this field.
+['INFO ]2023-05-12 10:11:14,962(yyyy-MM-ddHH:mm:ss.SSS][TestNG-test=chromeTest-1]utils.LoggerLoad1)-
+['INFO ]2023-05-12 10:11:15,004(yyyy-MM-ddHH:mm:ss.SSS][TestNG-test=chromeTest-1]utils.LoggerLoad1)-enter getdriver
+['INFO ]2023-05-12 10:11:15,006(yyyy-MM-ddHH:mm:ss.SSS][TestNG-test=chromeTest-1]utils.LoggerLoad1)-driver setup
+['INFO ]2023-05-12 10:11:15,007(yyyy-MM-ddHH:mm:ss.SSS][TestNG-test=chromeTest-1]utils.LoggerLoad1)-enter getdriver
+['INFO ]2023-05-12 10:11:15,007(yyyy-MM-ddHH:mm:ss.SSS][TestNG-test=chromeTest-1]utils.LoggerLoad1)-getdriver
+['INFO ]2023-05-12 10:11:15,009(yyyy-MM-ddHH:mm:ss.SSS][TestNG-test=chromeTest-1]utils.LoggerLoad1)-enter getdriver
+['INFO ]2023-05-12 10:11:15,009(yyyy-MM-ddHH:mm:ss.SSS][TestNG-test=chromeTest-1]utils.LoggerLoad1)-enter getdriver
+['INFO ]2023-05-12 10:11:15,214(yyyy-MM-ddHH:mm:ss.SSS][TestNG-test=chromeTest-1]utils.LoggerLoad1)-User Enter username as "  "and Password as " himasdet109" 
+['INFO ]2023-05-12 10:11:15,499(yyyy-MM-ddHH:mm:ss.SSS][TestNG-test=chromeTest-1]utils.LoggerLoad1)-User clicks on login button
+['INFO ]2023-05-12 10:11:15,499(yyyy-MM-ddHH:mm:ss.SSS][TestNG-test=chromeTest-1]utils.LoggerLoad1)-Expected Message - Excel Sheet :  Please fill out this field.
+['INFO ]2023-05-12 10:11:16,656(yyyy-MM-ddHH:mm:ss.SSS][TestNG-test=chromeTest-1]utils.LoggerLoad1)-Please fill out this field.
+['INFO ]2023-05-12 10:11:16,679(yyyy-MM-ddHH:mm:ss.SSS][TestNG-test=chromeTest-1]utils.LoggerLoad1)-enter getdriver
+['INFO ]2023-05-12 10:11:16,679(yyyy-MM-ddHH:mm:ss.SSS][TestNG-test=chromeTest-1]utils.LoggerLoad1)-driver setup
+['INFO ]2023-05-12 10:11:16,679(yyyy-MM-ddHH:mm:ss.SSS][TestNG-test=chromeTest-1]utils.LoggerLoad1)-enter getdriver
+['INFO ]2023-05-12 10:11:16,679(yyyy-MM-ddHH:mm:ss.SSS][TestNG-test=chromeTest-1]utils.LoggerLoad1)-getdriver
+['INFO ]2023-05-12 10:11:16,679(yyyy-MM-ddHH:mm:ss.SSS][TestNG-test=chromeTest-1]utils.LoggerLoad1)-enter getdriver
+['INFO ]2023-05-12 10:11:16,679(yyyy-MM-ddHH:mm:ss.SSS][TestNG-test=chromeTest-1]utils.LoggerLoad1)-enter getdriver
+['INFO ]2023-05-12 10:11:16,946(yyyy-MM-ddHH:mm:ss.SSS][TestNG-test=chromeTest-1]utils.LoggerLoad1)-User Enter username as " hima109 "and Password as " sdet109" 
+['INFO ]2023-05-12 10:11:17,161(yyyy-MM-ddHH:mm:ss.SSS][TestNG-test=chromeTest-1]utils.LoggerLoad1)-User clicks on login button
+['INFO ]2023-05-12 10:11:17,161(yyyy-MM-ddHH:mm:ss.SSS][TestNG-test=chromeTest-1]utils.LoggerLoad1)-Expected Message - Excel Sheet :  Inavalid Username and Password
+['INFO ]2023-05-12 10:11:17,463(yyyy-MM-ddHH:mm:ss.SSS][TestNG-test=chromeTest-1]utils.LoggerLoad1)-enter getdriver
+['INFO ]2023-05-12 10:11:17,463(yyyy-MM-ddHH:mm:ss.SSS][TestNG-test=chromeTest-1]utils.LoggerLoad1)-driver setup
+['INFO ]2023-05-12 10:11:17,463(yyyy-MM-ddHH:mm:ss.SSS][TestNG-test=chromeTest-1]utils.LoggerLoad1)-enter getdriver
+['INFO ]2023-05-12 10:11:17,463(yyyy-MM-ddHH:mm:ss.SSS][TestNG-test=chromeTest-1]utils.LoggerLoad1)-getdriver
+['INFO ]2023-05-12 10:11:17,464(yyyy-MM-ddHH:mm:ss.SSS][TestNG-test=chromeTest-1]utils.LoggerLoad1)-enter getdriver
+['INFO ]2023-05-12 10:11:17,464(yyyy-MM-ddHH:mm:ss.SSS][TestNG-test=chromeTest-1]utils.LoggerLoad1)-enter getdriver
+['INFO ]2023-05-12 10:11:17,595(yyyy-MM-ddHH:mm:ss.SSS][TestNG-test=chromeTest-1]utils.LoggerLoad1)-User Enter username as " nitha "and Password as " nithasdet109" 
+['INFO ]2023-05-12 10:11:17,803(yyyy-MM-ddHH:mm:ss.SSS][TestNG-test=chromeTest-1]utils.LoggerLoad1)-User clicks on login button
+['INFO ]2023-05-12 10:11:17,803(yyyy-MM-ddHH:mm:ss.SSS][TestNG-test=chromeTest-1]utils.LoggerLoad1)-Expected Message - Excel Sheet :  You are logged in
+['INFO ]2023-05-12 10:11:18,195(yyyy-MM-ddHH:mm:ss.SSS][TestNG-test=chromeTest-1]utils.LoggerLoad1)-enter getdriver
+['INFO ]2023-05-12 10:11:18,195(yyyy-MM-ddHH:mm:ss.SSS][TestNG-test=chromeTest-1]utils.LoggerLoad1)-driver setup
+['INFO ]2023-05-12 10:11:18,195(yyyy-MM-ddHH:mm:ss.SSS][TestNG-test=chromeTest-1]utils.LoggerLoad1)-enter getdriver
+['INFO ]2023-05-12 10:11:18,195(yyyy-MM-ddHH:mm:ss.SSS][TestNG-test=chromeTest-1]utils.LoggerLoad1)-getdriver
+['INFO ]2023-05-12 10:11:18,196(yyyy-MM-ddHH:mm:ss.SSS][TestNG-test=chromeTest-1]utils.LoggerLoad1)-enter getdriver
+['INFO ]2023-05-12 10:11:18,879(yyyy-MM-ddHH:mm:ss.SSS][TestNG-test=chromeTest-1]utils.LoggerLoad1)-enter getdriver
+['INFO ]2023-05-12 10:11:29,661(yyyy-MM-ddHH:mm:ss.SSS][TestNG-test=chromeTest-1]utils.LoggerLoad1)-Arrays valid output= Hello
+['INFO ]2023-05-12 10:11:29,661(yyyy-MM-ddHH:mm:ss.SSS][TestNG-test=chromeTest-1]utils.LoggerLoad1)-enter getdriver
+['INFO ]2023-05-12 10:11:29,759(yyyy-MM-ddHH:mm:ss.SSS][TestNG-test=chromeTest-1]utils.LoggerLoad1)-enter getdriver
+['INFO ]2023-05-12 10:11:29,760(yyyy-MM-ddHH:mm:ss.SSS][TestNG-test=chromeTest-1]utils.LoggerLoad1)-driver setup
+['INFO ]2023-05-12 10:11:29,761(yyyy-MM-ddHH:mm:ss.SSS][TestNG-test=chromeTest-1]utils.LoggerLoad1)-enter getdriver
+['INFO ]2023-05-12 10:11:29,762(yyyy-MM-ddHH:mm:ss.SSS][TestNG-test=chromeTest-1]utils.LoggerLoad1)-getdriver
+['INFO ]2023-05-12 10:11:29,762(yyyy-MM-ddHH:mm:ss.SSS][TestNG-test=chromeTest-1]utils.LoggerLoad1)-enter getdriver
+['INFO ]2023-05-12 10:11:30,470(yyyy-MM-ddHH:mm:ss.SSS][TestNG-test=chromeTest-1]utils.LoggerLoad1)-Arrays invalid output= 
+['INFO ]2023-05-12 10:11:30,612(yyyy-MM-ddHH:mm:ss.SSS][TestNG-test=chromeTest-1]utils.LoggerLoad1)-enter getdriver
+['INFO ]2023-05-12 10:11:30,721(yyyy-MM-ddHH:mm:ss.SSS][TestNG-test=chromeTest-1]utils.LoggerLoad1)-enter getdriver
+['INFO ]2023-05-12 10:11:30,721(yyyy-MM-ddHH:mm:ss.SSS][TestNG-test=chromeTest-1]utils.LoggerLoad1)-driver setup
+['INFO ]2023-05-12 10:11:30,722(yyyy-MM-ddHH:mm:ss.SSS][TestNG-test=chromeTest-1]utils.LoggerLoad1)-enter getdriver
+['INFO ]2023-05-12 10:11:30,723(yyyy-MM-ddHH:mm:ss.SSS][TestNG-test=chromeTest-1]utils.LoggerLoad1)-getdriver
+['INFO ]2023-05-12 10:11:30,723(yyyy-MM-ddHH:mm:ss.SSS][TestNG-test=chromeTest-1]utils.LoggerLoad1)-enter getdriver
+['INFO ]2023-05-12 10:11:31,213(yyyy-MM-ddHH:mm:ss.SSS][TestNG-test=EdgeTest-1]utils.LoggerLoad1)-enter getdriver
+['INFO ]2023-05-12 10:11:31,214(yyyy-MM-ddHH:mm:ss.SSS][TestNG-test=EdgeTest-1]utils.LoggerLoad1)-driver setup
+['INFO ]2023-05-12 10:11:31,214(yyyy-MM-ddHH:mm:ss.SSS][TestNG-test=EdgeTest-1]utils.LoggerLoad1)-enter getdriver
+['INFO ]2023-05-12 10:11:31,215(yyyy-MM-ddHH:mm:ss.SSS][TestNG-test=EdgeTest-1]utils.LoggerLoad1)-getdriver
+['INFO ]2023-05-12 10:11:31,215(yyyy-MM-ddHH:mm:ss.SSS][TestNG-test=EdgeTest-1]utils.LoggerLoad1)-enter getdriver
+['INFO ]2023-05-12 10:11:31,216(yyyy-MM-ddHH:mm:ss.SSS][TestNG-test=EdgeTest-1]utils.LoggerLoad1)-launch browser
+['INFO ]2023-05-12 10:11:31,216(yyyy-MM-ddHH:mm:ss.SSS][TestNG-test=EdgeTest-1]utils.LoggerLoad1)-enter getdriver
+['INFO ]2023-05-12 10:11:32,281(yyyy-MM-ddHH:mm:ss.SSS][TestNG-test=EdgeTest-1]utils.LoggerLoad1)-Portal opened
+['INFO ]2023-05-12 10:11:32,575(yyyy-MM-ddHH:mm:ss.SSS][TestNG-test=EdgeTest-1]utils.LoggerLoad1)-Clicked Getstarted button
+['INFO ]2023-05-12 10:11:32,576(yyyy-MM-ddHH:mm:ss.SSS][TestNG-test=EdgeTest-1]utils.LoggerLoad1)-enter getdriver
+['INFO ]2023-05-12 10:11:32,584(yyyy-MM-ddHH:mm:ss.SSS][TestNG-test=EdgeTest-1]utils.LoggerLoad1)-user navigated to Homepage
+['INFO ]2023-05-12 10:11:32,600(yyyy-MM-ddHH:mm:ss.SSS][TestNG-test=EdgeTest-1]utils.LoggerLoad1)-enter getdriver
+['INFO ]2023-05-12 10:11:32,600(yyyy-MM-ddHH:mm:ss.SSS][TestNG-test=EdgeTest-1]utils.LoggerLoad1)-driver setup
+['INFO ]2023-05-12 10:11:32,600(yyyy-MM-ddHH:mm:ss.SSS][TestNG-test=EdgeTest-1]utils.LoggerLoad1)-enter getdriver
+['INFO ]2023-05-12 10:11:32,600(yyyy-MM-ddHH:mm:ss.SSS][TestNG-test=EdgeTest-1]utils.LoggerLoad1)-getdriver
+['INFO ]2023-05-12 10:11:32,603(yyyy-MM-ddHH:mm:ss.SSS][TestNG-test=EdgeTest-1]utils.LoggerLoad1)-enter getdriver
+['INFO ]2023-05-12 10:11:32,604(yyyy-MM-ddHH:mm:ss.SSS][TestNG-test=EdgeTest-1]utils.LoggerLoad1)-enter getdriver
+['INFO ]2023-05-12 10:11:32,749(yyyy-MM-ddHH:mm:ss.SSS][TestNG-test=EdgeTest-1]utils.LoggerLoad1)-User Enter username as " hima "and Password as " " 
+['INFO ]2023-05-12 10:11:32,939(yyyy-MM-ddHH:mm:ss.SSS][TestNG-test=EdgeTest-1]utils.LoggerLoad1)-User clicks on login button
+['INFO ]2023-05-12 10:11:32,941(yyyy-MM-ddHH:mm:ss.SSS][TestNG-test=EdgeTest-1]utils.LoggerLoad1)-Expected Message - Excel Sheet :  Please fill out this field.
+['INFO ]2023-05-12 10:11:33,033(yyyy-MM-ddHH:mm:ss.SSS][TestNG-test=EdgeTest-1]utils.LoggerLoad1)-
+['INFO ]2023-05-12 10:11:33,068(yyyy-MM-ddHH:mm:ss.SSS][TestNG-test=EdgeTest-1]utils.LoggerLoad1)-enter getdriver
+['INFO ]2023-05-12 10:11:33,068(yyyy-MM-ddHH:mm:ss.SSS][TestNG-test=EdgeTest-1]utils.LoggerLoad1)-driver setup
+['INFO ]2023-05-12 10:11:33,068(yyyy-MM-ddHH:mm:ss.SSS][TestNG-test=EdgeTest-1]utils.LoggerLoad1)-enter getdriver
+['INFO ]2023-05-12 10:11:33,068(yyyy-MM-ddHH:mm:ss.SSS][TestNG-test=EdgeTest-1]utils.LoggerLoad1)-getdriver
+['INFO ]2023-05-12 10:11:33,071(yyyy-MM-ddHH:mm:ss.SSS][TestNG-test=EdgeTest-1]utils.LoggerLoad1)-enter getdriver
+['INFO ]2023-05-12 10:11:33,071(yyyy-MM-ddHH:mm:ss.SSS][TestNG-test=EdgeTest-1]utils.LoggerLoad1)-enter getdriver
+['INFO ]2023-05-12 10:11:33,222(yyyy-MM-ddHH:mm:ss.SSS][TestNG-test=EdgeTest-1]utils.LoggerLoad1)-User Enter username as "  "and Password as " himasdet109" 
+['INFO ]2023-05-12 10:11:33,393(yyyy-MM-ddHH:mm:ss.SSS][TestNG-test=EdgeTest-1]utils.LoggerLoad1)-User clicks on login button
+['INFO ]2023-05-12 10:11:33,393(yyyy-MM-ddHH:mm:ss.SSS][TestNG-test=EdgeTest-1]utils.LoggerLoad1)-Expected Message - Excel Sheet :  Please fill out this field.
+['INFO ]2023-05-12 10:11:34,543(yyyy-MM-ddHH:mm:ss.SSS][TestNG-test=EdgeTest-1]utils.LoggerLoad1)-Please fill out this field.
+['INFO ]2023-05-12 10:11:34,569(yyyy-MM-ddHH:mm:ss.SSS][TestNG-test=EdgeTest-1]utils.LoggerLoad1)-enter getdriver
+['INFO ]2023-05-12 10:11:34,570(yyyy-MM-ddHH:mm:ss.SSS][TestNG-test=EdgeTest-1]utils.LoggerLoad1)-driver setup
+['INFO ]2023-05-12 10:11:34,570(yyyy-MM-ddHH:mm:ss.SSS][TestNG-test=EdgeTest-1]utils.LoggerLoad1)-enter getdriver
+['INFO ]2023-05-12 10:11:34,571(yyyy-MM-ddHH:mm:ss.SSS][TestNG-test=EdgeTest-1]utils.LoggerLoad1)-getdriver
+['INFO ]2023-05-12 10:11:34,571(yyyy-MM-ddHH:mm:ss.SSS][TestNG-test=EdgeTest-1]utils.LoggerLoad1)-enter getdriver
+['INFO ]2023-05-12 10:11:34,571(yyyy-MM-ddHH:mm:ss.SSS][TestNG-test=EdgeTest-1]utils.LoggerLoad1)-enter getdriver
+['INFO ]2023-05-12 10:11:34,723(yyyy-MM-ddHH:mm:ss.SSS][TestNG-test=EdgeTest-1]utils.LoggerLoad1)-User Enter username as " hima109 "and Password as " sdet109" 
+['INFO ]2023-05-12 10:11:34,911(yyyy-MM-ddHH:mm:ss.SSS][TestNG-test=EdgeTest-1]utils.LoggerLoad1)-User clicks on login button
+['INFO ]2023-05-12 10:11:34,911(yyyy-MM-ddHH:mm:ss.SSS][TestNG-test=EdgeTest-1]utils.LoggerLoad1)-Expected Message - Excel Sheet :  Inavalid Username and Password
+['INFO ]2023-05-12 10:11:35,157(yyyy-MM-ddHH:mm:ss.SSS][TestNG-test=EdgeTest-1]utils.LoggerLoad1)-enter getdriver
+['INFO ]2023-05-12 10:11:35,157(yyyy-MM-ddHH:mm:ss.SSS][TestNG-test=EdgeTest-1]utils.LoggerLoad1)-driver setup
+['INFO ]2023-05-12 10:11:35,157(yyyy-MM-ddHH:mm:ss.SSS][TestNG-test=EdgeTest-1]utils.LoggerLoad1)-enter getdriver
+['INFO ]2023-05-12 10:11:35,157(yyyy-MM-ddHH:mm:ss.SSS][TestNG-test=EdgeTest-1]utils.LoggerLoad1)-getdriver
+['INFO ]2023-05-12 10:11:35,158(yyyy-MM-ddHH:mm:ss.SSS][TestNG-test=EdgeTest-1]utils.LoggerLoad1)-enter getdriver
+['INFO ]2023-05-12 10:11:35,158(yyyy-MM-ddHH:mm:ss.SSS][TestNG-test=EdgeTest-1]utils.LoggerLoad1)-enter getdriver
+['INFO ]2023-05-12 10:11:35,362(yyyy-MM-ddHH:mm:ss.SSS][TestNG-test=EdgeTest-1]utils.LoggerLoad1)-User Enter username as " nitha "and Password as " nithasdet109" 
+['INFO ]2023-05-12 10:11:35,566(yyyy-MM-ddHH:mm:ss.SSS][TestNG-test=EdgeTest-1]utils.LoggerLoad1)-User clicks on login button
+['INFO ]2023-05-12 10:11:35,566(yyyy-MM-ddHH:mm:ss.SSS][TestNG-test=EdgeTest-1]utils.LoggerLoad1)-Expected Message - Excel Sheet :  You are logged in
+['INFO ]2023-05-12 10:11:36,041(yyyy-MM-ddHH:mm:ss.SSS][TestNG-test=EdgeTest-1]utils.LoggerLoad1)-enter getdriver
+['INFO ]2023-05-12 10:11:36,041(yyyy-MM-ddHH:mm:ss.SSS][TestNG-test=EdgeTest-1]utils.LoggerLoad1)-driver setup
+['INFO ]2023-05-12 10:11:36,041(yyyy-MM-ddHH:mm:ss.SSS][TestNG-test=EdgeTest-1]utils.LoggerLoad1)-enter getdriver
+['INFO ]2023-05-12 10:11:36,041(yyyy-MM-ddHH:mm:ss.SSS][TestNG-test=EdgeTest-1]utils.LoggerLoad1)-getdriver
+['INFO ]2023-05-12 10:11:36,042(yyyy-MM-ddHH:mm:ss.SSS][TestNG-test=EdgeTest-1]utils.LoggerLoad1)-enter getdriver
+['INFO ]2023-05-12 10:11:36,384(yyyy-MM-ddHH:mm:ss.SSS][TestNG-test=EdgeTest-1]utils.LoggerLoad1)-enter getdriver
+['INFO ]2023-05-12 10:11:37,818(yyyy-MM-ddHH:mm:ss.SSS][TestNG-test=EdgeTest-1]utils.LoggerLoad1)-Arrays valid output= Hello
+['INFO ]2023-05-12 10:11:37,818(yyyy-MM-ddHH:mm:ss.SSS][TestNG-test=EdgeTest-1]utils.LoggerLoad1)-enter getdriver
+['INFO ]2023-05-12 10:11:37,905(yyyy-MM-ddHH:mm:ss.SSS][TestNG-test=EdgeTest-1]utils.LoggerLoad1)-enter getdriver
+['INFO ]2023-05-12 10:11:37,906(yyyy-MM-ddHH:mm:ss.SSS][TestNG-test=EdgeTest-1]utils.LoggerLoad1)-driver setup
+['INFO ]2023-05-12 10:11:37,906(yyyy-MM-ddHH:mm:ss.SSS][TestNG-test=EdgeTest-1]utils.LoggerLoad1)-enter getdriver
+['INFO ]2023-05-12 10:11:37,906(yyyy-MM-ddHH:mm:ss.SSS][TestNG-test=EdgeTest-1]utils.LoggerLoad1)-getdriver
+['INFO ]2023-05-12 10:11:37,907(yyyy-MM-ddHH:mm:ss.SSS][TestNG-test=EdgeTest-1]utils.LoggerLoad1)-enter getdriver
+['INFO ]2023-05-12 10:11:38,236(yyyy-MM-ddHH:mm:ss.SSS][TestNG-test=EdgeTest-1]utils.LoggerLoad1)-Arrays invalid output= 
+['INFO ]2023-05-12 10:11:38,354(yyyy-MM-ddHH:mm:ss.SSS][TestNG-test=EdgeTest-1]utils.LoggerLoad1)-enter getdriver
+['INFO ]2023-05-12 10:11:38,455(yyyy-MM-ddHH:mm:ss.SSS][TestNG-test=EdgeTest-1]utils.LoggerLoad1)-enter getdriver
+['INFO ]2023-05-12 10:11:38,455(yyyy-MM-ddHH:mm:ss.SSS][TestNG-test=EdgeTest-1]utils.LoggerLoad1)-driver setup
+['INFO ]2023-05-12 10:11:38,457(yyyy-MM-ddHH:mm:ss.SSS][TestNG-test=EdgeTest-1]utils.LoggerLoad1)-enter getdriver
+['INFO ]2023-05-12 10:11:38,457(yyyy-MM-ddHH:mm:ss.SSS][TestNG-test=EdgeTest-1]utils.LoggerLoad1)-getdriver
+['INFO ]2023-05-12 10:11:38,458(yyyy-MM-ddHH:mm:ss.SSS][TestNG-test=EdgeTest-1]utils.LoggerLoad1)-enter getdriver
+['INFO ]2023-05-12 10:16:39,752(yyyy-MM-ddHH:mm:ss.SSS][TestNG-test=chromeTest-1]utils.LoggerLoad1)-enter getdriver
+['INFO ]2023-05-12 10:16:39,759(yyyy-MM-ddHH:mm:ss.SSS][TestNG-test=chromeTest-1]utils.LoggerLoad1)-enter getchromedriver
+['INFO ]2023-05-12 10:16:42,129(yyyy-MM-ddHH:mm:ss.SSS][TestNG-test=chromeTest-1]utils.LoggerLoad1)-enter getdriver
+['INFO ]2023-05-12 10:16:42,144(yyyy-MM-ddHH:mm:ss.SSS][TestNG-test=chromeTest-1]utils.LoggerLoad1)-enter getdriver
+['INFO ]2023-05-12 10:16:42,273(yyyy-MM-ddHH:mm:ss.SSS][TestNG-test=chromeTest-1]utils.LoggerLoad1)-enter getdriver
+['INFO ]2023-05-12 10:16:42,276(yyyy-MM-ddHH:mm:ss.SSS][TestNG-test=chromeTest-1]utils.LoggerLoad1)-driver setup
+['INFO ]2023-05-12 10:16:42,278(yyyy-MM-ddHH:mm:ss.SSS][TestNG-test=chromeTest-1]utils.LoggerLoad1)-enter getdriver
+['INFO ]2023-05-12 10:16:42,278(yyyy-MM-ddHH:mm:ss.SSS][TestNG-test=chromeTest-1]utils.LoggerLoad1)-getdriver
+['INFO ]2023-05-12 10:16:42,278(yyyy-MM-ddHH:mm:ss.SSS][TestNG-test=chromeTest-1]utils.LoggerLoad1)-enter getdriver
+['INFO ]2023-05-12 10:16:42,291(yyyy-MM-ddHH:mm:ss.SSS][TestNG-test=chromeTest-1]utils.LoggerLoad1)-launch browser
+['INFO ]2023-05-12 10:16:42,292(yyyy-MM-ddHH:mm:ss.SSS][TestNG-test=chromeTest-1]utils.LoggerLoad1)-enter getdriver
+['INFO ]2023-05-12 10:16:42,660(yyyy-MM-ddHH:mm:ss.SSS][TestNG-test=chromeTest-1]utils.LoggerLoad1)-Portal opened
+['INFO ]2023-05-12 10:16:43,284(yyyy-MM-ddHH:mm:ss.SSS][TestNG-test=chromeTest-1]utils.LoggerLoad1)-Clicked Getstarted button
+['INFO ]2023-05-12 10:16:43,286(yyyy-MM-ddHH:mm:ss.SSS][TestNG-test=chromeTest-1]utils.LoggerLoad1)-enter getdriver
+['INFO ]2023-05-12 10:16:43,294(yyyy-MM-ddHH:mm:ss.SSS][TestNG-test=chromeTest-1]utils.LoggerLoad1)-user navigated to Homepage
+['INFO ]2023-05-12 10:16:43,377(yyyy-MM-ddHH:mm:ss.SSS][TestNG-test=chromeTest-1]utils.LoggerLoad1)-enter getdriver
+['INFO ]2023-05-12 10:16:43,377(yyyy-MM-ddHH:mm:ss.SSS][TestNG-test=chromeTest-1]utils.LoggerLoad1)-driver setup
+['INFO ]2023-05-12 10:16:43,378(yyyy-MM-ddHH:mm:ss.SSS][TestNG-test=chromeTest-1]utils.LoggerLoad1)-enter getdriver
+['INFO ]2023-05-12 10:16:43,378(yyyy-MM-ddHH:mm:ss.SSS][TestNG-test=chromeTest-1]utils.LoggerLoad1)-getdriver
+['INFO ]2023-05-12 10:16:43,378(yyyy-MM-ddHH:mm:ss.SSS][TestNG-test=chromeTest-1]utils.LoggerLoad1)-enter getdriver
+['INFO ]2023-05-12 10:16:43,379(yyyy-MM-ddHH:mm:ss.SSS][TestNG-test=chromeTest-1]utils.LoggerLoad1)-enter getdriver
+['INFO ]2023-05-12 10:16:44,096(yyyy-MM-ddHH:mm:ss.SSS][TestNG-test=chromeTest-1]utils.LoggerLoad1)-User Enter username as " hima "and Password as " " 
+['INFO ]2023-05-12 10:16:44,253(yyyy-MM-ddHH:mm:ss.SSS][TestNG-test=chromeTest-1]utils.LoggerLoad1)-User clicks on login button
+['INFO ]2023-05-12 10:16:44,254(yyyy-MM-ddHH:mm:ss.SSS][TestNG-test=chromeTest-1]utils.LoggerLoad1)-Expected Message - Excel Sheet :  Please fill out this field.
+['INFO ]2023-05-12 10:16:44,405(yyyy-MM-ddHH:mm:ss.SSS][TestNG-test=chromeTest-1]utils.LoggerLoad1)-
+['INFO ]2023-05-12 10:16:44,444(yyyy-MM-ddHH:mm:ss.SSS][TestNG-test=chromeTest-1]utils.LoggerLoad1)-enter getdriver
+['INFO ]2023-05-12 10:16:44,445(yyyy-MM-ddHH:mm:ss.SSS][TestNG-test=chromeTest-1]utils.LoggerLoad1)-driver setup
+['INFO ]2023-05-12 10:16:44,446(yyyy-MM-ddHH:mm:ss.SSS][TestNG-test=chromeTest-1]utils.LoggerLoad1)-enter getdriver
+['INFO ]2023-05-12 10:16:44,446(yyyy-MM-ddHH:mm:ss.SSS][TestNG-test=chromeTest-1]utils.LoggerLoad1)-getdriver
+['INFO ]2023-05-12 10:16:44,464(yyyy-MM-ddHH:mm:ss.SSS][TestNG-test=chromeTest-1]utils.LoggerLoad1)-enter getdriver
+['INFO ]2023-05-12 10:16:44,465(yyyy-MM-ddHH:mm:ss.SSS][TestNG-test=chromeTest-1]utils.LoggerLoad1)-enter getdriver
+['INFO ]2023-05-12 10:16:44,626(yyyy-MM-ddHH:mm:ss.SSS][TestNG-test=chromeTest-1]utils.LoggerLoad1)-User Enter username as "  "and Password as " himasdet109" 
+['INFO ]2023-05-12 10:16:44,732(yyyy-MM-ddHH:mm:ss.SSS][TestNG-test=chromeTest-1]utils.LoggerLoad1)-User clicks on login button
+['INFO ]2023-05-12 10:16:44,733(yyyy-MM-ddHH:mm:ss.SSS][TestNG-test=chromeTest-1]utils.LoggerLoad1)-Expected Message - Excel Sheet :  Please fill out this field.
+['INFO ]2023-05-12 10:16:45,874(yyyy-MM-ddHH:mm:ss.SSS][TestNG-test=chromeTest-1]utils.LoggerLoad1)-Please fill out this field.
+['INFO ]2023-05-12 10:16:45,903(yyyy-MM-ddHH:mm:ss.SSS][TestNG-test=chromeTest-1]utils.LoggerLoad1)-enter getdriver
+['INFO ]2023-05-12 10:16:45,903(yyyy-MM-ddHH:mm:ss.SSS][TestNG-test=chromeTest-1]utils.LoggerLoad1)-driver setup
+['INFO ]2023-05-12 10:16:45,903(yyyy-MM-ddHH:mm:ss.SSS][TestNG-test=chromeTest-1]utils.LoggerLoad1)-enter getdriver
+['INFO ]2023-05-12 10:16:45,903(yyyy-MM-ddHH:mm:ss.SSS][TestNG-test=chromeTest-1]utils.LoggerLoad1)-getdriver
+['INFO ]2023-05-12 10:16:45,904(yyyy-MM-ddHH:mm:ss.SSS][TestNG-test=chromeTest-1]utils.LoggerLoad1)-enter getdriver
+['INFO ]2023-05-12 10:16:45,904(yyyy-MM-ddHH:mm:ss.SSS][TestNG-test=chromeTest-1]utils.LoggerLoad1)-enter getdriver
+['INFO ]2023-05-12 10:16:46,107(yyyy-MM-ddHH:mm:ss.SSS][TestNG-test=chromeTest-1]utils.LoggerLoad1)-User Enter username as " hima109 "and Password as " sdet109" 
+['INFO ]2023-05-12 10:16:46,255(yyyy-MM-ddHH:mm:ss.SSS][TestNG-test=chromeTest-1]utils.LoggerLoad1)-User clicks on login button
+['INFO ]2023-05-12 10:16:46,255(yyyy-MM-ddHH:mm:ss.SSS][TestNG-test=chromeTest-1]utils.LoggerLoad1)-Expected Message - Excel Sheet :  Inavalid Username and Password
+['INFO ]2023-05-12 10:16:46,504(yyyy-MM-ddHH:mm:ss.SSS][TestNG-test=chromeTest-1]utils.LoggerLoad1)-enter getdriver
+['INFO ]2023-05-12 10:16:46,504(yyyy-MM-ddHH:mm:ss.SSS][TestNG-test=chromeTest-1]utils.LoggerLoad1)-driver setup
+['INFO ]2023-05-12 10:16:46,504(yyyy-MM-ddHH:mm:ss.SSS][TestNG-test=chromeTest-1]utils.LoggerLoad1)-enter getdriver
+['INFO ]2023-05-12 10:16:46,505(yyyy-MM-ddHH:mm:ss.SSS][TestNG-test=chromeTest-1]utils.LoggerLoad1)-getdriver
+['INFO ]2023-05-12 10:16:46,505(yyyy-MM-ddHH:mm:ss.SSS][TestNG-test=chromeTest-1]utils.LoggerLoad1)-enter getdriver
+['INFO ]2023-05-12 10:16:46,505(yyyy-MM-ddHH:mm:ss.SSS][TestNG-test=chromeTest-1]utils.LoggerLoad1)-enter getdriver
+['INFO ]2023-05-12 10:16:46,623(yyyy-MM-ddHH:mm:ss.SSS][TestNG-test=chromeTest-1]utils.LoggerLoad1)-User Enter username as " nitha "and Password as " nithasdet109" 
+['INFO ]2023-05-12 10:16:46,804(yyyy-MM-ddHH:mm:ss.SSS][TestNG-test=chromeTest-1]utils.LoggerLoad1)-User clicks on login button
+['INFO ]2023-05-12 10:16:46,804(yyyy-MM-ddHH:mm:ss.SSS][TestNG-test=chromeTest-1]utils.LoggerLoad1)-Expected Message - Excel Sheet :  You are logged in
+['INFO ]2023-05-12 10:16:47,151(yyyy-MM-ddHH:mm:ss.SSS][TestNG-test=chromeTest-1]utils.LoggerLoad1)-enter getdriver
+['INFO ]2023-05-12 10:16:47,151(yyyy-MM-ddHH:mm:ss.SSS][TestNG-test=chromeTest-1]utils.LoggerLoad1)-driver setup
+['INFO ]2023-05-12 10:16:47,151(yyyy-MM-ddHH:mm:ss.SSS][TestNG-test=chromeTest-1]utils.LoggerLoad1)-enter getdriver
+['INFO ]2023-05-12 10:16:47,152(yyyy-MM-ddHH:mm:ss.SSS][TestNG-test=chromeTest-1]utils.LoggerLoad1)-getdriver
+['INFO ]2023-05-12 10:16:47,153(yyyy-MM-ddHH:mm:ss.SSS][TestNG-test=chromeTest-1]utils.LoggerLoad1)-enter getdriver
+['INFO ]2023-05-12 10:16:47,654(yyyy-MM-ddHH:mm:ss.SSS][TestNG-test=chromeTest-1]utils.LoggerLoad1)-enter getdriver
+['INFO ]2023-05-12 10:16:54,336(yyyy-MM-ddHH:mm:ss.SSS][TestNG-test=chromeTest-1]utils.LoggerLoad1)-Arrays valid output= Hello
+['INFO ]2023-05-12 10:16:54,336(yyyy-MM-ddHH:mm:ss.SSS][TestNG-test=chromeTest-1]utils.LoggerLoad1)-enter getdriver
+['INFO ]2023-05-12 10:16:54,429(yyyy-MM-ddHH:mm:ss.SSS][TestNG-test=chromeTest-1]utils.LoggerLoad1)-enter getdriver
+['INFO ]2023-05-12 10:16:54,429(yyyy-MM-ddHH:mm:ss.SSS][TestNG-test=chromeTest-1]utils.LoggerLoad1)-driver setup
+['INFO ]2023-05-12 10:16:54,429(yyyy-MM-ddHH:mm:ss.SSS][TestNG-test=chromeTest-1]utils.LoggerLoad1)-enter getdriver
+['INFO ]2023-05-12 10:16:54,430(yyyy-MM-ddHH:mm:ss.SSS][TestNG-test=chromeTest-1]utils.LoggerLoad1)-getdriver
+['INFO ]2023-05-12 10:16:54,431(yyyy-MM-ddHH:mm:ss.SSS][TestNG-test=chromeTest-1]utils.LoggerLoad1)-enter getdriver
+['INFO ]2023-05-12 10:16:54,637(yyyy-MM-ddHH:mm:ss.SSS][TestNG-test=chromeTest-1]utils.LoggerLoad1)-Arrays invalid output= 
+['INFO ]2023-05-12 10:16:54,770(yyyy-MM-ddHH:mm:ss.SSS][TestNG-test=chromeTest-1]utils.LoggerLoad1)-enter getdriver
+['INFO ]2023-05-12 10:16:54,874(yyyy-MM-ddHH:mm:ss.SSS][TestNG-test=chromeTest-1]utils.LoggerLoad1)-enter getdriver
+['INFO ]2023-05-12 10:16:54,874(yyyy-MM-ddHH:mm:ss.SSS][TestNG-test=chromeTest-1]utils.LoggerLoad1)-driver setup
+['INFO ]2023-05-12 10:16:54,875(yyyy-MM-ddHH:mm:ss.SSS][TestNG-test=chromeTest-1]utils.LoggerLoad1)-enter getdriver
+['INFO ]2023-05-12 10:16:54,875(yyyy-MM-ddHH:mm:ss.SSS][TestNG-test=chromeTest-1]utils.LoggerLoad1)-getdriver
+['INFO ]2023-05-12 10:16:54,876(yyyy-MM-ddHH:mm:ss.SSS][TestNG-test=chromeTest-1]utils.LoggerLoad1)-enter getdriver
+['INFO ]2023-05-12 10:16:55,305(yyyy-MM-ddHH:mm:ss.SSS][TestNG-test=EdgeTest-1]utils.LoggerLoad1)-enter getdriver
+['INFO ]2023-05-12 10:16:55,305(yyyy-MM-ddHH:mm:ss.SSS][TestNG-test=EdgeTest-1]utils.LoggerLoad1)-driver setup
+['INFO ]2023-05-12 10:16:55,305(yyyy-MM-ddHH:mm:ss.SSS][TestNG-test=EdgeTest-1]utils.LoggerLoad1)-enter getdriver
+['INFO ]2023-05-12 10:16:55,305(yyyy-MM-ddHH:mm:ss.SSS][TestNG-test=EdgeTest-1]utils.LoggerLoad1)-getdriver
+['INFO ]2023-05-12 10:16:55,306(yyyy-MM-ddHH:mm:ss.SSS][TestNG-test=EdgeTest-1]utils.LoggerLoad1)-enter getdriver
+['INFO ]2023-05-12 10:16:55,306(yyyy-MM-ddHH:mm:ss.SSS][TestNG-test=EdgeTest-1]utils.LoggerLoad1)-launch browser
+['INFO ]2023-05-12 10:16:55,307(yyyy-MM-ddHH:mm:ss.SSS][TestNG-test=EdgeTest-1]utils.LoggerLoad1)-enter getdriver
+['INFO ]2023-05-12 10:16:55,426(yyyy-MM-ddHH:mm:ss.SSS][TestNG-test=EdgeTest-1]utils.LoggerLoad1)-Portal opened
+['INFO ]2023-05-12 10:16:55,852(yyyy-MM-ddHH:mm:ss.SSS][TestNG-test=EdgeTest-1]utils.LoggerLoad1)-Clicked Getstarted button
+['INFO ]2023-05-12 10:16:55,854(yyyy-MM-ddHH:mm:ss.SSS][TestNG-test=EdgeTest-1]utils.LoggerLoad1)-enter getdriver
+['INFO ]2023-05-12 10:16:55,864(yyyy-MM-ddHH:mm:ss.SSS][TestNG-test=EdgeTest-1]utils.LoggerLoad1)-user navigated to Homepage
+['INFO ]2023-05-12 10:16:55,879(yyyy-MM-ddHH:mm:ss.SSS][TestNG-test=EdgeTest-1]utils.LoggerLoad1)-enter getdriver
+['INFO ]2023-05-12 10:16:55,879(yyyy-MM-ddHH:mm:ss.SSS][TestNG-test=EdgeTest-1]utils.LoggerLoad1)-driver setup
+['INFO ]2023-05-12 10:16:55,880(yyyy-MM-ddHH:mm:ss.SSS][TestNG-test=EdgeTest-1]utils.LoggerLoad1)-enter getdriver
+['INFO ]2023-05-12 10:16:55,880(yyyy-MM-ddHH:mm:ss.SSS][TestNG-test=EdgeTest-1]utils.LoggerLoad1)-getdriver
+['INFO ]2023-05-12 10:16:55,881(yyyy-MM-ddHH:mm:ss.SSS][TestNG-test=EdgeTest-1]utils.LoggerLoad1)-enter getdriver
+['INFO ]2023-05-12 10:16:55,883(yyyy-MM-ddHH:mm:ss.SSS][TestNG-test=EdgeTest-1]utils.LoggerLoad1)-enter getdriver
+['INFO ]2023-05-12 10:16:56,042(yyyy-MM-ddHH:mm:ss.SSS][TestNG-test=EdgeTest-1]utils.LoggerLoad1)-User Enter username as " hima "and Password as " " 
+['INFO ]2023-05-12 10:16:56,262(yyyy-MM-ddHH:mm:ss.SSS][TestNG-test=EdgeTest-1]utils.LoggerLoad1)-User clicks on login button
+['INFO ]2023-05-12 10:16:56,263(yyyy-MM-ddHH:mm:ss.SSS][TestNG-test=EdgeTest-1]utils.LoggerLoad1)-Expected Message - Excel Sheet :  Please fill out this field.
+['INFO ]2023-05-12 10:16:56,384(yyyy-MM-ddHH:mm:ss.SSS][TestNG-test=EdgeTest-1]utils.LoggerLoad1)-
+['INFO ]2023-05-12 10:16:56,411(yyyy-MM-ddHH:mm:ss.SSS][TestNG-test=EdgeTest-1]utils.LoggerLoad1)-enter getdriver
+['INFO ]2023-05-12 10:16:56,411(yyyy-MM-ddHH:mm:ss.SSS][TestNG-test=EdgeTest-1]utils.LoggerLoad1)-driver setup
+['INFO ]2023-05-12 10:16:56,411(yyyy-MM-ddHH:mm:ss.SSS][TestNG-test=EdgeTest-1]utils.LoggerLoad1)-enter getdriver
+['INFO ]2023-05-12 10:16:56,412(yyyy-MM-ddHH:mm:ss.SSS][TestNG-test=EdgeTest-1]utils.LoggerLoad1)-getdriver
+['INFO ]2023-05-12 10:16:56,412(yyyy-MM-ddHH:mm:ss.SSS][TestNG-test=EdgeTest-1]utils.LoggerLoad1)-enter getdriver
+['INFO ]2023-05-12 10:16:56,412(yyyy-MM-ddHH:mm:ss.SSS][TestNG-test=EdgeTest-1]utils.LoggerLoad1)-enter getdriver
+['INFO ]2023-05-12 10:16:56,684(yyyy-MM-ddHH:mm:ss.SSS][TestNG-test=EdgeTest-1]utils.LoggerLoad1)-User Enter username as "  "and Password as " himasdet109" 
+['INFO ]2023-05-12 10:16:56,862(yyyy-MM-ddHH:mm:ss.SSS][TestNG-test=EdgeTest-1]utils.LoggerLoad1)-User clicks on login button
+['INFO ]2023-05-12 10:16:56,862(yyyy-MM-ddHH:mm:ss.SSS][TestNG-test=EdgeTest-1]utils.LoggerLoad1)-Expected Message - Excel Sheet :  Please fill out this field.
+['INFO ]2023-05-12 10:16:58,006(yyyy-MM-ddHH:mm:ss.SSS][TestNG-test=EdgeTest-1]utils.LoggerLoad1)-Please fill out this field.
+['INFO ]2023-05-12 10:16:58,027(yyyy-MM-ddHH:mm:ss.SSS][TestNG-test=EdgeTest-1]utils.LoggerLoad1)-enter getdriver
+['INFO ]2023-05-12 10:16:58,027(yyyy-MM-ddHH:mm:ss.SSS][TestNG-test=EdgeTest-1]utils.LoggerLoad1)-driver setup
+['INFO ]2023-05-12 10:16:58,027(yyyy-MM-ddHH:mm:ss.SSS][TestNG-test=EdgeTest-1]utils.LoggerLoad1)-enter getdriver
+['INFO ]2023-05-12 10:16:58,027(yyyy-MM-ddHH:mm:ss.SSS][TestNG-test=EdgeTest-1]utils.LoggerLoad1)-getdriver
+['INFO ]2023-05-12 10:16:58,029(yyyy-MM-ddHH:mm:ss.SSS][TestNG-test=EdgeTest-1]utils.LoggerLoad1)-enter getdriver
+['INFO ]2023-05-12 10:16:58,029(yyyy-MM-ddHH:mm:ss.SSS][TestNG-test=EdgeTest-1]utils.LoggerLoad1)-enter getdriver
+['INFO ]2023-05-12 10:16:58,219(yyyy-MM-ddHH:mm:ss.SSS][TestNG-test=EdgeTest-1]utils.LoggerLoad1)-User Enter username as " hima109 "and Password as " sdet109" 
+['INFO ]2023-05-12 10:16:58,437(yyyy-MM-ddHH:mm:ss.SSS][TestNG-test=EdgeTest-1]utils.LoggerLoad1)-User clicks on login button
+['INFO ]2023-05-12 10:16:58,437(yyyy-MM-ddHH:mm:ss.SSS][TestNG-test=EdgeTest-1]utils.LoggerLoad1)-Expected Message - Excel Sheet :  Inavalid Username and Password
+['INFO ]2023-05-12 10:16:58,669(yyyy-MM-ddHH:mm:ss.SSS][TestNG-test=EdgeTest-1]utils.LoggerLoad1)-enter getdriver
+['INFO ]2023-05-12 10:16:58,669(yyyy-MM-ddHH:mm:ss.SSS][TestNG-test=EdgeTest-1]utils.LoggerLoad1)-driver setup
+['INFO ]2023-05-12 10:16:58,670(yyyy-MM-ddHH:mm:ss.SSS][TestNG-test=EdgeTest-1]utils.LoggerLoad1)-enter getdriver
+['INFO ]2023-05-12 10:16:58,670(yyyy-MM-ddHH:mm:ss.SSS][TestNG-test=EdgeTest-1]utils.LoggerLoad1)-getdriver
+['INFO ]2023-05-12 10:16:58,670(yyyy-MM-ddHH:mm:ss.SSS][TestNG-test=EdgeTest-1]utils.LoggerLoad1)-enter getdriver
+['INFO ]2023-05-12 10:16:58,670(yyyy-MM-ddHH:mm:ss.SSS][TestNG-test=EdgeTest-1]utils.LoggerLoad1)-enter getdriver
+['INFO ]2023-05-12 10:16:58,805(yyyy-MM-ddHH:mm:ss.SSS][TestNG-test=EdgeTest-1]utils.LoggerLoad1)-User Enter username as " nitha "and Password as " nithasdet109" 
+['INFO ]2023-05-12 10:16:59,014(yyyy-MM-ddHH:mm:ss.SSS][TestNG-test=EdgeTest-1]utils.LoggerLoad1)-User clicks on login button
+['INFO ]2023-05-12 10:16:59,015(yyyy-MM-ddHH:mm:ss.SSS][TestNG-test=EdgeTest-1]utils.LoggerLoad1)-Expected Message - Excel Sheet :  You are logged in
+['INFO ]2023-05-12 10:16:59,484(yyyy-MM-ddHH:mm:ss.SSS][TestNG-test=EdgeTest-1]utils.LoggerLoad1)-enter getdriver
+['INFO ]2023-05-12 10:16:59,484(yyyy-MM-ddHH:mm:ss.SSS][TestNG-test=EdgeTest-1]utils.LoggerLoad1)-driver setup
+['INFO ]2023-05-12 10:16:59,484(yyyy-MM-ddHH:mm:ss.SSS][TestNG-test=EdgeTest-1]utils.LoggerLoad1)-enter getdriver
+['INFO ]2023-05-12 10:16:59,484(yyyy-MM-ddHH:mm:ss.SSS][TestNG-test=EdgeTest-1]utils.LoggerLoad1)-getdriver
+['INFO ]2023-05-12 10:16:59,484(yyyy-MM-ddHH:mm:ss.SSS][TestNG-test=EdgeTest-1]utils.LoggerLoad1)-enter getdriver
+['INFO ]2023-05-12 10:16:59,856(yyyy-MM-ddHH:mm:ss.SSS][TestNG-test=EdgeTest-1]utils.LoggerLoad1)-enter getdriver
+['INFO ]2023-05-12 10:17:00,487(yyyy-MM-ddHH:mm:ss.SSS][TestNG-test=EdgeTest-1]utils.LoggerLoad1)-Arrays valid output= Hello
+['INFO ]2023-05-12 10:17:00,487(yyyy-MM-ddHH:mm:ss.SSS][TestNG-test=EdgeTest-1]utils.LoggerLoad1)-enter getdriver
+['INFO ]2023-05-12 10:17:00,569(yyyy-MM-ddHH:mm:ss.SSS][TestNG-test=EdgeTest-1]utils.LoggerLoad1)-enter getdriver
+['INFO ]2023-05-12 10:17:00,569(yyyy-MM-ddHH:mm:ss.SSS][TestNG-test=EdgeTest-1]utils.LoggerLoad1)-driver setup
+['INFO ]2023-05-12 10:17:00,569(yyyy-MM-ddHH:mm:ss.SSS][TestNG-test=EdgeTest-1]utils.LoggerLoad1)-enter getdriver
+['INFO ]2023-05-12 10:17:00,569(yyyy-MM-ddHH:mm:ss.SSS][TestNG-test=EdgeTest-1]utils.LoggerLoad1)-getdriver
+['INFO ]2023-05-12 10:17:00,571(yyyy-MM-ddHH:mm:ss.SSS][TestNG-test=EdgeTest-1]utils.LoggerLoad1)-enter getdriver
+['INFO ]2023-05-12 10:17:01,213(yyyy-MM-ddHH:mm:ss.SSS][TestNG-test=EdgeTest-1]utils.LoggerLoad1)-Arrays invalid output= 
+['INFO ]2023-05-12 10:17:01,336(yyyy-MM-ddHH:mm:ss.SSS][TestNG-test=EdgeTest-1]utils.LoggerLoad1)-enter getdriver
+['INFO ]2023-05-12 10:17:01,441(yyyy-MM-ddHH:mm:ss.SSS][TestNG-test=EdgeTest-1]utils.LoggerLoad1)-enter getdriver
+['INFO ]2023-05-12 10:17:01,441(yyyy-MM-ddHH:mm:ss.SSS][TestNG-test=EdgeTest-1]utils.LoggerLoad1)-driver setup
+['INFO ]2023-05-12 10:17:01,442(yyyy-MM-ddHH:mm:ss.SSS][TestNG-test=EdgeTest-1]utils.LoggerLoad1)-enter getdriver
+['INFO ]2023-05-12 10:17:01,442(yyyy-MM-ddHH:mm:ss.SSS][TestNG-test=EdgeTest-1]utils.LoggerLoad1)-getdriver
+['INFO ]2023-05-12 10:17:01,443(yyyy-MM-ddHH:mm:ss.SSS][TestNG-test=EdgeTest-1]utils.LoggerLoad1)-enter getdriver

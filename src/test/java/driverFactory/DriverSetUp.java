@@ -15,10 +15,10 @@ public class DriverSetUp {
 	static ResourceBundle rb; // for reading properties file
 	static String browserType ;// to store browser name
 
-	private static WebDriver getchromeDriver() {
+	private static WebDriver getDesireDriver() {
 
 		rb = ResourceBundle.getBundle("Config");
-		 browserType = rb.getString("browser");
+		// browserType = rb.getString("browser");
 
 		if (browserType.equals("Chrome")) {
 			LoggerLoad.info("enter getchromedriver");
@@ -71,7 +71,7 @@ public class DriverSetUp {
 
 	public static void setUpDriver() {
 		if (getDriver() == null) {
-			getchromeDriver();
+			getDesireDriver();
 		}
 	}
 
