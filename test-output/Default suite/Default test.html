@@ -55,11 +55,11 @@ function toggleAllBoxes() {
 <body>
 <h2 align='center'>Default test</h2><table border='1' align="center">
 <tr>
-<td>Tests passed/Failed/Skipped:</td><td>0/0/8</td>
+<td>Tests passed/Failed/Skipped:</td><td>0/8/0</td>
 </tr><tr>
-<td>Started on:</td><td>Thu May 11 22:23:38 EDT 2023</td>
+<td>Started on:</td><td>Fri May 12 15:18:16 EDT 2023</td>
 </tr>
-<tr><td>Total time:</td><td>0 seconds (964 ms)</td>
+<tr><td>Total time:</td><td>1 seconds (1637 ms)</td>
 </tr><tr>
 <td>Included groups:</td><td></td>
 </tr><tr>
@@ -68,503 +68,121 @@ function toggleAllBoxes() {
 </table><p/>
 <small><i>(Hover the method name to see the test class name)</i></small><p/>
 <table width='100%' border='1' class='invocation-failed'>
-<tr><td colspan='4' align='center'><b>FAILED CONFIGURATIONS</b></td></tr>
+<tr><td colspan='4' align='center'><b>FAILED TESTS</b></td></tr>
 <tr><td><b>Test method</b></td>
 <td width="30%"><b>Exception</b></td>
 <td width="10%"><b>Time (seconds)</b></td>
 <td><b>Instance</b></td>
 </tr>
 <tr>
-<td title='testRunner.TestNGTestRunner.defineBrowser()'><b>defineBrowser</b><br>Test class: testRunner.TestNGTestRunner</td>
-<td><div><pre>org.testng.TestNGException: 
-Parameter &apos;browser&apos; is required by BeforeTest on method defineBrowser but has not been marked @Optional or defined
-in C:\Users\kiran\AppData\Local\Temp\testng-eclipse-1602864476\testng-customsuite.xml
-	at org.testng.internal.Parameters.createParams(Parameters.java:270)
-	at org.testng.internal.Parameters.createParametersForMethod(Parameters.java:358)
-	at org.testng.internal.Parameters.createParameters(Parameters.java:700)
-	at org.testng.internal.Parameters.createConfigurationParameters(Parameters.java:168)
-	at org.testng.internal.ConfigInvoker.invokeConfigurations(ConfigInvoker.java:302)
-	at org.testng.TestRunner.invokeTestConfigurations(TestRunner.java:637)
-	at org.testng.TestRunner.beforeRun(TestRunner.java:627)
-	at org.testng.TestRunner.run(TestRunner.java:589)
-	at org.testng.SuiteRunner.runTest(SuiteRunner.java:377)
-	at org.testng.SuiteRunner.runSequentially(SuiteRunner.java:371)
-	at org.testng.SuiteRunner.privateRun(SuiteRunner.java:332)
-	at org.testng.SuiteRunner.run(SuiteRunner.java:276)
-	at org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:53)
-	at org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:96)
-	at org.testng.TestNG.runSuitesSequentially(TestNG.java:1212)
-	at org.testng.TestNG.runSuitesLocally(TestNG.java:1134)
-	at org.testng.TestNG.runSuites(TestNG.java:1063)
-	at org.testng.TestNG.run(TestNG.java:1031)
-	at org.testng.remote.AbstractRemoteTestNG.run(AbstractRemoteTestNG.java:115)
-	at org.testng.remote.RemoteTestNG.initAndRun(RemoteTestNG.java:251)
-	at org.testng.remote.RemoteTestNG.main(RemoteTestNG.java:77)
-</pre></div><a href='#' onClick='toggleBox("stack-trace1279740095", this, "Click to show all stack frames", "Click to hide stack frames")'>Click to show all stack frames</a>
-<div class='stack-trace' id='stack-trace1279740095'><pre>org.testng.TestNGException: 
-Parameter &apos;browser&apos; is required by BeforeTest on method defineBrowser but has not been marked @Optional or defined
-in C:\Users\kiran\AppData\Local\Temp\testng-eclipse-1602864476\testng-customsuite.xml
-	at org.testng.internal.Parameters.createParams(Parameters.java:270)
-	at org.testng.internal.Parameters.createParametersForMethod(Parameters.java:358)
-	at org.testng.internal.Parameters.createParameters(Parameters.java:700)
-	at org.testng.internal.Parameters.createConfigurationParameters(Parameters.java:168)
-	at org.testng.internal.ConfigInvoker.invokeConfigurations(ConfigInvoker.java:302)
-	at org.testng.TestRunner.invokeTestConfigurations(TestRunner.java:637)
-	at org.testng.TestRunner.beforeRun(TestRunner.java:627)
-	at org.testng.TestRunner.run(TestRunner.java:589)
-	at org.testng.SuiteRunner.runTest(SuiteRunner.java:377)
-	at org.testng.SuiteRunner.runSequentially(SuiteRunner.java:371)
-	at org.testng.SuiteRunner.privateRun(SuiteRunner.java:332)
-	at org.testng.SuiteRunner.run(SuiteRunner.java:276)
-	at org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:53)
-	at org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:96)
-	at org.testng.TestNG.runSuitesSequentially(TestNG.java:1212)
-	at org.testng.TestNG.runSuitesLocally(TestNG.java:1134)
-	at org.testng.TestNG.runSuites(TestNG.java:1063)
-	at org.testng.TestNG.run(TestNG.java:1031)
-	at org.testng.remote.AbstractRemoteTestNG.run(AbstractRemoteTestNG.java:115)
-	at org.testng.remote.RemoteTestNG.initAndRun(RemoteTestNG.java:251)
-	at org.testng.remote.RemoteTestNG.main(RemoteTestNG.java:77)
-</pre></div></td>
-<td>-1683858218</td>
-<td>testRunner.TestNGTestRunner@3d3e5463</td></tr>
-</table><p>
-<table width='100%' border='1' class='invocation-skipped'>
-<tr><td colspan='4' align='center'><b>SKIPPED TESTS</b></td></tr>
-<tr><td><b>Test method</b></td>
-<td width="30%"><b>Exception</b></td>
-<td width="10%"><b>Time (seconds)</b></td>
-<td><b>Instance</b></td>
-</tr>
-<tr>
-<td title='testRunner.TestNGTestRunner.runScenario()'><b>runScenario</b><br>Test class: testRunner.TestNGTestRunner<br>Test method: Runs Cucumber Scenarios<br>Parameters: "Launch url and navigate to home page", "feature to test ds algo portal link"</td>
-<td><div><pre>org.testng.TestNGException: 
-Parameter &apos;browser&apos; is required by BeforeTest on method defineBrowser but has not been marked @Optional or defined
-in C:\Users\kiran\AppData\Local\Temp\testng-eclipse-1602864476\testng-customsuite.xml
-	at org.testng.internal.Parameters.createParams(Parameters.java:270)
-	at org.testng.internal.Parameters.createParametersForMethod(Parameters.java:358)
-	at org.testng.internal.Parameters.createParameters(Parameters.java:700)
-	at org.testng.internal.Parameters.createConfigurationParameters(Parameters.java:168)
-	at org.testng.internal.ConfigInvoker.invokeConfigurations(ConfigInvoker.java:302)
-	at org.testng.TestRunner.invokeTestConfigurations(TestRunner.java:637)
-	at org.testng.TestRunner.beforeRun(TestRunner.java:627)
-	at org.testng.TestRunner.run(TestRunner.java:589)
-	at org.testng.SuiteRunner.runTest(SuiteRunner.java:377)
-	at org.testng.SuiteRunner.runSequentially(SuiteRunner.java:371)
-	at org.testng.SuiteRunner.privateRun(SuiteRunner.java:332)
-	at org.testng.SuiteRunner.run(SuiteRunner.java:276)
-	at org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:53)
-	at org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:96)
-	at org.testng.TestNG.runSuitesSequentially(TestNG.java:1212)
-	at org.testng.TestNG.runSuitesLocally(TestNG.java:1134)
-	at org.testng.TestNG.runSuites(TestNG.java:1063)
-	at org.testng.TestNG.run(TestNG.java:1031)
-	at org.testng.remote.AbstractRemoteTestNG.run(AbstractRemoteTestNG.java:115)
-	at org.testng.remote.RemoteTestNG.initAndRun(RemoteTestNG.java:251)
-	at org.testng.remote.RemoteTestNG.main(RemoteTestNG.java:77)
-</pre></div><a href='#' onClick='toggleBox("stack-trace985679444", this, "Click to show all stack frames", "Click to hide stack frames")'>Click to show all stack frames</a>
-<div class='stack-trace' id='stack-trace985679444'><pre>org.testng.TestNGException: 
-Parameter &apos;browser&apos; is required by BeforeTest on method defineBrowser but has not been marked @Optional or defined
-in C:\Users\kiran\AppData\Local\Temp\testng-eclipse-1602864476\testng-customsuite.xml
-	at org.testng.internal.Parameters.createParams(Parameters.java:270)
-	at org.testng.internal.Parameters.createParametersForMethod(Parameters.java:358)
-	at org.testng.internal.Parameters.createParameters(Parameters.java:700)
-	at org.testng.internal.Parameters.createConfigurationParameters(Parameters.java:168)
-	at org.testng.internal.ConfigInvoker.invokeConfigurations(ConfigInvoker.java:302)
-	at org.testng.TestRunner.invokeTestConfigurations(TestRunner.java:637)
-	at org.testng.TestRunner.beforeRun(TestRunner.java:627)
-	at org.testng.TestRunner.run(TestRunner.java:589)
-	at org.testng.SuiteRunner.runTest(SuiteRunner.java:377)
-	at org.testng.SuiteRunner.runSequentially(SuiteRunner.java:371)
-	at org.testng.SuiteRunner.privateRun(SuiteRunner.java:332)
-	at org.testng.SuiteRunner.run(SuiteRunner.java:276)
-	at org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:53)
-	at org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:96)
-	at org.testng.TestNG.runSuitesSequentially(TestNG.java:1212)
-	at org.testng.TestNG.runSuitesLocally(TestNG.java:1134)
-	at org.testng.TestNG.runSuites(TestNG.java:1063)
-	at org.testng.TestNG.run(TestNG.java:1031)
-	at org.testng.remote.AbstractRemoteTestNG.run(AbstractRemoteTestNG.java:115)
-	at org.testng.remote.RemoteTestNG.initAndRun(RemoteTestNG.java:251)
-	at org.testng.remote.RemoteTestNG.main(RemoteTestNG.java:77)
-</pre></div></td>
-<td>0</td>
-<td>testRunner.TestNGTestRunner@3d3e5463</td></tr>
-<tr>
-<td title='testRunner.TestNGTestRunner.runScenario()'><b>runScenario</b><br>Test class: testRunner.TestNGTestRunner<br>Test method: Runs Cucumber Scenarios<br>Parameters: "User on login page and login with inavalid and validinputs from Excel"Sheet1" and0", "User enter valid and invalid credentials for login"</td>
-<td><div><pre>org.testng.TestNGException: 
-Parameter &apos;browser&apos; is required by BeforeTest on method defineBrowser but has not been marked @Optional or defined
-in C:\Users\kiran\AppData\Local\Temp\testng-eclipse-1602864476\testng-customsuite.xml
-	at org.testng.internal.Parameters.createParams(Parameters.java:270)
-	at org.testng.internal.Parameters.createParametersForMethod(Parameters.java:358)
-	at org.testng.internal.Parameters.createParameters(Parameters.java:700)
-	at org.testng.internal.Parameters.createConfigurationParameters(Parameters.java:168)
-	at org.testng.internal.ConfigInvoker.invokeConfigurations(ConfigInvoker.java:302)
-	at org.testng.TestRunner.invokeTestConfigurations(TestRunner.java:637)
-	at org.testng.TestRunner.beforeRun(TestRunner.java:627)
-	at org.testng.TestRunner.run(TestRunner.java:589)
-	at org.testng.SuiteRunner.runTest(SuiteRunner.java:377)
-	at org.testng.SuiteRunner.runSequentially(SuiteRunner.java:371)
-	at org.testng.SuiteRunner.privateRun(SuiteRunner.java:332)
-	at org.testng.SuiteRunner.run(SuiteRunner.java:276)
-	at org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:53)
-	at org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:96)
-	at org.testng.TestNG.runSuitesSequentially(TestNG.java:1212)
-	at org.testng.TestNG.runSuitesLocally(TestNG.java:1134)
-	at org.testng.TestNG.runSuites(TestNG.java:1063)
-	at org.testng.TestNG.run(TestNG.java:1031)
-	at org.testng.remote.AbstractRemoteTestNG.run(AbstractRemoteTestNG.java:115)
-	at org.testng.remote.RemoteTestNG.initAndRun(RemoteTestNG.java:251)
-	at org.testng.remote.RemoteTestNG.main(RemoteTestNG.java:77)
-</pre></div><a href='#' onClick='toggleBox("stack-trace439720255", this, "Click to show all stack frames", "Click to hide stack frames")'>Click to show all stack frames</a>
-<div class='stack-trace' id='stack-trace439720255'><pre>org.testng.TestNGException: 
-Parameter &apos;browser&apos; is required by BeforeTest on method defineBrowser but has not been marked @Optional or defined
-in C:\Users\kiran\AppData\Local\Temp\testng-eclipse-1602864476\testng-customsuite.xml
-	at org.testng.internal.Parameters.createParams(Parameters.java:270)
-	at org.testng.internal.Parameters.createParametersForMethod(Parameters.java:358)
-	at org.testng.internal.Parameters.createParameters(Parameters.java:700)
-	at org.testng.internal.Parameters.createConfigurationParameters(Parameters.java:168)
-	at org.testng.internal.ConfigInvoker.invokeConfigurations(ConfigInvoker.java:302)
-	at org.testng.TestRunner.invokeTestConfigurations(TestRunner.java:637)
-	at org.testng.TestRunner.beforeRun(TestRunner.java:627)
-	at org.testng.TestRunner.run(TestRunner.java:589)
-	at org.testng.SuiteRunner.runTest(SuiteRunner.java:377)
-	at org.testng.SuiteRunner.runSequentially(SuiteRunner.java:371)
-	at org.testng.SuiteRunner.privateRun(SuiteRunner.java:332)
-	at org.testng.SuiteRunner.run(SuiteRunner.java:276)
-	at org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:53)
-	at org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:96)
-	at org.testng.TestNG.runSuitesSequentially(TestNG.java:1212)
-	at org.testng.TestNG.runSuitesLocally(TestNG.java:1134)
-	at org.testng.TestNG.runSuites(TestNG.java:1063)
-	at org.testng.TestNG.run(TestNG.java:1031)
-	at org.testng.remote.AbstractRemoteTestNG.run(AbstractRemoteTestNG.java:115)
-	at org.testng.remote.RemoteTestNG.initAndRun(RemoteTestNG.java:251)
-	at org.testng.remote.RemoteTestNG.main(RemoteTestNG.java:77)
+<td title='testRunner.TestNGTestRunner.runScenario()'><b>runScenario</b><br>Test class: testRunner.TestNGTestRunner<br>Test method: Runs Cucumber Scenarios<br>Parameters: "User is able to navigate to tryeditor page and run invalid python code", "Evaluate Data stuructures Introduction"</td>
+<td><div><pre>java.lang.NullPointerException: Cannot invoke &quot;String.equals(Object)&quot; because &quot;driverFactory.DriverSetUp.browserType&quot; is null
+	at driverFactory.DriverSetUp.getDesireDriver(DriverSetUp.java:23)
+	at driverFactory.DriverSetUp.setUpDriver(DriverSetUp.java:74)
+	at HooksPkg.Hooks.setUp(Hooks.java:14)
+</pre></div><a href='#' onClick='toggleBox("stack-trace301552475", this, "Click to show all stack frames", "Click to hide stack frames")'>Click to show all stack frames</a>
+<div class='stack-trace' id='stack-trace301552475'><pre>java.lang.NullPointerException: Cannot invoke &quot;String.equals(Object)&quot; because &quot;driverFactory.DriverSetUp.browserType&quot; is null
+	at driverFactory.DriverSetUp.getDesireDriver(DriverSetUp.java:23)
+	at driverFactory.DriverSetUp.setUpDriver(DriverSetUp.java:74)
+	at HooksPkg.Hooks.setUp(Hooks.java:14)
 </pre></div></td>
 <td>0</td>
 <td>testRunner.TestNGTestRunner@3d3e5463</td></tr>
 <tr>
 <td title='testRunner.TestNGTestRunner.runScenario()'><b>runScenario</b><br>Test class: testRunner.TestNGTestRunner<br>Test method: Runs Cucumber Scenarios<br>Parameters: "User on login page and login with inavalid and validinputs from Excel"Sheet1" and1", "User enter valid and invalid credentials for login"</td>
-<td><div><pre>org.testng.TestNGException: 
-Parameter &apos;browser&apos; is required by BeforeTest on method defineBrowser but has not been marked @Optional or defined
-in C:\Users\kiran\AppData\Local\Temp\testng-eclipse-1602864476\testng-customsuite.xml
-	at org.testng.internal.Parameters.createParams(Parameters.java:270)
-	at org.testng.internal.Parameters.createParametersForMethod(Parameters.java:358)
-	at org.testng.internal.Parameters.createParameters(Parameters.java:700)
-	at org.testng.internal.Parameters.createConfigurationParameters(Parameters.java:168)
-	at org.testng.internal.ConfigInvoker.invokeConfigurations(ConfigInvoker.java:302)
-	at org.testng.TestRunner.invokeTestConfigurations(TestRunner.java:637)
-	at org.testng.TestRunner.beforeRun(TestRunner.java:627)
-	at org.testng.TestRunner.run(TestRunner.java:589)
-	at org.testng.SuiteRunner.runTest(SuiteRunner.java:377)
-	at org.testng.SuiteRunner.runSequentially(SuiteRunner.java:371)
-	at org.testng.SuiteRunner.privateRun(SuiteRunner.java:332)
-	at org.testng.SuiteRunner.run(SuiteRunner.java:276)
-	at org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:53)
-	at org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:96)
-	at org.testng.TestNG.runSuitesSequentially(TestNG.java:1212)
-	at org.testng.TestNG.runSuitesLocally(TestNG.java:1134)
-	at org.testng.TestNG.runSuites(TestNG.java:1063)
-	at org.testng.TestNG.run(TestNG.java:1031)
-	at org.testng.remote.AbstractRemoteTestNG.run(AbstractRemoteTestNG.java:115)
-	at org.testng.remote.RemoteTestNG.initAndRun(RemoteTestNG.java:251)
-	at org.testng.remote.RemoteTestNG.main(RemoteTestNG.java:77)
-</pre></div><a href='#' onClick='toggleBox("stack-trace1527906606", this, "Click to show all stack frames", "Click to hide stack frames")'>Click to show all stack frames</a>
-<div class='stack-trace' id='stack-trace1527906606'><pre>org.testng.TestNGException: 
-Parameter &apos;browser&apos; is required by BeforeTest on method defineBrowser but has not been marked @Optional or defined
-in C:\Users\kiran\AppData\Local\Temp\testng-eclipse-1602864476\testng-customsuite.xml
-	at org.testng.internal.Parameters.createParams(Parameters.java:270)
-	at org.testng.internal.Parameters.createParametersForMethod(Parameters.java:358)
-	at org.testng.internal.Parameters.createParameters(Parameters.java:700)
-	at org.testng.internal.Parameters.createConfigurationParameters(Parameters.java:168)
-	at org.testng.internal.ConfigInvoker.invokeConfigurations(ConfigInvoker.java:302)
-	at org.testng.TestRunner.invokeTestConfigurations(TestRunner.java:637)
-	at org.testng.TestRunner.beforeRun(TestRunner.java:627)
-	at org.testng.TestRunner.run(TestRunner.java:589)
-	at org.testng.SuiteRunner.runTest(SuiteRunner.java:377)
-	at org.testng.SuiteRunner.runSequentially(SuiteRunner.java:371)
-	at org.testng.SuiteRunner.privateRun(SuiteRunner.java:332)
-	at org.testng.SuiteRunner.run(SuiteRunner.java:276)
-	at org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:53)
-	at org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:96)
-	at org.testng.TestNG.runSuitesSequentially(TestNG.java:1212)
-	at org.testng.TestNG.runSuitesLocally(TestNG.java:1134)
-	at org.testng.TestNG.runSuites(TestNG.java:1063)
-	at org.testng.TestNG.run(TestNG.java:1031)
-	at org.testng.remote.AbstractRemoteTestNG.run(AbstractRemoteTestNG.java:115)
-	at org.testng.remote.RemoteTestNG.initAndRun(RemoteTestNG.java:251)
-	at org.testng.remote.RemoteTestNG.main(RemoteTestNG.java:77)
+<td><div><pre>java.lang.NullPointerException: Cannot invoke &quot;String.equals(Object)&quot; because &quot;driverFactory.DriverSetUp.browserType&quot; is null
+	at driverFactory.DriverSetUp.getDesireDriver(DriverSetUp.java:23)
+	at driverFactory.DriverSetUp.setUpDriver(DriverSetUp.java:74)
+	at HooksPkg.Hooks.setUp(Hooks.java:14)
+</pre></div><a href='#' onClick='toggleBox("stack-trace793485742", this, "Click to show all stack frames", "Click to hide stack frames")'>Click to show all stack frames</a>
+<div class='stack-trace' id='stack-trace793485742'><pre>java.lang.NullPointerException: Cannot invoke &quot;String.equals(Object)&quot; because &quot;driverFactory.DriverSetUp.browserType&quot; is null
+	at driverFactory.DriverSetUp.getDesireDriver(DriverSetUp.java:23)
+	at driverFactory.DriverSetUp.setUpDriver(DriverSetUp.java:74)
+	at HooksPkg.Hooks.setUp(Hooks.java:14)
 </pre></div></td>
 <td>0</td>
 <td>testRunner.TestNGTestRunner@3d3e5463</td></tr>
 <tr>
-<td title='testRunner.TestNGTestRunner.runScenario()'><b>runScenario</b><br>Test class: testRunner.TestNGTestRunner<br>Test method: Runs Cucumber Scenarios<br>Parameters: "User is able to navigate to tryeditor page and run invalid python code", "Evaluate Data stuructures Introduction"</td>
-<td><div><pre>org.testng.TestNGException: 
-Parameter &apos;browser&apos; is required by BeforeTest on method defineBrowser but has not been marked @Optional or defined
-in C:\Users\kiran\AppData\Local\Temp\testng-eclipse-1602864476\testng-customsuite.xml
-	at org.testng.internal.Parameters.createParams(Parameters.java:270)
-	at org.testng.internal.Parameters.createParametersForMethod(Parameters.java:358)
-	at org.testng.internal.Parameters.createParameters(Parameters.java:700)
-	at org.testng.internal.Parameters.createConfigurationParameters(Parameters.java:168)
-	at org.testng.internal.ConfigInvoker.invokeConfigurations(ConfigInvoker.java:302)
-	at org.testng.TestRunner.invokeTestConfigurations(TestRunner.java:637)
-	at org.testng.TestRunner.beforeRun(TestRunner.java:627)
-	at org.testng.TestRunner.run(TestRunner.java:589)
-	at org.testng.SuiteRunner.runTest(SuiteRunner.java:377)
-	at org.testng.SuiteRunner.runSequentially(SuiteRunner.java:371)
-	at org.testng.SuiteRunner.privateRun(SuiteRunner.java:332)
-	at org.testng.SuiteRunner.run(SuiteRunner.java:276)
-	at org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:53)
-	at org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:96)
-	at org.testng.TestNG.runSuitesSequentially(TestNG.java:1212)
-	at org.testng.TestNG.runSuitesLocally(TestNG.java:1134)
-	at org.testng.TestNG.runSuites(TestNG.java:1063)
-	at org.testng.TestNG.run(TestNG.java:1031)
-	at org.testng.remote.AbstractRemoteTestNG.run(AbstractRemoteTestNG.java:115)
-	at org.testng.remote.RemoteTestNG.initAndRun(RemoteTestNG.java:251)
-	at org.testng.remote.RemoteTestNG.main(RemoteTestNG.java:77)
-</pre></div><a href='#' onClick='toggleBox("stack-trace924915581", this, "Click to show all stack frames", "Click to hide stack frames")'>Click to show all stack frames</a>
-<div class='stack-trace' id='stack-trace924915581'><pre>org.testng.TestNGException: 
-Parameter &apos;browser&apos; is required by BeforeTest on method defineBrowser but has not been marked @Optional or defined
-in C:\Users\kiran\AppData\Local\Temp\testng-eclipse-1602864476\testng-customsuite.xml
-	at org.testng.internal.Parameters.createParams(Parameters.java:270)
-	at org.testng.internal.Parameters.createParametersForMethod(Parameters.java:358)
-	at org.testng.internal.Parameters.createParameters(Parameters.java:700)
-	at org.testng.internal.Parameters.createConfigurationParameters(Parameters.java:168)
-	at org.testng.internal.ConfigInvoker.invokeConfigurations(ConfigInvoker.java:302)
-	at org.testng.TestRunner.invokeTestConfigurations(TestRunner.java:637)
-	at org.testng.TestRunner.beforeRun(TestRunner.java:627)
-	at org.testng.TestRunner.run(TestRunner.java:589)
-	at org.testng.SuiteRunner.runTest(SuiteRunner.java:377)
-	at org.testng.SuiteRunner.runSequentially(SuiteRunner.java:371)
-	at org.testng.SuiteRunner.privateRun(SuiteRunner.java:332)
-	at org.testng.SuiteRunner.run(SuiteRunner.java:276)
-	at org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:53)
-	at org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:96)
-	at org.testng.TestNG.runSuitesSequentially(TestNG.java:1212)
-	at org.testng.TestNG.runSuitesLocally(TestNG.java:1134)
-	at org.testng.TestNG.runSuites(TestNG.java:1063)
-	at org.testng.TestNG.run(TestNG.java:1031)
-	at org.testng.remote.AbstractRemoteTestNG.run(AbstractRemoteTestNG.java:115)
-	at org.testng.remote.RemoteTestNG.initAndRun(RemoteTestNG.java:251)
-	at org.testng.remote.RemoteTestNG.main(RemoteTestNG.java:77)
+<td title='testRunner.TestNGTestRunner.runScenario()'><b>runScenario</b><br>Test class: testRunner.TestNGTestRunner<br>Test method: Runs Cucumber Scenarios<br>Parameters: "User on login page and login with inavalid and validinputs from Excel"Sheet1" and0", "User enter valid and invalid credentials for login"</td>
+<td><div><pre>java.lang.NullPointerException: Cannot invoke &quot;String.equals(Object)&quot; because &quot;driverFactory.DriverSetUp.browserType&quot; is null
+	at driverFactory.DriverSetUp.getDesireDriver(DriverSetUp.java:23)
+	at driverFactory.DriverSetUp.setUpDriver(DriverSetUp.java:74)
+	at HooksPkg.Hooks.setUp(Hooks.java:14)
+</pre></div><a href='#' onClick='toggleBox("stack-trace386478079", this, "Click to show all stack frames", "Click to hide stack frames")'>Click to show all stack frames</a>
+<div class='stack-trace' id='stack-trace386478079'><pre>java.lang.NullPointerException: Cannot invoke &quot;String.equals(Object)&quot; because &quot;driverFactory.DriverSetUp.browserType&quot; is null
+	at driverFactory.DriverSetUp.getDesireDriver(DriverSetUp.java:23)
+	at driverFactory.DriverSetUp.setUpDriver(DriverSetUp.java:74)
+	at HooksPkg.Hooks.setUp(Hooks.java:14)
 </pre></div></td>
 <td>0</td>
 <td>testRunner.TestNGTestRunner@3d3e5463</td></tr>
 <tr>
-<td title='testRunner.TestNGTestRunner.runScenario()'><b>runScenario</b><br>Test class: testRunner.TestNGTestRunner<br>Test method: Runs Cucumber Scenarios<br>Parameters: "User is able to navigate Data Structures Introduction", "Evaluate Data stuructures Introduction"</td>
-<td><div><pre>org.testng.TestNGException: 
-Parameter &apos;browser&apos; is required by BeforeTest on method defineBrowser but has not been marked @Optional or defined
-in C:\Users\kiran\AppData\Local\Temp\testng-eclipse-1602864476\testng-customsuite.xml
-	at org.testng.internal.Parameters.createParams(Parameters.java:270)
-	at org.testng.internal.Parameters.createParametersForMethod(Parameters.java:358)
-	at org.testng.internal.Parameters.createParameters(Parameters.java:700)
-	at org.testng.internal.Parameters.createConfigurationParameters(Parameters.java:168)
-	at org.testng.internal.ConfigInvoker.invokeConfigurations(ConfigInvoker.java:302)
-	at org.testng.TestRunner.invokeTestConfigurations(TestRunner.java:637)
-	at org.testng.TestRunner.beforeRun(TestRunner.java:627)
-	at org.testng.TestRunner.run(TestRunner.java:589)
-	at org.testng.SuiteRunner.runTest(SuiteRunner.java:377)
-	at org.testng.SuiteRunner.runSequentially(SuiteRunner.java:371)
-	at org.testng.SuiteRunner.privateRun(SuiteRunner.java:332)
-	at org.testng.SuiteRunner.run(SuiteRunner.java:276)
-	at org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:53)
-	at org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:96)
-	at org.testng.TestNG.runSuitesSequentially(TestNG.java:1212)
-	at org.testng.TestNG.runSuitesLocally(TestNG.java:1134)
-	at org.testng.TestNG.runSuites(TestNG.java:1063)
-	at org.testng.TestNG.run(TestNG.java:1031)
-	at org.testng.remote.AbstractRemoteTestNG.run(AbstractRemoteTestNG.java:115)
-	at org.testng.remote.RemoteTestNG.initAndRun(RemoteTestNG.java:251)
-	at org.testng.remote.RemoteTestNG.main(RemoteTestNG.java:77)
-</pre></div><a href='#' onClick='toggleBox("stack-trace2096194236", this, "Click to show all stack frames", "Click to hide stack frames")'>Click to show all stack frames</a>
-<div class='stack-trace' id='stack-trace2096194236'><pre>org.testng.TestNGException: 
-Parameter &apos;browser&apos; is required by BeforeTest on method defineBrowser but has not been marked @Optional or defined
-in C:\Users\kiran\AppData\Local\Temp\testng-eclipse-1602864476\testng-customsuite.xml
-	at org.testng.internal.Parameters.createParams(Parameters.java:270)
-	at org.testng.internal.Parameters.createParametersForMethod(Parameters.java:358)
-	at org.testng.internal.Parameters.createParameters(Parameters.java:700)
-	at org.testng.internal.Parameters.createConfigurationParameters(Parameters.java:168)
-	at org.testng.internal.ConfigInvoker.invokeConfigurations(ConfigInvoker.java:302)
-	at org.testng.TestRunner.invokeTestConfigurations(TestRunner.java:637)
-	at org.testng.TestRunner.beforeRun(TestRunner.java:627)
-	at org.testng.TestRunner.run(TestRunner.java:589)
-	at org.testng.SuiteRunner.runTest(SuiteRunner.java:377)
-	at org.testng.SuiteRunner.runSequentially(SuiteRunner.java:371)
-	at org.testng.SuiteRunner.privateRun(SuiteRunner.java:332)
-	at org.testng.SuiteRunner.run(SuiteRunner.java:276)
-	at org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:53)
-	at org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:96)
-	at org.testng.TestNG.runSuitesSequentially(TestNG.java:1212)
-	at org.testng.TestNG.runSuitesLocally(TestNG.java:1134)
-	at org.testng.TestNG.runSuites(TestNG.java:1063)
-	at org.testng.TestNG.run(TestNG.java:1031)
-	at org.testng.remote.AbstractRemoteTestNG.run(AbstractRemoteTestNG.java:115)
-	at org.testng.remote.RemoteTestNG.initAndRun(RemoteTestNG.java:251)
-	at org.testng.remote.RemoteTestNG.main(RemoteTestNG.java:77)
+<td title='testRunner.TestNGTestRunner.runScenario()'><b>runScenario</b><br>Test class: testRunner.TestNGTestRunner<br>Test method: Runs Cucumber Scenarios<br>Parameters: "Launch url and navigate to home page", "feature to test ds algo portal link"</td>
+<td><div><pre>java.lang.NullPointerException: Cannot invoke &quot;String.equals(Object)&quot; because &quot;driverFactory.DriverSetUp.browserType&quot; is null
+	at driverFactory.DriverSetUp.getDesireDriver(DriverSetUp.java:23)
+	at driverFactory.DriverSetUp.setUpDriver(DriverSetUp.java:74)
+	at HooksPkg.Hooks.setUp(Hooks.java:14)
+</pre></div><a href='#' onClick='toggleBox("stack-trace27313641", this, "Click to show all stack frames", "Click to hide stack frames")'>Click to show all stack frames</a>
+<div class='stack-trace' id='stack-trace27313641'><pre>java.lang.NullPointerException: Cannot invoke &quot;String.equals(Object)&quot; because &quot;driverFactory.DriverSetUp.browserType&quot; is null
+	at driverFactory.DriverSetUp.getDesireDriver(DriverSetUp.java:23)
+	at driverFactory.DriverSetUp.setUpDriver(DriverSetUp.java:74)
+	at HooksPkg.Hooks.setUp(Hooks.java:14)
 </pre></div></td>
 <td>0</td>
 <td>testRunner.TestNGTestRunner@3d3e5463</td></tr>
 <tr>
 <td title='testRunner.TestNGTestRunner.runScenario()'><b>runScenario</b><br>Test class: testRunner.TestNGTestRunner<br>Test method: Runs Cucumber Scenarios<br>Parameters: "User on login page and login with inavalid and validinputs from Excel"Sheet1" and3", "User enter valid and invalid credentials for login"</td>
-<td><div><pre>org.testng.TestNGException: 
-Parameter &apos;browser&apos; is required by BeforeTest on method defineBrowser but has not been marked @Optional or defined
-in C:\Users\kiran\AppData\Local\Temp\testng-eclipse-1602864476\testng-customsuite.xml
-	at org.testng.internal.Parameters.createParams(Parameters.java:270)
-	at org.testng.internal.Parameters.createParametersForMethod(Parameters.java:358)
-	at org.testng.internal.Parameters.createParameters(Parameters.java:700)
-	at org.testng.internal.Parameters.createConfigurationParameters(Parameters.java:168)
-	at org.testng.internal.ConfigInvoker.invokeConfigurations(ConfigInvoker.java:302)
-	at org.testng.TestRunner.invokeTestConfigurations(TestRunner.java:637)
-	at org.testng.TestRunner.beforeRun(TestRunner.java:627)
-	at org.testng.TestRunner.run(TestRunner.java:589)
-	at org.testng.SuiteRunner.runTest(SuiteRunner.java:377)
-	at org.testng.SuiteRunner.runSequentially(SuiteRunner.java:371)
-	at org.testng.SuiteRunner.privateRun(SuiteRunner.java:332)
-	at org.testng.SuiteRunner.run(SuiteRunner.java:276)
-	at org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:53)
-	at org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:96)
-	at org.testng.TestNG.runSuitesSequentially(TestNG.java:1212)
-	at org.testng.TestNG.runSuitesLocally(TestNG.java:1134)
-	at org.testng.TestNG.runSuites(TestNG.java:1063)
-	at org.testng.TestNG.run(TestNG.java:1031)
-	at org.testng.remote.AbstractRemoteTestNG.run(AbstractRemoteTestNG.java:115)
-	at org.testng.remote.RemoteTestNG.initAndRun(RemoteTestNG.java:251)
-	at org.testng.remote.RemoteTestNG.main(RemoteTestNG.java:77)
-</pre></div><a href='#' onClick='toggleBox("stack-trace1245439653", this, "Click to show all stack frames", "Click to hide stack frames")'>Click to show all stack frames</a>
-<div class='stack-trace' id='stack-trace1245439653'><pre>org.testng.TestNGException: 
-Parameter &apos;browser&apos; is required by BeforeTest on method defineBrowser but has not been marked @Optional or defined
-in C:\Users\kiran\AppData\Local\Temp\testng-eclipse-1602864476\testng-customsuite.xml
-	at org.testng.internal.Parameters.createParams(Parameters.java:270)
-	at org.testng.internal.Parameters.createParametersForMethod(Parameters.java:358)
-	at org.testng.internal.Parameters.createParameters(Parameters.java:700)
-	at org.testng.internal.Parameters.createConfigurationParameters(Parameters.java:168)
-	at org.testng.internal.ConfigInvoker.invokeConfigurations(ConfigInvoker.java:302)
-	at org.testng.TestRunner.invokeTestConfigurations(TestRunner.java:637)
-	at org.testng.TestRunner.beforeRun(TestRunner.java:627)
-	at org.testng.TestRunner.run(TestRunner.java:589)
-	at org.testng.SuiteRunner.runTest(SuiteRunner.java:377)
-	at org.testng.SuiteRunner.runSequentially(SuiteRunner.java:371)
-	at org.testng.SuiteRunner.privateRun(SuiteRunner.java:332)
-	at org.testng.SuiteRunner.run(SuiteRunner.java:276)
-	at org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:53)
-	at org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:96)
-	at org.testng.TestNG.runSuitesSequentially(TestNG.java:1212)
-	at org.testng.TestNG.runSuitesLocally(TestNG.java:1134)
-	at org.testng.TestNG.runSuites(TestNG.java:1063)
-	at org.testng.TestNG.run(TestNG.java:1031)
-	at org.testng.remote.AbstractRemoteTestNG.run(AbstractRemoteTestNG.java:115)
-	at org.testng.remote.RemoteTestNG.initAndRun(RemoteTestNG.java:251)
-	at org.testng.remote.RemoteTestNG.main(RemoteTestNG.java:77)
-</pre></div></td>
-<td>0</td>
-<td>testRunner.TestNGTestRunner@3d3e5463</td></tr>
-<tr>
-<td title='testRunner.TestNGTestRunner.runScenario()'><b>runScenario</b><br>Test class: testRunner.TestNGTestRunner<br>Test method: Runs Cucumber Scenarios<br>Parameters: "User on login page and login with inavalid and validinputs from Excel"Sheet1" and2", "User enter valid and invalid credentials for login"</td>
-<td><div><pre>org.testng.TestNGException: 
-Parameter &apos;browser&apos; is required by BeforeTest on method defineBrowser but has not been marked @Optional or defined
-in C:\Users\kiran\AppData\Local\Temp\testng-eclipse-1602864476\testng-customsuite.xml
-	at org.testng.internal.Parameters.createParams(Parameters.java:270)
-	at org.testng.internal.Parameters.createParametersForMethod(Parameters.java:358)
-	at org.testng.internal.Parameters.createParameters(Parameters.java:700)
-	at org.testng.internal.Parameters.createConfigurationParameters(Parameters.java:168)
-	at org.testng.internal.ConfigInvoker.invokeConfigurations(ConfigInvoker.java:302)
-	at org.testng.TestRunner.invokeTestConfigurations(TestRunner.java:637)
-	at org.testng.TestRunner.beforeRun(TestRunner.java:627)
-	at org.testng.TestRunner.run(TestRunner.java:589)
-	at org.testng.SuiteRunner.runTest(SuiteRunner.java:377)
-	at org.testng.SuiteRunner.runSequentially(SuiteRunner.java:371)
-	at org.testng.SuiteRunner.privateRun(SuiteRunner.java:332)
-	at org.testng.SuiteRunner.run(SuiteRunner.java:276)
-	at org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:53)
-	at org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:96)
-	at org.testng.TestNG.runSuitesSequentially(TestNG.java:1212)
-	at org.testng.TestNG.runSuitesLocally(TestNG.java:1134)
-	at org.testng.TestNG.runSuites(TestNG.java:1063)
-	at org.testng.TestNG.run(TestNG.java:1031)
-	at org.testng.remote.AbstractRemoteTestNG.run(AbstractRemoteTestNG.java:115)
-	at org.testng.remote.RemoteTestNG.initAndRun(RemoteTestNG.java:251)
-	at org.testng.remote.RemoteTestNG.main(RemoteTestNG.java:77)
-</pre></div><a href='#' onClick='toggleBox("stack-trace796774130", this, "Click to show all stack frames", "Click to hide stack frames")'>Click to show all stack frames</a>
-<div class='stack-trace' id='stack-trace796774130'><pre>org.testng.TestNGException: 
-Parameter &apos;browser&apos; is required by BeforeTest on method defineBrowser but has not been marked @Optional or defined
-in C:\Users\kiran\AppData\Local\Temp\testng-eclipse-1602864476\testng-customsuite.xml
-	at org.testng.internal.Parameters.createParams(Parameters.java:270)
-	at org.testng.internal.Parameters.createParametersForMethod(Parameters.java:358)
-	at org.testng.internal.Parameters.createParameters(Parameters.java:700)
-	at org.testng.internal.Parameters.createConfigurationParameters(Parameters.java:168)
-	at org.testng.internal.ConfigInvoker.invokeConfigurations(ConfigInvoker.java:302)
-	at org.testng.TestRunner.invokeTestConfigurations(TestRunner.java:637)
-	at org.testng.TestRunner.beforeRun(TestRunner.java:627)
-	at org.testng.TestRunner.run(TestRunner.java:589)
-	at org.testng.SuiteRunner.runTest(SuiteRunner.java:377)
-	at org.testng.SuiteRunner.runSequentially(SuiteRunner.java:371)
-	at org.testng.SuiteRunner.privateRun(SuiteRunner.java:332)
-	at org.testng.SuiteRunner.run(SuiteRunner.java:276)
-	at org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:53)
-	at org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:96)
-	at org.testng.TestNG.runSuitesSequentially(TestNG.java:1212)
-	at org.testng.TestNG.runSuitesLocally(TestNG.java:1134)
-	at org.testng.TestNG.runSuites(TestNG.java:1063)
-	at org.testng.TestNG.run(TestNG.java:1031)
-	at org.testng.remote.AbstractRemoteTestNG.run(AbstractRemoteTestNG.java:115)
-	at org.testng.remote.RemoteTestNG.initAndRun(RemoteTestNG.java:251)
-	at org.testng.remote.RemoteTestNG.main(RemoteTestNG.java:77)
+<td><div><pre>java.lang.NullPointerException: Cannot invoke &quot;String.equals(Object)&quot; because &quot;driverFactory.DriverSetUp.browserType&quot; is null
+	at driverFactory.DriverSetUp.getDesireDriver(DriverSetUp.java:23)
+	at driverFactory.DriverSetUp.setUpDriver(DriverSetUp.java:74)
+	at HooksPkg.Hooks.setUp(Hooks.java:14)
+</pre></div><a href='#' onClick='toggleBox("stack-trace1664927413", this, "Click to show all stack frames", "Click to hide stack frames")'>Click to show all stack frames</a>
+<div class='stack-trace' id='stack-trace1664927413'><pre>java.lang.NullPointerException: Cannot invoke &quot;String.equals(Object)&quot; because &quot;driverFactory.DriverSetUp.browserType&quot; is null
+	at driverFactory.DriverSetUp.getDesireDriver(DriverSetUp.java:23)
+	at driverFactory.DriverSetUp.setUpDriver(DriverSetUp.java:74)
+	at HooksPkg.Hooks.setUp(Hooks.java:14)
 </pre></div></td>
 <td>0</td>
 <td>testRunner.TestNGTestRunner@3d3e5463</td></tr>
 <tr>
 <td title='testRunner.TestNGTestRunner.runScenario()'><b>runScenario</b><br>Test class: testRunner.TestNGTestRunner<br>Test method: Runs Cucumber Scenarios<br>Parameters: "User is able to navigate to practice questions", "Evaluate Data stuructures Introduction"</td>
-<td><div><pre>org.testng.TestNGException: 
-Parameter &apos;browser&apos; is required by BeforeTest on method defineBrowser but has not been marked @Optional or defined
-in C:\Users\kiran\AppData\Local\Temp\testng-eclipse-1602864476\testng-customsuite.xml
-	at org.testng.internal.Parameters.createParams(Parameters.java:270)
-	at org.testng.internal.Parameters.createParametersForMethod(Parameters.java:358)
-	at org.testng.internal.Parameters.createParameters(Parameters.java:700)
-	at org.testng.internal.Parameters.createConfigurationParameters(Parameters.java:168)
-	at org.testng.internal.ConfigInvoker.invokeConfigurations(ConfigInvoker.java:302)
-	at org.testng.TestRunner.invokeTestConfigurations(TestRunner.java:637)
-	at org.testng.TestRunner.beforeRun(TestRunner.java:627)
-	at org.testng.TestRunner.run(TestRunner.java:589)
-	at org.testng.SuiteRunner.runTest(SuiteRunner.java:377)
-	at org.testng.SuiteRunner.runSequentially(SuiteRunner.java:371)
-	at org.testng.SuiteRunner.privateRun(SuiteRunner.java:332)
-	at org.testng.SuiteRunner.run(SuiteRunner.java:276)
-	at org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:53)
-	at org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:96)
-	at org.testng.TestNG.runSuitesSequentially(TestNG.java:1212)
-	at org.testng.TestNG.runSuitesLocally(TestNG.java:1134)
-	at org.testng.TestNG.runSuites(TestNG.java:1063)
-	at org.testng.TestNG.run(TestNG.java:1031)
-	at org.testng.remote.AbstractRemoteTestNG.run(AbstractRemoteTestNG.java:115)
-	at org.testng.remote.RemoteTestNG.initAndRun(RemoteTestNG.java:251)
-	at org.testng.remote.RemoteTestNG.main(RemoteTestNG.java:77)
-</pre></div><a href='#' onClick='toggleBox("stack-trace1986676021", this, "Click to show all stack frames", "Click to hide stack frames")'>Click to show all stack frames</a>
-<div class='stack-trace' id='stack-trace1986676021'><pre>org.testng.TestNGException: 
-Parameter &apos;browser&apos; is required by BeforeTest on method defineBrowser but has not been marked @Optional or defined
-in C:\Users\kiran\AppData\Local\Temp\testng-eclipse-1602864476\testng-customsuite.xml
-	at org.testng.internal.Parameters.createParams(Parameters.java:270)
-	at org.testng.internal.Parameters.createParametersForMethod(Parameters.java:358)
-	at org.testng.internal.Parameters.createParameters(Parameters.java:700)
-	at org.testng.internal.Parameters.createConfigurationParameters(Parameters.java:168)
-	at org.testng.internal.ConfigInvoker.invokeConfigurations(ConfigInvoker.java:302)
-	at org.testng.TestRunner.invokeTestConfigurations(TestRunner.java:637)
-	at org.testng.TestRunner.beforeRun(TestRunner.java:627)
-	at org.testng.TestRunner.run(TestRunner.java:589)
-	at org.testng.SuiteRunner.runTest(SuiteRunner.java:377)
-	at org.testng.SuiteRunner.runSequentially(SuiteRunner.java:371)
-	at org.testng.SuiteRunner.privateRun(SuiteRunner.java:332)
-	at org.testng.SuiteRunner.run(SuiteRunner.java:276)
-	at org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:53)
-	at org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:96)
-	at org.testng.TestNG.runSuitesSequentially(TestNG.java:1212)
-	at org.testng.TestNG.runSuitesLocally(TestNG.java:1134)
-	at org.testng.TestNG.runSuites(TestNG.java:1063)
-	at org.testng.TestNG.run(TestNG.java:1031)
-	at org.testng.remote.AbstractRemoteTestNG.run(AbstractRemoteTestNG.java:115)
-	at org.testng.remote.RemoteTestNG.initAndRun(RemoteTestNG.java:251)
-	at org.testng.remote.RemoteTestNG.main(RemoteTestNG.java:77)
+<td><div><pre>java.lang.NullPointerException: Cannot invoke &quot;String.equals(Object)&quot; because &quot;driverFactory.DriverSetUp.browserType&quot; is null
+	at driverFactory.DriverSetUp.getDesireDriver(DriverSetUp.java:23)
+	at driverFactory.DriverSetUp.setUpDriver(DriverSetUp.java:74)
+	at HooksPkg.Hooks.setUp(Hooks.java:14)
+</pre></div><a href='#' onClick='toggleBox("stack-trace253613492", this, "Click to show all stack frames", "Click to hide stack frames")'>Click to show all stack frames</a>
+<div class='stack-trace' id='stack-trace253613492'><pre>java.lang.NullPointerException: Cannot invoke &quot;String.equals(Object)&quot; because &quot;driverFactory.DriverSetUp.browserType&quot; is null
+	at driverFactory.DriverSetUp.getDesireDriver(DriverSetUp.java:23)
+	at driverFactory.DriverSetUp.setUpDriver(DriverSetUp.java:74)
+	at HooksPkg.Hooks.setUp(Hooks.java:14)
+</pre></div></td>
+<td>0</td>
+<td>testRunner.TestNGTestRunner@3d3e5463</td></tr>
+<tr>
+<td title='testRunner.TestNGTestRunner.runScenario()'><b>runScenario</b><br>Test class: testRunner.TestNGTestRunner<br>Test method: Runs Cucumber Scenarios<br>Parameters: "User on login page and login with inavalid and validinputs from Excel"Sheet1" and2", "User enter valid and invalid credentials for login"</td>
+<td><div><pre>java.lang.NullPointerException: Cannot invoke &quot;String.equals(Object)&quot; because &quot;driverFactory.DriverSetUp.browserType&quot; is null
+	at driverFactory.DriverSetUp.getDesireDriver(DriverSetUp.java:23)
+	at driverFactory.DriverSetUp.setUpDriver(DriverSetUp.java:74)
+	at HooksPkg.Hooks.setUp(Hooks.java:14)
+</pre></div><a href='#' onClick='toggleBox("stack-trace1493883713", this, "Click to show all stack frames", "Click to hide stack frames")'>Click to show all stack frames</a>
+<div class='stack-trace' id='stack-trace1493883713'><pre>java.lang.NullPointerException: Cannot invoke &quot;String.equals(Object)&quot; because &quot;driverFactory.DriverSetUp.browserType&quot; is null
+	at driverFactory.DriverSetUp.getDesireDriver(DriverSetUp.java:23)
+	at driverFactory.DriverSetUp.setUpDriver(DriverSetUp.java:74)
+	at HooksPkg.Hooks.setUp(Hooks.java:14)
+</pre></div></td>
+<td>0</td>
+<td>testRunner.TestNGTestRunner@3d3e5463</td></tr>
+<tr>
+<td title='testRunner.TestNGTestRunner.runScenario()'><b>runScenario</b><br>Test class: testRunner.TestNGTestRunner<br>Test method: Runs Cucumber Scenarios<br>Parameters: "User is able to navigate Data Structures Introduction", "Evaluate Data stuructures Introduction"</td>
+<td><div><pre>java.lang.NullPointerException: Cannot invoke &quot;String.equals(Object)&quot; because &quot;driverFactory.DriverSetUp.browserType&quot; is null
+	at driverFactory.DriverSetUp.getDesireDriver(DriverSetUp.java:23)
+	at driverFactory.DriverSetUp.setUpDriver(DriverSetUp.java:74)
+	at HooksPkg.Hooks.setUp(Hooks.java:14)
+</pre></div><a href='#' onClick='toggleBox("stack-trace1874919946", this, "Click to show all stack frames", "Click to hide stack frames")'>Click to show all stack frames</a>
+<div class='stack-trace' id='stack-trace1874919946'><pre>java.lang.NullPointerException: Cannot invoke &quot;String.equals(Object)&quot; because &quot;driverFactory.DriverSetUp.browserType&quot; is null
+	at driverFactory.DriverSetUp.getDesireDriver(DriverSetUp.java:23)
+	at driverFactory.DriverSetUp.setUpDriver(DriverSetUp.java:74)
+	at HooksPkg.Hooks.setUp(Hooks.java:14)
 </pre></div></td>
 <td>0</td>
 <td>testRunner.TestNGTestRunner@3d3e5463</td></tr>

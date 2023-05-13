@@ -8,8 +8,8 @@ import io.cucumber.junit.CucumberOptions;
 @CucumberOptions(plugin = {"pretty", "html:target/ds_algo.html",
                             "json:target/Ds-algo.json",
                             "rerun:target/rerun.txt"  ,//mandatory for capture failures 
-                            "com.aventstack.extentreports.cucumber.adapter.ExtentCucumberAdapter:"},
-                           // "io.qameta.allure.cucumber7jvm.AllureCucumber7Jvm"},
+                            "com.aventstack.extentreports.cucumber.adapter.ExtentCucumberAdapter:",
+                            "io.qameta.allure.cucumber7jvm.AllureCucumber7Jvm"},
 							monochrome=true,
 							tags="@portal or @home",
 							//tags="@tag1",
