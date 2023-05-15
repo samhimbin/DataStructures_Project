@@ -6,6 +6,7 @@ import java.util.List;
 import java.util.Map;
 
 import org.apache.poi.openxml4j.exceptions.InvalidFormatException;
+import org.junit.Assert;
 import org.openqa.selenium.By;
 import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.WebElement;
@@ -77,7 +78,7 @@ public class RegitrationSteps extends BaseClass{
 
 		actmsg = loginpage.alertdismsg();
 		System.out.print(actmsg);
-		// Assert.assertEquals(actmsg, expmsg);
+		 Assert.assertEquals(actmsg, expmsg);
 		
 		loginpage.alertdismsg();
 		loginpage.clkSignIn();
