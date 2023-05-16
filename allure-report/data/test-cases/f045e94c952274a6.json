@@ -1,0 +1,117 @@
+{
+  "uid" : "f045e94c952274a6",
+  "name" : "Runs Cucumber Scenarios",
+  "fullName" : "io.cucumber.testng.AbstractTestNGCucumberTests.runScenario",
+  "historyId" : "a6689b2b9b9acd2815a2b56ce3e187d5",
+  "time" : {
+    "start" : 1684153561036,
+    "stop" : 1684153563658,
+    "duration" : 2622
+  },
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ {
+    "name" : "setUpClass",
+    "time" : {
+      "start" : 1684153496328,
+      "stop" : 1684153497340,
+      "duration" : 1012
+    },
+    "description" : "",
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "hasContent" : false,
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false
+  }, {
+    "name" : "defineBrowser",
+    "time" : {
+      "start" : 1684153496279,
+      "stop" : 1684153496296,
+      "duration" : 17
+    },
+    "description" : "",
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "hasContent" : false,
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false
+  } ],
+  "afterStages" : [ {
+    "name" : "tearDownClass",
+    "time" : {
+      "start" : 1684153565356,
+      "stop" : 1684153565382,
+      "duration" : 26
+    },
+    "description" : "",
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "hasContent" : false,
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false
+  } ],
+  "labels" : [ {
+    "name" : "package",
+    "value" : "testRunner.TestNGTestRunner"
+  }, {
+    "name" : "testClass",
+    "value" : "testRunner.TestNGTestRunner"
+  }, {
+    "name" : "testMethod",
+    "value" : "runScenario"
+  }, {
+    "name" : "parentSuite",
+    "value" : "crossBrowserTestSuite"
+  }, {
+    "name" : "suite",
+    "value" : "chromeTest"
+  }, {
+    "name" : "subSuite",
+    "value" : "testRunner.TestNGTestRunner"
+  }, {
+    "name" : "host",
+    "value" : "LAPTOP-TINQNFE1"
+  }, {
+    "name" : "thread",
+    "value" : "24496@LAPTOP-TINQNFE1.main(1)"
+  }, {
+    "name" : "framework",
+    "value" : "testng"
+  }, {
+    "name" : "language",
+    "value" : "java"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ {
+    "name" : "arg0",
+    "value" : "\"User navigating to Deletion of Linked list page\""
+  }, {
+    "name" : "arg1",
+    "value" : "\"Evaluate Linkedlist Module\""
+  }, {
+    "name" : "browser",
+    "value" : "Chrome"
+  } ],
+  "links" : [ ],
+  "hidden" : true,
+  "retry" : true,
+  "extra" : {
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "f045e94c952274a6.json",
+  "parameterValues" : [ "\"User navigating to Deletion of Linked list page\"", "\"Evaluate Linkedlist Module\"", "Chrome" ]
+}

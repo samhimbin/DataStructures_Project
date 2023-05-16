@@ -1,0 +1,348 @@
+{
+  "uid" : "6230bd89d3a3994b",
+  "name" : "user navigate to registration page",
+  "fullName" : "feature to test new user registration: user navigate to registration page",
+  "historyId" : "faa0b9c5883fdc96b5d99da7e38b8334",
+  "time" : {
+    "start" : 1684204399908,
+    "stop" : 1684204400776,
+    "duration" : 868
+  },
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ {
+    "name" : "HooksPkg.Hooks.setUp()",
+    "time" : {
+      "start" : 1684204399908,
+      "stop" : 1684204399908,
+      "duration" : 0
+    },
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "hasContent" : false,
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false
+  }, {
+    "name" : "HooksPkg.Hooks.setup2()",
+    "time" : {
+      "start" : 1684204399908,
+      "stop" : 1684204399908,
+      "duration" : 0
+    },
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "hasContent" : false,
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false
+  } ],
+  "testStage" : {
+    "status" : "passed",
+    "steps" : [ {
+      "name" : "Given  user click registration link",
+      "time" : {
+        "start" : 1684204399908,
+        "stop" : 1684204400294,
+        "duration" : 386
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "hasContent" : false,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false
+    }, {
+      "name" : "When  user enter username,password,confirm password from given \"Sheet1\" and 0",
+      "time" : {
+        "start" : 1684204400294,
+        "stop" : 1684204400574,
+        "duration" : 280
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "hasContent" : false,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false
+    }, {
+      "name" : "Then  user click register button with expected message",
+      "time" : {
+        "start" : 1684204400576,
+        "stop" : 1684204400776,
+        "duration" : 200
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "hasContent" : false,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false
+    } ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "stepsCount" : 3,
+    "hasContent" : true,
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false
+  },
+  "afterStages" : [ {
+    "name" : "HooksPkg.Hooks.tearDown(io.cucumber.java.Scenario)",
+    "time" : {
+      "start" : 1684204400776,
+      "stop" : 1684204400776,
+      "duration" : 0
+    },
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "hasContent" : false,
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false
+  } ],
+  "labels" : [ {
+    "name" : "tag",
+    "value" : "register"
+  }, {
+    "name" : "host",
+    "value" : "LAPTOP-TINQNFE1"
+  }, {
+    "name" : "thread",
+    "value" : "25200@LAPTOP-TINQNFE1.main(1)"
+  }, {
+    "name" : "feature",
+    "value" : "feature to test new user registration"
+  }, {
+    "name" : "story",
+    "value" : "user navigate to registration page"
+  }, {
+    "name" : "suite",
+    "value" : "feature to test new user registration"
+  }, {
+    "name" : "testClass",
+    "value" : "user navigate to registration page"
+  }, {
+    "name" : "framework",
+    "value" : "cucumber4jvm"
+  }, {
+    "name" : "language",
+    "value" : "java"
+  }, {
+    "name" : "gherkin_uri",
+    "value" : "file:///C:/Users/kiran/eclipse-workspace/ZoomDs_algo/src/test/resources/features/3RegisterPage.feature"
+  }, {
+    "name" : "package",
+    "value" : "src.test.resources.features.3RegisterPage_feature.feature to test new user registration"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ {
+    "name" : "rowno",
+    "value" : "0"
+  }, {
+    "name" : "sheetname",
+    "value" : "Sheet1"
+  } ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ {
+      "uid" : "e69205ee4495faa7",
+      "status" : "passed",
+      "time" : {
+        "start" : 1684204298494,
+        "stop" : 1684204301122,
+        "duration" : 2628
+      }
+    }, {
+      "uid" : "f46f77c9eb7d0527",
+      "status" : "broken",
+      "statusDetails" : "no such element: Unable to locate element: {\"method\":\"xpath\",\"selector\":\"//a[text()=' Register ']\"}\n  (Session info: chrome=113.0.5672.93)\nFor documentation on this error, please visit: https://selenium.dev/exceptions/#no_such_element\nBuild info: version: '4.8.3', revision: 'e5e76298c3'\nSystem info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '20.0.1'\nDriver info: org.openqa.selenium.chrome.ChromeDriver\nCommand: [d2c1984af990ab6f97868cc1ffcabbd9, findElement {using=xpath, value=//a[text()=' Register ']}]\nCapabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 113.0.5672.93, chrome: {chromedriverVersion: 113.0.5672.63 (0e1a4471d5ae..., userDataDir: C:\\Users\\kiran\\AppData\\Loca...}, goog:chromeOptions: {debuggerAddress: localhost:59495}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: WINDOWS, proxy: Proxy(), se:cdp: ws://localhost:59495/devtoo..., se:cdpVersion: 113.0.5672.93, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}\nSession ID: d2c1984af990ab6f97868cc1ffcabbd9",
+      "time" : {
+        "start" : 1684203966854,
+        "stop" : 1684203972087,
+        "duration" : 5233
+      }
+    }, {
+      "uid" : "953d6e8b70973cda",
+      "status" : "passed",
+      "time" : {
+        "start" : 1684203838359,
+        "stop" : 1684203840630,
+        "duration" : 2271
+      }
+    }, {
+      "uid" : "8bba7eafdfe59113",
+      "status" : "broken",
+      "statusDetails" : "no such element: Unable to locate element: {\"method\":\"xpath\",\"selector\":\"//a[text()=' Register ']\"}\n  (Session info: chrome=113.0.5672.93)\nFor documentation on this error, please visit: https://selenium.dev/exceptions/#no_such_element\nBuild info: version: '4.8.3', revision: 'e5e76298c3'\nSystem info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '20.0.1'\nDriver info: org.openqa.selenium.chrome.ChromeDriver\nCommand: [b1d91fc358de3f0eecf000d8d9a23fde, findElement {using=xpath, value=//a[text()=' Register ']}]\nCapabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 113.0.5672.93, chrome: {chromedriverVersion: 113.0.5672.63 (0e1a4471d5ae..., userDataDir: C:\\Users\\kiran\\AppData\\Loca...}, goog:chromeOptions: {debuggerAddress: localhost:58835}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: WINDOWS, proxy: Proxy(), se:cdp: ws://localhost:58835/devtoo..., se:cdpVersion: 113.0.5672.93, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}\nSession ID: b1d91fc358de3f0eecf000d8d9a23fde",
+      "time" : {
+        "start" : 1684203309610,
+        "stop" : 1684203314848,
+        "duration" : 5238
+      }
+    }, {
+      "uid" : "bf13288a471fb7d2",
+      "status" : "passed",
+      "time" : {
+        "start" : 1684203186719,
+        "stop" : 1684203188813,
+        "duration" : 2094
+      }
+    }, {
+      "uid" : "c8ecb7dd1510a450",
+      "status" : "passed",
+      "time" : {
+        "start" : 1684202753561,
+        "stop" : 1684202754323,
+        "duration" : 762
+      }
+    }, {
+      "uid" : "cbafa60b543a0271",
+      "status" : "passed",
+      "time" : {
+        "start" : 1684202671262,
+        "stop" : 1684202673617,
+        "duration" : 2355
+      }
+    }, {
+      "uid" : "8a8c584e8abe4b15",
+      "status" : "passed",
+      "time" : {
+        "start" : 1684187241072,
+        "stop" : 1684187241717,
+        "duration" : 645
+      }
+    }, {
+      "uid" : "35f01aafee17af13",
+      "status" : "passed",
+      "time" : {
+        "start" : 1684187190801,
+        "stop" : 1684187192116,
+        "duration" : 1315
+      }
+    }, {
+      "uid" : "5eb18c133985421",
+      "status" : "passed",
+      "time" : {
+        "start" : 1684186574169,
+        "stop" : 1684186575517,
+        "duration" : 1348
+      }
+    }, {
+      "uid" : "e5afd5b029e28c10",
+      "status" : "passed",
+      "time" : {
+        "start" : 1684184872490,
+        "stop" : 1684184873217,
+        "duration" : 727
+      }
+    }, {
+      "uid" : "20cf36c362dcdd97",
+      "status" : "passed",
+      "time" : {
+        "start" : 1684184799469,
+        "stop" : 1684184801079,
+        "duration" : 1610
+      }
+    }, {
+      "uid" : "806b0c1203bc6a77",
+      "status" : "passed",
+      "time" : {
+        "start" : 1684154349909,
+        "stop" : 1684154351265,
+        "duration" : 1356
+      }
+    }, {
+      "uid" : "5396310eacf3a3fe",
+      "status" : "passed",
+      "time" : {
+        "start" : 1684153837573,
+        "stop" : 1684153838318,
+        "duration" : 745
+      }
+    }, {
+      "uid" : "d911bc9b9bce7106",
+      "status" : "passed",
+      "time" : {
+        "start" : 1684153789316,
+        "stop" : 1684153790883,
+        "duration" : 1567
+      }
+    }, {
+      "uid" : "9c0a8806b1d78e38",
+      "status" : "passed",
+      "time" : {
+        "start" : 1684153659770,
+        "stop" : 1684153661100,
+        "duration" : 1330
+      }
+    }, {
+      "uid" : "c95071b8e9fde3c8",
+      "status" : "passed",
+      "time" : {
+        "start" : 1684153569313,
+        "stop" : 1684153570069,
+        "duration" : 756
+      }
+    }, {
+      "uid" : "2d0617225ab68f07",
+      "status" : "passed",
+      "time" : {
+        "start" : 1684153504917,
+        "stop" : 1684153506724,
+        "duration" : 1807
+      }
+    } ],
+    "categories" : [ ],
+    "history" : {
+      "statistic" : {
+        "failed" : 0,
+        "broken" : 2,
+        "skipped" : 0,
+        "passed" : 1,
+        "unknown" : 0,
+        "total" : 3
+      },
+      "items" : [ {
+        "uid" : "7598a6ba9cd07e45",
+        "reportUrl" : "http://localhost:8080/job/DsalgoProject/5/allure/#testresult/7598a6ba9cd07e45",
+        "status" : "broken",
+        "statusDetails" : "no such element: Unable to locate element: {\"method\":\"xpath\",\"selector\":\"//a[text()=' Register ']\"}\n  (Session info: chrome=113.0.5672.93)\nFor documentation on this error, please visit: https://selenium.dev/exceptions/#no_such_element\nBuild info: version: '4.8.3', revision: 'e5e76298c3'\nSystem info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '20.0.1'\nDriver info: org.openqa.selenium.chrome.ChromeDriver\nCommand: [d2c1984af990ab6f97868cc1ffcabbd9, findElement {using=xpath, value=//a[text()=' Register ']}]\nCapabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 113.0.5672.93, chrome: {chromedriverVersion: 113.0.5672.63 (0e1a4471d5ae..., userDataDir: C:\\Users\\kiran\\AppData\\Loca...}, goog:chromeOptions: {debuggerAddress: localhost:59495}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: WINDOWS, proxy: Proxy(), se:cdp: ws://localhost:59495/devtoo..., se:cdpVersion: 113.0.5672.93, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}\nSession ID: d2c1984af990ab6f97868cc1ffcabbd9",
+        "time" : {
+          "start" : 1684203966854,
+          "stop" : 1684203972087,
+          "duration" : 5233
+        }
+      }, {
+        "uid" : "e3c1c5770e353414",
+        "reportUrl" : "http://localhost:8080/job/DsalgoProject/4/allure/#testresult/e3c1c5770e353414",
+        "status" : "broken",
+        "statusDetails" : "no such element: Unable to locate element: {\"method\":\"xpath\",\"selector\":\"//a[text()=' Register ']\"}\n  (Session info: chrome=113.0.5672.93)\nFor documentation on this error, please visit: https://selenium.dev/exceptions/#no_such_element\nBuild info: version: '4.8.3', revision: 'e5e76298c3'\nSystem info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '20.0.1'\nDriver info: org.openqa.selenium.chrome.ChromeDriver\nCommand: [b1d91fc358de3f0eecf000d8d9a23fde, findElement {using=xpath, value=//a[text()=' Register ']}]\nCapabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 113.0.5672.93, chrome: {chromedriverVersion: 113.0.5672.63 (0e1a4471d5ae..., userDataDir: C:\\Users\\kiran\\AppData\\Loca...}, goog:chromeOptions: {debuggerAddress: localhost:58835}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: WINDOWS, proxy: Proxy(), se:cdp: ws://localhost:58835/devtoo..., se:cdpVersion: 113.0.5672.93, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}\nSession ID: b1d91fc358de3f0eecf000d8d9a23fde",
+        "time" : {
+          "start" : 1684203309610,
+          "stop" : 1684203314848,
+          "duration" : 5238
+        }
+      } ]
+    },
+    "tags" : [ "register" ]
+  },
+  "source" : "6230bd89d3a3994b.json",
+  "parameterValues" : [ "0", "Sheet1" ]
+}

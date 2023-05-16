@@ -1,0 +1,117 @@
+{
+  "uid" : "a9b77bf63f0df4fa",
+  "name" : "Runs Cucumber Scenarios",
+  "fullName" : "io.cucumber.testng.AbstractTestNGCucumberTests.runScenario",
+  "historyId" : "fed17a64b7ee29dd17132a8fe79dbaa1",
+  "time" : {
+    "start" : 1684204064319,
+    "stop" : 1684204066110,
+    "duration" : 1791
+  },
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ {
+    "name" : "setUpClass",
+    "time" : {
+      "start" : 1684203954324,
+      "stop" : 1684203954414,
+      "duration" : 90
+    },
+    "description" : "",
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "hasContent" : false,
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false
+  }, {
+    "name" : "defineBrowser",
+    "time" : {
+      "start" : 1684203954322,
+      "stop" : 1684203954322,
+      "duration" : 0
+    },
+    "description" : "",
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "hasContent" : false,
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false
+  } ],
+  "afterStages" : [ {
+    "name" : "tearDownClass",
+    "time" : {
+      "start" : 1684204080825,
+      "stop" : 1684204080847,
+      "duration" : 22
+    },
+    "description" : "",
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "hasContent" : false,
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false
+  } ],
+  "labels" : [ {
+    "name" : "package",
+    "value" : "testRunner.TestNGTestRunner"
+  }, {
+    "name" : "testClass",
+    "value" : "testRunner.TestNGTestRunner"
+  }, {
+    "name" : "testMethod",
+    "value" : "runScenario"
+  }, {
+    "name" : "parentSuite",
+    "value" : "crossBrowserTestSuite"
+  }, {
+    "name" : "suite",
+    "value" : "EdgeTest"
+  }, {
+    "name" : "subSuite",
+    "value" : "testRunner.TestNGTestRunner"
+  }, {
+    "name" : "host",
+    "value" : "LAPTOP-TINQNFE1"
+  }, {
+    "name" : "thread",
+    "value" : "13064@LAPTOP-TINQNFE1.main(1)"
+  }, {
+    "name" : "framework",
+    "value" : "testng"
+  }, {
+    "name" : "language",
+    "value" : "java"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ {
+    "name" : "arg0",
+    "value" : "\"User navigating to Types of Linked list page\""
+  }, {
+    "name" : "arg1",
+    "value" : "\"Evaluate Linkedlist Module\""
+  }, {
+    "name" : "browser",
+    "value" : "edge"
+  } ],
+  "links" : [ ],
+  "hidden" : true,
+  "retry" : true,
+  "extra" : {
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "a9b77bf63f0df4fa.json",
+  "parameterValues" : [ "\"User navigating to Types of Linked list page\"", "\"Evaluate Linkedlist Module\"", "edge" ]
+}

@@ -1,0 +1,315 @@
+{
+  "uid" : "f3e8add8ac1340c0",
+  "name" : "User is able to navigate to practice questions",
+  "fullName" : "Evaluate Data stuructures Introduction: User is able to navigate to practice questions",
+  "historyId" : "f83431d3ae41cd047007c5bedb8bd02c",
+  "time" : {
+    "start" : 1684204418798,
+    "stop" : 1684204419289,
+    "duration" : 491
+  },
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ {
+    "name" : "HooksPkg.Hooks.setUp()",
+    "time" : {
+      "start" : 1684204418798,
+      "stop" : 1684204418798,
+      "duration" : 0
+    },
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "hasContent" : false,
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false
+  }, {
+    "name" : "HooksPkg.Hooks.setup2()",
+    "time" : {
+      "start" : 1684204418798,
+      "stop" : 1684204418804,
+      "duration" : 6
+    },
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "hasContent" : false,
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false
+  } ],
+  "testStage" : {
+    "status" : "passed",
+    "steps" : [ {
+      "name" : "Given  User click on practice questons",
+      "time" : {
+        "start" : 1684204418804,
+        "stop" : 1684204419113,
+        "duration" : 309
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "hasContent" : false,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false
+    }, {
+      "name" : "And  Navigate back to data stuctures introduction page",
+      "time" : {
+        "start" : 1684204419114,
+        "stop" : 1684204419289,
+        "duration" : 175
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "hasContent" : false,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false
+    } ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "stepsCount" : 2,
+    "hasContent" : true,
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false
+  },
+  "afterStages" : [ {
+    "name" : "HooksPkg.Hooks.tearDown(io.cucumber.java.Scenario)",
+    "time" : {
+      "start" : 1684204419289,
+      "stop" : 1684204419289,
+      "duration" : 0
+    },
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "hasContent" : false,
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false
+  } ],
+  "labels" : [ {
+    "name" : "tag",
+    "value" : "dstruct"
+  }, {
+    "name" : "host",
+    "value" : "LAPTOP-TINQNFE1"
+  }, {
+    "name" : "thread",
+    "value" : "25200@LAPTOP-TINQNFE1.main(1)"
+  }, {
+    "name" : "feature",
+    "value" : "Evaluate Data stuructures Introduction"
+  }, {
+    "name" : "story",
+    "value" : "User is able to navigate to practice questions"
+  }, {
+    "name" : "suite",
+    "value" : "Evaluate Data stuructures Introduction"
+  }, {
+    "name" : "testClass",
+    "value" : "User is able to navigate to practice questions"
+  }, {
+    "name" : "framework",
+    "value" : "cucumber4jvm"
+  }, {
+    "name" : "language",
+    "value" : "java"
+  }, {
+    "name" : "gherkin_uri",
+    "value" : "file:///C:/Users/kiran/eclipse-workspace/ZoomDs_algo/src/test/resources/features/5Datastructures.feature"
+  }, {
+    "name" : "package",
+    "value" : "src.test.resources.features.5Datastructures_feature.Evaluate Data stuructures Introduction"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ {
+      "uid" : "fa19a7c0f1a61a72",
+      "status" : "passed",
+      "time" : {
+        "start" : 1684204348189,
+        "stop" : 1684204348581,
+        "duration" : 392
+      }
+    }, {
+      "uid" : "499885aaed600343",
+      "status" : "passed",
+      "time" : {
+        "start" : 1684204031196,
+        "stop" : 1684204031944,
+        "duration" : 748
+      }
+    }, {
+      "uid" : "eaab93b6f3741c8",
+      "status" : "passed",
+      "time" : {
+        "start" : 1684203883679,
+        "stop" : 1684203884240,
+        "duration" : 561
+      }
+    }, {
+      "uid" : "4b52442c9bea4568",
+      "status" : "passed",
+      "time" : {
+        "start" : 1684203374747,
+        "stop" : 1684203375251,
+        "duration" : 504
+      }
+    }, {
+      "uid" : "1bf4157afe1d8078",
+      "status" : "passed",
+      "time" : {
+        "start" : 1684203229772,
+        "stop" : 1684203230144,
+        "duration" : 372
+      }
+    }, {
+      "uid" : "7b083774755c76da",
+      "status" : "passed",
+      "time" : {
+        "start" : 1684202841224,
+        "stop" : 1684202841650,
+        "duration" : 426
+      }
+    }, {
+      "uid" : "cf49c02e897e794",
+      "status" : "passed",
+      "time" : {
+        "start" : 1684202700315,
+        "stop" : 1684202701400,
+        "duration" : 1085
+      }
+    }, {
+      "uid" : "92475e29f444b99d",
+      "status" : "passed",
+      "time" : {
+        "start" : 1684187255289,
+        "stop" : 1684187255529,
+        "duration" : 240
+      }
+    }, {
+      "uid" : "d2822e90e81c66b4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1684187207049,
+        "stop" : 1684187207291,
+        "duration" : 242
+      }
+    }, {
+      "uid" : "1d2769678bc688c4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1684186587262,
+        "stop" : 1684186587527,
+        "duration" : 265
+      }
+    }, {
+      "uid" : "f334c8a8a9a43aa5",
+      "status" : "passed",
+      "time" : {
+        "start" : 1684184894077,
+        "stop" : 1684184894519,
+        "duration" : 442
+      }
+    }, {
+      "uid" : "50028ab80f2f870d",
+      "status" : "passed",
+      "time" : {
+        "start" : 1684184822334,
+        "stop" : 1684184822655,
+        "duration" : 321
+      }
+    }, {
+      "uid" : "d3c2cd6116f98baa",
+      "status" : "passed",
+      "time" : {
+        "start" : 1684154362748,
+        "stop" : 1684154363014,
+        "duration" : 266
+      }
+    }, {
+      "uid" : "3efb9002c9690975",
+      "status" : "passed",
+      "time" : {
+        "start" : 1684153849779,
+        "stop" : 1684153850129,
+        "duration" : 350
+      }
+    }, {
+      "uid" : "397ef8f2f06494a2",
+      "status" : "passed",
+      "time" : {
+        "start" : 1684153803506,
+        "stop" : 1684153803726,
+        "duration" : 220
+      }
+    }, {
+      "uid" : "bb3434d23d7481df",
+      "status" : "passed",
+      "time" : {
+        "start" : 1684153583952,
+        "stop" : 1684153584229,
+        "duration" : 277
+      }
+    }, {
+      "uid" : "882f7b8bc7a58454",
+      "status" : "passed",
+      "time" : {
+        "start" : 1684153519073,
+        "stop" : 1684153519342,
+        "duration" : 269
+      }
+    } ],
+    "categories" : [ ],
+    "history" : {
+      "statistic" : {
+        "failed" : 0,
+        "broken" : 0,
+        "skipped" : 0,
+        "passed" : 3,
+        "unknown" : 0,
+        "total" : 3
+      },
+      "items" : [ {
+        "uid" : "44d62d305043d0da",
+        "reportUrl" : "http://localhost:8080/job/DsalgoProject/5/allure/#testresult/44d62d305043d0da",
+        "status" : "passed",
+        "time" : {
+          "start" : 1684204031196,
+          "stop" : 1684204031944,
+          "duration" : 748
+        }
+      }, {
+        "uid" : "7474b4acfb1eada3",
+        "reportUrl" : "http://localhost:8080/job/DsalgoProject/4/allure/#testresult/7474b4acfb1eada3",
+        "status" : "passed",
+        "time" : {
+          "start" : 1684203374747,
+          "stop" : 1684203375251,
+          "duration" : 504
+        }
+      } ]
+    },
+    "tags" : [ "dstruct" ]
+  },
+  "source" : "f3e8add8ac1340c0.json",
+  "parameterValues" : [ ]
+}

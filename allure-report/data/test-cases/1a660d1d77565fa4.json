@@ -1,0 +1,381 @@
+{
+  "uid" : "1a660d1d77565fa4",
+  "name" : "User navigating to Types of Linked list page",
+  "fullName" : "Evaluate Linkedlist Module: User navigating to Types of Linked list page",
+  "historyId" : "a26a5f137b26df51dca284e280cd16bc",
+  "time" : {
+    "start" : 1684204496688,
+    "stop" : 1684204497654,
+    "duration" : 966
+  },
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ {
+    "name" : "HooksPkg.Hooks.setUp()",
+    "time" : {
+      "start" : 1684204496688,
+      "stop" : 1684204496688,
+      "duration" : 0
+    },
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "hasContent" : false,
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false
+  }, {
+    "name" : "HooksPkg.Hooks.setup2()",
+    "time" : {
+      "start" : 1684204496688,
+      "stop" : 1684204496688,
+      "duration" : 0
+    },
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "hasContent" : false,
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false
+  } ],
+  "testStage" : {
+    "status" : "passed",
+    "steps" : [ {
+      "name" : "Given  The user is in Linked List page",
+      "time" : {
+        "start" : 1684204496688,
+        "stop" : 1684204496688,
+        "duration" : 0
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "hasContent" : false,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false
+    }, {
+      "name" : "When  The user clicks the \"Types of\" Linked List hyperlink",
+      "time" : {
+        "start" : 1684204496688,
+        "stop" : 1684204497061,
+        "duration" : 373
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "hasContent" : false,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false
+    }, {
+      "name" : "Then  The user should be redirected to tryEditor page with a Run button to test",
+      "time" : {
+        "start" : 1684204497061,
+        "stop" : 1684204497324,
+        "duration" : 263
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "hasContent" : false,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false
+    }, {
+      "name" : "And  The user Enter invalid python code in tryEditor from sheet \"Sheet1\" and 1",
+      "time" : {
+        "start" : 1684204497324,
+        "stop" : 1684204497450,
+        "duration" : 126
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "hasContent" : false,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false
+    }, {
+      "name" : "And  user click on Run button",
+      "time" : {
+        "start" : 1684204497450,
+        "stop" : 1684204497524,
+        "duration" : 74
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "hasContent" : false,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false
+    }, {
+      "name" : "Then  The user should get Alert message",
+      "time" : {
+        "start" : 1684204497524,
+        "stop" : 1684204497654,
+        "duration" : 130
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "hasContent" : false,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false
+    } ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "stepsCount" : 6,
+    "hasContent" : true,
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false
+  },
+  "afterStages" : [ {
+    "name" : "HooksPkg.Hooks.tearDown(io.cucumber.java.Scenario)",
+    "time" : {
+      "start" : 1684204497654,
+      "stop" : 1684204497654,
+      "duration" : 0
+    },
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "hasContent" : false,
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false
+  } ],
+  "labels" : [ {
+    "name" : "tag",
+    "value" : "llist"
+  }, {
+    "name" : "host",
+    "value" : "LAPTOP-TINQNFE1"
+  }, {
+    "name" : "thread",
+    "value" : "25200@LAPTOP-TINQNFE1.main(1)"
+  }, {
+    "name" : "feature",
+    "value" : "Evaluate Linkedlist Module"
+  }, {
+    "name" : "story",
+    "value" : "User navigating to Types of Linked list page"
+  }, {
+    "name" : "suite",
+    "value" : "Evaluate Linkedlist Module"
+  }, {
+    "name" : "testClass",
+    "value" : "User navigating to Types of Linked list page"
+  }, {
+    "name" : "framework",
+    "value" : "cucumber4jvm"
+  }, {
+    "name" : "language",
+    "value" : "java"
+  }, {
+    "name" : "gherkin_uri",
+    "value" : "file:///C:/Users/kiran/eclipse-workspace/ZoomDs_algo/src/test/resources/features/7LinkedlistPage.feature"
+  }, {
+    "name" : "package",
+    "value" : "src.test.resources.features.7LinkedlistPage_feature.Evaluate Linkedlist Module"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ {
+    "name" : "rowno",
+    "value" : "1"
+  }, {
+    "name" : "sheetname",
+    "value" : "Sheet1"
+  } ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ {
+      "uid" : "373e262d56a1da9e",
+      "status" : "passed",
+      "time" : {
+        "start" : 1684204379050,
+        "stop" : 1684204380999,
+        "duration" : 1949
+      }
+    }, {
+      "uid" : "c3b89249e5fca21",
+      "status" : "passed",
+      "time" : {
+        "start" : 1684204066126,
+        "stop" : 1684204067034,
+        "duration" : 908
+      }
+    }, {
+      "uid" : "1bdc451bb885463b",
+      "status" : "passed",
+      "time" : {
+        "start" : 1684203920830,
+        "stop" : 1684203921815,
+        "duration" : 985
+      }
+    }, {
+      "uid" : "789f062d99e9542",
+      "status" : "passed",
+      "time" : {
+        "start" : 1684203403585,
+        "stop" : 1684203404820,
+        "duration" : 1235
+      }
+    }, {
+      "uid" : "3362d387bffd646e",
+      "status" : "passed",
+      "time" : {
+        "start" : 1684203263935,
+        "stop" : 1684203265051,
+        "duration" : 1116
+      }
+    }, {
+      "uid" : "4f236211eb87b68c",
+      "status" : "passed",
+      "time" : {
+        "start" : 1684202866526,
+        "stop" : 1684202867431,
+        "duration" : 905
+      }
+    }, {
+      "uid" : "f3beac9312dd98c0",
+      "status" : "passed",
+      "time" : {
+        "start" : 1684202735012,
+        "stop" : 1684202736463,
+        "duration" : 1451
+      }
+    }, {
+      "uid" : "6c546abf11ae2977",
+      "status" : "passed",
+      "time" : {
+        "start" : 1684187278085,
+        "stop" : 1684187279190,
+        "duration" : 1105
+      }
+    }, {
+      "uid" : "e89f6c53ccf7e8d",
+      "status" : "passed",
+      "time" : {
+        "start" : 1684187226901,
+        "stop" : 1684187227723,
+        "duration" : 822
+      }
+    }, {
+      "uid" : "b205a8455ba99764",
+      "status" : "passed",
+      "time" : {
+        "start" : 1684186609288,
+        "stop" : 1684186610648,
+        "duration" : 1360
+      }
+    }, {
+      "uid" : "3fc394f6df913c89",
+      "status" : "passed",
+      "time" : {
+        "start" : 1684184921330,
+        "stop" : 1684184922688,
+        "duration" : 1358
+      }
+    }, {
+      "uid" : "8c88875ccd9bea5f",
+      "status" : "passed",
+      "time" : {
+        "start" : 1684184853769,
+        "stop" : 1684184855895,
+        "duration" : 2126
+      }
+    }, {
+      "uid" : "c070156c3848dff7",
+      "status" : "passed",
+      "time" : {
+        "start" : 1684154381559,
+        "stop" : 1684154382297,
+        "duration" : 738
+      }
+    }, {
+      "uid" : "6c75604eb838f31",
+      "status" : "passed",
+      "time" : {
+        "start" : 1684153872851,
+        "stop" : 1684153874022,
+        "duration" : 1171
+      }
+    }, {
+      "uid" : "85aaa65846aa0fca",
+      "status" : "passed",
+      "time" : {
+        "start" : 1684153825191,
+        "stop" : 1684153826002,
+        "duration" : 811
+      }
+    }, {
+      "uid" : "ae036f3e47e64228",
+      "status" : "passed",
+      "time" : {
+        "start" : 1684153603855,
+        "stop" : 1684153604728,
+        "duration" : 873
+      }
+    }, {
+      "uid" : "66a487eafd6ed88a",
+      "status" : "passed",
+      "time" : {
+        "start" : 1684153548097,
+        "stop" : 1684153549755,
+        "duration" : 1658
+      }
+    } ],
+    "categories" : [ ],
+    "history" : {
+      "statistic" : {
+        "failed" : 0,
+        "broken" : 0,
+        "skipped" : 0,
+        "passed" : 3,
+        "unknown" : 0,
+        "total" : 3
+      },
+      "items" : [ {
+        "uid" : "60dc1c581327877f",
+        "reportUrl" : "http://localhost:8080/job/DsalgoProject/5/allure/#testresult/60dc1c581327877f",
+        "status" : "passed",
+        "time" : {
+          "start" : 1684204066126,
+          "stop" : 1684204067034,
+          "duration" : 908
+        }
+      }, {
+        "uid" : "1af45c96364dcb6f",
+        "reportUrl" : "http://localhost:8080/job/DsalgoProject/4/allure/#testresult/1af45c96364dcb6f",
+        "status" : "passed",
+        "time" : {
+          "start" : 1684203403585,
+          "stop" : 1684203404820,
+          "duration" : 1235
+        }
+      } ]
+    },
+    "tags" : [ "llist" ]
+  },
+  "source" : "1a660d1d77565fa4.json",
+  "parameterValues" : [ "1", "Sheet1" ]
+}

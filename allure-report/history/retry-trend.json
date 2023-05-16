@@ -1,0 +1,25 @@
+[ {
+  "buildOrder" : 6,
+  "reportUrl" : "http://localhost:8080/job/DsalgoProject/6/allure",
+  "reportName" : "AllureReport",
+  "data" : {
+    "run" : 103,
+    "retry" : 1781
+  }
+}, {
+  "buildOrder" : 5,
+  "reportUrl" : "http://localhost:8080/job/DsalgoProject/5/allure",
+  "reportName" : "AllureReport",
+  "data" : {
+    "run" : 103,
+    "retry" : 1561
+  }
+}, {
+  "buildOrder" : 4,
+  "reportUrl" : "http://localhost:8080/job/DsalgoProject/4/allure",
+  "reportName" : "AllureReport",
+  "data" : {
+    "run" : 103,
+    "retry" : 1341
+  }
+} ]

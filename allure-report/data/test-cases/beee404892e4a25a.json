@@ -1,0 +1,208 @@
+{
+  "uid" : "beee404892e4a25a",
+  "name" : "Runs Cucumber Scenarios",
+  "fullName" : "io.cucumber.testng.AbstractTestNGCucumberTests.runScenario",
+  "historyId" : "8c3660e813912a0d0eb1eb5f2f4a1fad",
+  "time" : {
+    "start" : 1684204398545,
+    "stop" : 1684204399899,
+    "duration" : 1354
+  },
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ {
+    "name" : "setUpClass",
+    "time" : {
+      "start" : 1684204394410,
+      "stop" : 1684204394475,
+      "duration" : 65
+    },
+    "description" : "",
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "hasContent" : false,
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false
+  }, {
+    "name" : "defineBrowser",
+    "time" : {
+      "start" : 1684204394410,
+      "stop" : 1684204394410,
+      "duration" : 0
+    },
+    "description" : "",
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "hasContent" : false,
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false
+  } ],
+  "afterStages" : [ {
+    "name" : "tearDownClass",
+    "time" : {
+      "start" : 1684204509326,
+      "stop" : 1684204509354,
+      "duration" : 28
+    },
+    "description" : "",
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "hasContent" : false,
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false
+  } ],
+  "labels" : [ {
+    "name" : "package",
+    "value" : "testRunner.TestNGTestRunner"
+  }, {
+    "name" : "testClass",
+    "value" : "testRunner.TestNGTestRunner"
+  }, {
+    "name" : "testMethod",
+    "value" : "runScenario"
+  }, {
+    "name" : "parentSuite",
+    "value" : "crossBrowserTestSuite"
+  }, {
+    "name" : "suite",
+    "value" : "EdgeTest"
+  }, {
+    "name" : "subSuite",
+    "value" : "testRunner.TestNGTestRunner"
+  }, {
+    "name" : "host",
+    "value" : "LAPTOP-TINQNFE1"
+  }, {
+    "name" : "thread",
+    "value" : "25200@LAPTOP-TINQNFE1.main(1)"
+  }, {
+    "name" : "framework",
+    "value" : "testng"
+  }, {
+    "name" : "language",
+    "value" : "java"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ {
+    "name" : "arg0",
+    "value" : "\"Launch url and navigate to home page\""
+  }, {
+    "name" : "arg1",
+    "value" : "\"evaluate home page\""
+  }, {
+    "name" : "browser",
+    "value" : "edge"
+  } ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ {
+      "uid" : "74d9ca5299d03972",
+      "status" : "broken",
+      "statusDetails" : "no such element: Unable to locate element: {\"method\":\"xpath\",\"selector\":\"//div[@role='alert']\"}\n  (Session info: chrome=113.0.5672.93)\nFor documentation on this error, please visit: https://selenium.dev/exceptions/#no_such_element\nBuild info: version: '4.8.3', revision: 'e5e76298c3'\nSystem info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '20.0.1'\nDriver info: org.openqa.selenium.chrome.ChromeDriver\nCommand: [d2c1984af990ab6f97868cc1ffcabbd9, findElement {using=xpath, value=//div[@role='alert']}]\nCapabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 113.0.5672.93, chrome: {chromedriverVersion: 113.0.5672.63 (0e1a4471d5ae..., userDataDir: C:\\Users\\kiran\\AppData\\Loca...}, goog:chromeOptions: {debuggerAddress: localhost:59495}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: WINDOWS, proxy: Proxy(), se:cdp: ws://localhost:59495/devtoo..., se:cdpVersion: 113.0.5672.93, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}\nSession ID: d2c1984af990ab6f97868cc1ffcabbd9",
+      "time" : {
+        "start" : 1684203961111,
+        "stop" : 1684203966836,
+        "duration" : 5725
+      }
+    }, {
+      "uid" : "4ddac985abd9c4e8",
+      "status" : "broken",
+      "statusDetails" : "no such element: Unable to locate element: {\"method\":\"xpath\",\"selector\":\"//div[@role='alert']\"}\n  (Session info: chrome=113.0.5672.93)\nFor documentation on this error, please visit: https://selenium.dev/exceptions/#no_such_element\nBuild info: version: '4.8.3', revision: 'e5e76298c3'\nSystem info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '20.0.1'\nDriver info: org.openqa.selenium.chrome.ChromeDriver\nCommand: [b1d91fc358de3f0eecf000d8d9a23fde, findElement {using=xpath, value=//div[@role='alert']}]\nCapabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 113.0.5672.93, chrome: {chromedriverVersion: 113.0.5672.63 (0e1a4471d5ae..., userDataDir: C:\\Users\\kiran\\AppData\\Loca...}, goog:chromeOptions: {debuggerAddress: localhost:58835}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: WINDOWS, proxy: Proxy(), se:cdp: ws://localhost:58835/devtoo..., se:cdpVersion: 113.0.5672.93, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}\nSession ID: b1d91fc358de3f0eecf000d8d9a23fde",
+      "time" : {
+        "start" : 1684203303897,
+        "stop" : 1684203309599,
+        "duration" : 5702
+      }
+    }, {
+      "uid" : "64fbcc60adc7c7",
+      "status" : "passed",
+      "time" : {
+        "start" : 1684202753035,
+        "stop" : 1684202753552,
+        "duration" : 517
+      }
+    }, {
+      "uid" : "f560110fe45f8705",
+      "status" : "passed",
+      "time" : {
+        "start" : 1684187240609,
+        "stop" : 1684187241065,
+        "duration" : 456
+      }
+    }, {
+      "uid" : "5ebd1db156fff019",
+      "status" : "passed",
+      "time" : {
+        "start" : 1684184872042,
+        "stop" : 1684184872481,
+        "duration" : 439
+      }
+    }, {
+      "uid" : "3d69a75d126381fd",
+      "status" : "passed",
+      "time" : {
+        "start" : 1684153837020,
+        "stop" : 1684153837558,
+        "duration" : 538
+      }
+    }, {
+      "uid" : "415f2709c425cf2",
+      "status" : "passed",
+      "time" : {
+        "start" : 1684153568675,
+        "stop" : 1684153569303,
+        "duration" : 628
+      }
+    } ],
+    "categories" : [ ],
+    "history" : {
+      "statistic" : {
+        "failed" : 0,
+        "broken" : 2,
+        "skipped" : 0,
+        "passed" : 1,
+        "unknown" : 0,
+        "total" : 3
+      },
+      "items" : [ {
+        "uid" : "ba5b5ca1fcfc6873",
+        "reportUrl" : "http://localhost:8080/job/DsalgoProject/5/allure/#testresult/ba5b5ca1fcfc6873",
+        "status" : "broken",
+        "statusDetails" : "no such element: Unable to locate element: {\"method\":\"xpath\",\"selector\":\"//div[@role='alert']\"}\n  (Session info: chrome=113.0.5672.93)\nFor documentation on this error, please visit: https://selenium.dev/exceptions/#no_such_element\nBuild info: version: '4.8.3', revision: 'e5e76298c3'\nSystem info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '20.0.1'\nDriver info: org.openqa.selenium.chrome.ChromeDriver\nCommand: [d2c1984af990ab6f97868cc1ffcabbd9, findElement {using=xpath, value=//div[@role='alert']}]\nCapabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 113.0.5672.93, chrome: {chromedriverVersion: 113.0.5672.63 (0e1a4471d5ae..., userDataDir: C:\\Users\\kiran\\AppData\\Loca...}, goog:chromeOptions: {debuggerAddress: localhost:59495}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: WINDOWS, proxy: Proxy(), se:cdp: ws://localhost:59495/devtoo..., se:cdpVersion: 113.0.5672.93, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}\nSession ID: d2c1984af990ab6f97868cc1ffcabbd9",
+        "time" : {
+          "start" : 1684203961111,
+          "stop" : 1684203966836,
+          "duration" : 5725
+        }
+      }, {
+        "uid" : "d3a911bd675d3360",
+        "reportUrl" : "http://localhost:8080/job/DsalgoProject/4/allure/#testresult/d3a911bd675d3360",
+        "status" : "broken",
+        "statusDetails" : "no such element: Unable to locate element: {\"method\":\"xpath\",\"selector\":\"//div[@role='alert']\"}\n  (Session info: chrome=113.0.5672.93)\nFor documentation on this error, please visit: https://selenium.dev/exceptions/#no_such_element\nBuild info: version: '4.8.3', revision: 'e5e76298c3'\nSystem info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '20.0.1'\nDriver info: org.openqa.selenium.chrome.ChromeDriver\nCommand: [b1d91fc358de3f0eecf000d8d9a23fde, findElement {using=xpath, value=//div[@role='alert']}]\nCapabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 113.0.5672.93, chrome: {chromedriverVersion: 113.0.5672.63 (0e1a4471d5ae..., userDataDir: C:\\Users\\kiran\\AppData\\Loca...}, goog:chromeOptions: {debuggerAddress: localhost:58835}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: WINDOWS, proxy: Proxy(), se:cdp: ws://localhost:58835/devtoo..., se:cdpVersion: 113.0.5672.93, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}\nSession ID: b1d91fc358de3f0eecf000d8d9a23fde",
+        "time" : {
+          "start" : 1684203303897,
+          "stop" : 1684203309599,
+          "duration" : 5702
+        }
+      } ]
+    },
+    "tags" : [ ]
+  },
+  "source" : "beee404892e4a25a.json",
+  "parameterValues" : [ "\"Launch url and navigate to home page\"", "\"evaluate home page\"", "edge" ]
+}

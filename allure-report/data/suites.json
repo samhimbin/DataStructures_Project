@@ -1,0 +1,1392 @@
+{
+  "uid" : "98d3104e051c652961429bf95fa0b5d6",
+  "name" : "suites",
+  "children" : [ {
+    "name" : "crossBrowserTestSuite",
+    "children" : [ {
+      "name" : "chromeTest",
+      "children" : [ {
+        "name" : "testRunner.TestNGTestRunner",
+        "children" : [ {
+          "name" : "Runs Cucumber Scenarios",
+          "uid" : "3db550f9bde97060",
+          "parentUid" : "12f11929c1a78ad816772aa2071f16f0",
+          "status" : "passed",
+          "time" : {
+            "start" : 1684204286977,
+            "stop" : 1684204296459,
+            "duration" : 9482
+          },
+          "flaky" : false,
+          "newFailed" : false,
+          "parameters" : [ "\"Launch url and navigate to home page\"", "\"feature to test ds algo portal link\"", "Chrome" ]
+        }, {
+          "name" : "Runs Cucumber Scenarios",
+          "uid" : "14b305670fc866b1",
+          "parentUid" : "12f11929c1a78ad816772aa2071f16f0",
+          "status" : "passed",
+          "time" : {
+            "start" : 1684204296470,
+            "stop" : 1684204297267,
+            "duration" : 797
+          },
+          "flaky" : false,
+          "newFailed" : false,
+          "parameters" : [ "\"User navigate to home page\"", "\"evaluate home page\"", "Chrome" ]
+        }, {
+          "name" : "Runs Cucumber Scenarios",
+          "uid" : "2c6fbf1d690f49e4",
+          "parentUid" : "12f11929c1a78ad816772aa2071f16f0",
+          "status" : "passed",
+          "time" : {
+            "start" : 1684204297275,
+            "stop" : 1684204298465,
+            "duration" : 1190
+          },
+          "flaky" : false,
+          "newFailed" : false,
+          "parameters" : [ "\"Launch url and navigate to home page\"", "\"evaluate home page\"", "Chrome" ]
+        }, {
+          "name" : "Runs Cucumber Scenarios",
+          "uid" : "30cfd746f26fcea0",
+          "parentUid" : "12f11929c1a78ad816772aa2071f16f0",
+          "status" : "failed",
+          "time" : {
+            "start" : 1684204313644,
+            "stop" : 1684204315058,
+            "duration" : 1414
+          },
+          "flaky" : false,
+          "newFailed" : false,
+          "parameters" : [ "\"user navigate to registration page\"", "\"feature to test new user registration\"", "Chrome" ]
+        }, {
+          "name" : "Runs Cucumber Scenarios",
+          "uid" : "a4baeb9d51d5a8e3",
+          "parentUid" : "12f11929c1a78ad816772aa2071f16f0",
+          "status" : "passed",
+          "time" : {
+            "start" : 1684204315079,
+            "stop" : 1684204331474,
+            "duration" : 16395
+          },
+          "flaky" : false,
+          "newFailed" : false,
+          "parameters" : [ "\"User on login page and login with inavalid and validinputs from Excel\"Sheet1\" and0\"", "\"User enter valid and invalid credentials for login\"", "Chrome" ]
+        }, {
+          "name" : "Runs Cucumber Scenarios",
+          "uid" : "7f6001fc884812df",
+          "parentUid" : "12f11929c1a78ad816772aa2071f16f0",
+          "status" : "passed",
+          "time" : {
+            "start" : 1684204331477,
+            "stop" : 1684204333434,
+            "duration" : 1957
+          },
+          "flaky" : false,
+          "newFailed" : false,
+          "parameters" : [ "\"User on login page and login with inavalid and validinputs from Excel\"Sheet1\" and1\"", "\"User enter valid and invalid credentials for login\"", "Chrome" ]
+        }, {
+          "name" : "Runs Cucumber Scenarios",
+          "uid" : "fad396a531028172",
+          "parentUid" : "12f11929c1a78ad816772aa2071f16f0",
+          "status" : "passed",
+          "time" : {
+            "start" : 1684204333440,
+            "stop" : 1684204334614,
+            "duration" : 1174
+          },
+          "flaky" : false,
+          "newFailed" : false,
+          "parameters" : [ "\"User on login page and login with inavalid and validinputs from Excel\"Sheet1\" and2\"", "\"User enter valid and invalid credentials for login\"", "Chrome" ]
+        }, {
+          "name" : "Runs Cucumber Scenarios",
+          "uid" : "e33f2d7d4b13d554",
+          "parentUid" : "12f11929c1a78ad816772aa2071f16f0",
+          "status" : "passed",
+          "time" : {
+            "start" : 1684204334614,
+            "stop" : 1684204336518,
+            "duration" : 1904
+          },
+          "flaky" : false,
+          "newFailed" : false,
+          "parameters" : [ "\"User on login page and login with inavalid and validinputs from Excel\"Sheet1\" and3\"", "\"User enter valid and invalid credentials for login\"", "Chrome" ]
+        }, {
+          "name" : "Runs Cucumber Scenarios",
+          "uid" : "a41a949f3af00ed4",
+          "parentUid" : "12f11929c1a78ad816772aa2071f16f0",
+          "status" : "passed",
+          "time" : {
+            "start" : 1684204336526,
+            "stop" : 1684204347308,
+            "duration" : 10782
+          },
+          "flaky" : false,
+          "newFailed" : false,
+          "parameters" : [ "\"User is able to navigate Data Structures Introduction\"", "\"Evaluate Data stuructures Introduction\"", "Chrome" ]
+        }, {
+          "name" : "Runs Cucumber Scenarios",
+          "uid" : "fb35325026d852e9",
+          "parentUid" : "12f11929c1a78ad816772aa2071f16f0",
+          "status" : "passed",
+          "time" : {
+            "start" : 1684204347314,
+            "stop" : 1684204348169,
+            "duration" : 855
+          },
+          "flaky" : false,
+          "newFailed" : false,
+          "parameters" : [ "\"User is able to navigate to tryeditor page and run invalid python code\"", "\"Evaluate Data stuructures Introduction\"", "Chrome" ]
+        }, {
+          "name" : "Runs Cucumber Scenarios",
+          "uid" : "70c657367dc42265",
+          "parentUid" : "12f11929c1a78ad816772aa2071f16f0",
+          "status" : "passed",
+          "time" : {
+            "start" : 1684204348174,
+            "stop" : 1684204348589,
+            "duration" : 415
+          },
+          "flaky" : false,
+          "newFailed" : false,
+          "parameters" : [ "\"User is able to navigate to practice questions\"", "\"Evaluate Data stuructures Introduction\"", "Chrome" ]
+        }, {
+          "name" : "Runs Cucumber Scenarios",
+          "uid" : "d7165472a41c2872",
+          "parentUid" : "12f11929c1a78ad816772aa2071f16f0",
+          "status" : "passed",
+          "time" : {
+            "start" : 1684204348589,
+            "stop" : 1684204350556,
+            "duration" : 1967
+          },
+          "flaky" : false,
+          "newFailed" : false,
+          "parameters" : [ "\"The user is able to navigate to a page having Arrays in Python Topic\"", "\"Evaluate arrays module\"", "Chrome" ]
+        }, {
+          "name" : "Runs Cucumber Scenarios",
+          "uid" : "bfade45c7c11ba03",
+          "parentUid" : "12f11929c1a78ad816772aa2071f16f0",
+          "status" : "passed",
+          "time" : {
+            "start" : 1684204366924,
+            "stop" : 1684204368215,
+            "duration" : 1291
+          },
+          "flaky" : false,
+          "newFailed" : false,
+          "parameters" : [ "\"User is able to navigate to tryeditor page and run valid python code\"", "\"Evaluate arrays module\"", "Chrome" ]
+        }, {
+          "name" : "Runs Cucumber Scenarios",
+          "uid" : "3972a727d971dafd",
+          "parentUid" : "12f11929c1a78ad816772aa2071f16f0",
+          "status" : "passed",
+          "time" : {
+            "start" : 1684204368219,
+            "stop" : 1684204368950,
+            "duration" : 731
+          },
+          "flaky" : false,
+          "newFailed" : false,
+          "parameters" : [ "\"User is able to navigate to tryeditor page and run invalid python code\"", "\"Evaluate arrays module\"", "Chrome" ]
+        }, {
+          "name" : "Runs Cucumber Scenarios",
+          "uid" : "f70f927432c1b14b",
+          "parentUid" : "12f11929c1a78ad816772aa2071f16f0",
+          "status" : "passed",
+          "time" : {
+            "start" : 1684204368959,
+            "stop" : 1684204369847,
+            "duration" : 888
+          },
+          "flaky" : false,
+          "newFailed" : false,
+          "parameters" : [ "\"User is Logged in to DSAlgo portal\"", "\"Evaluate Linkedlist Module\"", "Chrome" ]
+        }, {
+          "name" : "Runs Cucumber Scenarios",
+          "uid" : "6f7e752a903b3226",
+          "parentUid" : "12f11929c1a78ad816772aa2071f16f0",
+          "status" : "passed",
+          "time" : {
+            "start" : 1684204369851,
+            "stop" : 1684204372464,
+            "duration" : 2613
+          },
+          "flaky" : false,
+          "newFailed" : false,
+          "parameters" : [ "\"User Navigating to LinkedList Page\"", "\"Evaluate Linkedlist Module\"", "Chrome" ]
+        }, {
+          "name" : "Runs Cucumber Scenarios",
+          "uid" : "24f36b853db6205e",
+          "parentUid" : "12f11929c1a78ad816772aa2071f16f0",
+          "status" : "passed",
+          "time" : {
+            "start" : 1684204373324,
+            "stop" : 1684204373979,
+            "duration" : 655
+          },
+          "flaky" : false,
+          "newFailed" : false,
+          "parameters" : [ "\"user navigating to Introduction of LinkedlistPage and using Data from Excel to evaluate\"", "\"Evaluate Linkedlist Module\"", "Chrome" ]
+        }, {
+          "name" : "Runs Cucumber Scenarios",
+          "uid" : "a323b85439328902",
+          "parentUid" : "12f11929c1a78ad816772aa2071f16f0",
+          "status" : "passed",
+          "time" : {
+            "start" : 1684204375229,
+            "stop" : 1684204376906,
+            "duration" : 1677
+          },
+          "flaky" : false,
+          "newFailed" : false,
+          "parameters" : [ "\"User navigating to Creating a Linked list page\"", "\"Evaluate Linkedlist Module\"", "Chrome" ]
+        }, {
+          "name" : "Runs Cucumber Scenarios",
+          "uid" : "9c751339d805f358",
+          "parentUid" : "12f11929c1a78ad816772aa2071f16f0",
+          "status" : "passed",
+          "time" : {
+            "start" : 1684204379026,
+            "stop" : 1684204381004,
+            "duration" : 1978
+          },
+          "flaky" : false,
+          "newFailed" : false,
+          "parameters" : [ "\"User navigating to Types of Linked list page\"", "\"Evaluate Linkedlist Module\"", "Chrome" ]
+        }, {
+          "name" : "Runs Cucumber Scenarios",
+          "uid" : "7b1116c8d23a33ca",
+          "parentUid" : "12f11929c1a78ad816772aa2071f16f0",
+          "status" : "passed",
+          "time" : {
+            "start" : 1684204383374,
+            "stop" : 1684204385049,
+            "duration" : 1675
+          },
+          "flaky" : false,
+          "newFailed" : false,
+          "parameters" : [ "\"User navigating to Implement Linked list page\"", "\"Evaluate Linkedlist Module\"", "Chrome" ]
+        }, {
+          "name" : "Runs Cucumber Scenarios",
+          "uid" : "61c5a300292bfb7f",
+          "parentUid" : "12f11929c1a78ad816772aa2071f16f0",
+          "status" : "passed",
+          "time" : {
+            "start" : 1684204386684,
+            "stop" : 1684204387994,
+            "duration" : 1310
+          },
+          "flaky" : false,
+          "newFailed" : false,
+          "parameters" : [ "\"User navigating to Traversal of Linked list page\"", "\"Evaluate Linkedlist Module\"", "Chrome" ]
+        }, {
+          "name" : "Runs Cucumber Scenarios",
+          "uid" : "127aac70d6d78804",
+          "parentUid" : "12f11929c1a78ad816772aa2071f16f0",
+          "status" : "passed",
+          "time" : {
+            "start" : 1684204390066,
+            "stop" : 1684204391174,
+            "duration" : 1108
+          },
+          "flaky" : false,
+          "newFailed" : false,
+          "parameters" : [ "\"User navigating to Insertion of Linked list page\"", "\"Evaluate Linkedlist Module\"", "Chrome" ]
+        }, {
+          "name" : "Runs Cucumber Scenarios",
+          "uid" : "12b1ebcf355c201f",
+          "parentUid" : "12f11929c1a78ad816772aa2071f16f0",
+          "status" : "passed",
+          "time" : {
+            "start" : 1684204392404,
+            "stop" : 1684204393327,
+            "duration" : 923
+          },
+          "flaky" : false,
+          "newFailed" : false,
+          "parameters" : [ "\"User navigating to Deletion of Linked list page\"", "\"Evaluate Linkedlist Module\"", "Chrome" ]
+        }, {
+          "name" : "Runs Cucumber Scenarios",
+          "uid" : "91262bf9498735c9",
+          "parentUid" : "12f11929c1a78ad816772aa2071f16f0",
+          "status" : "passed",
+          "time" : {
+            "start" : 1684204393335,
+            "stop" : 1684204394334,
+            "duration" : 999
+          },
+          "flaky" : false,
+          "newFailed" : false,
+          "parameters" : [ "\"User validating Practice Questions Page\"", "\"Evaluate Linkedlist Module\"", "Chrome" ]
+        } ],
+        "uid" : "12f11929c1a78ad816772aa2071f16f0"
+      } ],
+      "uid" : "912168214ae57a30f3d3036d138d9de8"
+    }, {
+      "name" : "EdgeTest",
+      "children" : [ {
+        "name" : "testRunner.TestNGTestRunner",
+        "children" : [ {
+          "name" : "Runs Cucumber Scenarios",
+          "uid" : "9fe92ce5ab58da80",
+          "parentUid" : "929a44bf78a31cf12dea157d256ecb72",
+          "status" : "passed",
+          "time" : {
+            "start" : 1684204394475,
+            "stop" : 1684204398124,
+            "duration" : 3649
+          },
+          "flaky" : false,
+          "newFailed" : false,
+          "parameters" : [ "\"Launch url and navigate to home page\"", "\"feature to test ds algo portal link\"", "edge" ]
+        }, {
+          "name" : "Runs Cucumber Scenarios",
+          "uid" : "60640e2000428c49",
+          "parentUid" : "929a44bf78a31cf12dea157d256ecb72",
+          "status" : "passed",
+          "time" : {
+            "start" : 1684204398129,
+            "stop" : 1684204398544,
+            "duration" : 415
+          },
+          "flaky" : false,
+          "newFailed" : false,
+          "parameters" : [ "\"User navigate to home page\"", "\"evaluate home page\"", "edge" ]
+        }, {
+          "name" : "Runs Cucumber Scenarios",
+          "uid" : "beee404892e4a25a",
+          "parentUid" : "929a44bf78a31cf12dea157d256ecb72",
+          "status" : "passed",
+          "time" : {
+            "start" : 1684204398545,
+            "stop" : 1684204399899,
+            "duration" : 1354
+          },
+          "flaky" : false,
+          "newFailed" : false,
+          "parameters" : [ "\"Launch url and navigate to home page\"", "\"evaluate home page\"", "edge" ]
+        }, {
+          "name" : "Runs Cucumber Scenarios",
+          "uid" : "16ee16cc00f4f609",
+          "parentUid" : "929a44bf78a31cf12dea157d256ecb72",
+          "status" : "failed",
+          "time" : {
+            "start" : 1684204409286,
+            "stop" : 1684204410455,
+            "duration" : 1169
+          },
+          "flaky" : false,
+          "newFailed" : false,
+          "parameters" : [ "\"user navigate to registration page\"", "\"feature to test new user registration\"", "edge" ]
+        }, {
+          "name" : "Runs Cucumber Scenarios",
+          "uid" : "cb342961f67ea426",
+          "parentUid" : "929a44bf78a31cf12dea157d256ecb72",
+          "status" : "passed",
+          "time" : {
+            "start" : 1684204410459,
+            "stop" : 1684204411160,
+            "duration" : 701
+          },
+          "flaky" : false,
+          "newFailed" : false,
+          "parameters" : [ "\"User on login page and login with inavalid and validinputs from Excel\"Sheet1\" and0\"", "\"User enter valid and invalid credentials for login\"", "edge" ]
+        }, {
+          "name" : "Runs Cucumber Scenarios",
+          "uid" : "17ecbb66e6cae01e",
+          "parentUid" : "929a44bf78a31cf12dea157d256ecb72",
+          "status" : "passed",
+          "time" : {
+            "start" : 1684204411171,
+            "stop" : 1684204412875,
+            "duration" : 1704
+          },
+          "flaky" : false,
+          "newFailed" : false,
+          "parameters" : [ "\"User on login page and login with inavalid and validinputs from Excel\"Sheet1\" and1\"", "\"User enter valid and invalid credentials for login\"", "edge" ]
+        }, {
+          "name" : "Runs Cucumber Scenarios",
+          "uid" : "43bab7305900de74",
+          "parentUid" : "929a44bf78a31cf12dea157d256ecb72",
+          "status" : "passed",
+          "time" : {
+            "start" : 1684204412875,
+            "stop" : 1684204413654,
+            "duration" : 779
+          },
+          "flaky" : false,
+          "newFailed" : false,
+          "parameters" : [ "\"User on login page and login with inavalid and validinputs from Excel\"Sheet1\" and2\"", "\"User enter valid and invalid credentials for login\"", "edge" ]
+        }, {
+          "name" : "Runs Cucumber Scenarios",
+          "uid" : "9225921c49e98712",
+          "parentUid" : "929a44bf78a31cf12dea157d256ecb72",
+          "status" : "passed",
+          "time" : {
+            "start" : 1684204413664,
+            "stop" : 1684204414755,
+            "duration" : 1091
+          },
+          "flaky" : false,
+          "newFailed" : false,
+          "parameters" : [ "\"User on login page and login with inavalid and validinputs from Excel\"Sheet1\" and3\"", "\"User enter valid and invalid credentials for login\"", "edge" ]
+        }, {
+          "name" : "Runs Cucumber Scenarios",
+          "uid" : "65bc667d4a53b93f",
+          "parentUid" : "929a44bf78a31cf12dea157d256ecb72",
+          "status" : "passed",
+          "time" : {
+            "start" : 1684204414763,
+            "stop" : 1684204417687,
+            "duration" : 2924
+          },
+          "flaky" : false,
+          "newFailed" : false,
+          "parameters" : [ "\"User is able to navigate Data Structures Introduction\"", "\"Evaluate Data stuructures Introduction\"", "edge" ]
+        }, {
+          "name" : "Runs Cucumber Scenarios",
+          "uid" : "934bd381b3c060e4",
+          "parentUid" : "929a44bf78a31cf12dea157d256ecb72",
+          "status" : "passed",
+          "time" : {
+            "start" : 1684204417694,
+            "stop" : 1684204418779,
+            "duration" : 1085
+          },
+          "flaky" : false,
+          "newFailed" : false,
+          "parameters" : [ "\"User is able to navigate to tryeditor page and run invalid python code\"", "\"Evaluate Data stuructures Introduction\"", "edge" ]
+        }, {
+          "name" : "Runs Cucumber Scenarios",
+          "uid" : "43306e643934998d",
+          "parentUid" : "929a44bf78a31cf12dea157d256ecb72",
+          "status" : "passed",
+          "time" : {
+            "start" : 1684204418791,
+            "stop" : 1684204419294,
+            "duration" : 503
+          },
+          "flaky" : false,
+          "newFailed" : false,
+          "parameters" : [ "\"User is able to navigate to practice questions\"", "\"Evaluate Data stuructures Introduction\"", "edge" ]
+        }, {
+          "name" : "Runs Cucumber Scenarios",
+          "uid" : "4dc492422312e37a",
+          "parentUid" : "929a44bf78a31cf12dea157d256ecb72",
+          "status" : "passed",
+          "time" : {
+            "start" : 1684204419297,
+            "stop" : 1684204421990,
+            "duration" : 2693
+          },
+          "flaky" : false,
+          "newFailed" : false,
+          "parameters" : [ "\"The user is able to navigate to a page having Arrays in Python Topic\"", "\"Evaluate arrays module\"", "edge" ]
+        }, {
+          "name" : "Runs Cucumber Scenarios",
+          "uid" : "6e6c53e241cd3b63",
+          "parentUid" : "929a44bf78a31cf12dea157d256ecb72",
+          "status" : "passed",
+          "time" : {
+            "start" : 1684204449749,
+            "stop" : 1684204450769,
+            "duration" : 1020
+          },
+          "flaky" : false,
+          "newFailed" : false,
+          "parameters" : [ "\"User is able to navigate to tryeditor page and run valid python code\"", "\"Evaluate arrays module\"", "edge" ]
+        }, {
+          "name" : "Runs Cucumber Scenarios",
+          "uid" : "7c1e26e54580d906",
+          "parentUid" : "929a44bf78a31cf12dea157d256ecb72",
+          "status" : "passed",
+          "time" : {
+            "start" : 1684204450774,
+            "stop" : 1684204451544,
+            "duration" : 770
+          },
+          "flaky" : false,
+          "newFailed" : false,
+          "parameters" : [ "\"User is able to navigate to tryeditor page and run invalid python code\"", "\"Evaluate arrays module\"", "edge" ]
+        }, {
+          "name" : "Runs Cucumber Scenarios",
+          "uid" : "f0e4a84bcd919069",
+          "parentUid" : "929a44bf78a31cf12dea157d256ecb72",
+          "status" : "passed",
+          "time" : {
+            "start" : 1684204451554,
+            "stop" : 1684204452744,
+            "duration" : 1190
+          },
+          "flaky" : false,
+          "newFailed" : false,
+          "parameters" : [ "\"User is Logged in to DSAlgo portal\"", "\"Evaluate Linkedlist Module\"", "edge" ]
+        }, {
+          "name" : "Runs Cucumber Scenarios",
+          "uid" : "a2e5ca5c7aa8b59d",
+          "parentUid" : "929a44bf78a31cf12dea157d256ecb72",
+          "status" : "passed",
+          "time" : {
+            "start" : 1684204452744,
+            "stop" : 1684204456367,
+            "duration" : 3623
+          },
+          "flaky" : false,
+          "newFailed" : false,
+          "parameters" : [ "\"User Navigating to LinkedList Page\"", "\"Evaluate Linkedlist Module\"", "edge" ]
+        }, {
+          "name" : "Runs Cucumber Scenarios",
+          "uid" : "e92ae41b06ff2b2e",
+          "parentUid" : "929a44bf78a31cf12dea157d256ecb72",
+          "status" : "passed",
+          "time" : {
+            "start" : 1684204457029,
+            "stop" : 1684204457944,
+            "duration" : 915
+          },
+          "flaky" : false,
+          "newFailed" : false,
+          "parameters" : [ "\"user navigating to Introduction of LinkedlistPage and using Data from Excel to evaluate\"", "\"Evaluate Linkedlist Module\"", "edge" ]
+        }, {
+          "name" : "Runs Cucumber Scenarios",
+          "uid" : "658f5bfe36c3aef8",
+          "parentUid" : "929a44bf78a31cf12dea157d256ecb72",
+          "status" : "passed",
+          "time" : {
+            "start" : 1684204492000,
+            "stop" : 1684204494864,
+            "duration" : 2864
+          },
+          "flaky" : false,
+          "newFailed" : false,
+          "parameters" : [ "\"User navigating to Creating a Linked list page\"", "\"Evaluate Linkedlist Module\"", "edge" ]
+        }, {
+          "name" : "Runs Cucumber Scenarios",
+          "uid" : "75a81cd01444b04",
+          "parentUid" : "929a44bf78a31cf12dea157d256ecb72",
+          "status" : "passed",
+          "time" : {
+            "start" : 1684204496680,
+            "stop" : 1684204497662,
+            "duration" : 982
+          },
+          "flaky" : false,
+          "newFailed" : false,
+          "parameters" : [ "\"User navigating to Types of Linked list page\"", "\"Evaluate Linkedlist Module\"", "edge" ]
+        }, {
+          "name" : "Runs Cucumber Scenarios",
+          "uid" : "5b0313fb09c8486d",
+          "parentUid" : "929a44bf78a31cf12dea157d256ecb72",
+          "status" : "passed",
+          "time" : {
+            "start" : 1684204498789,
+            "stop" : 1684204500533,
+            "duration" : 1744
+          },
+          "flaky" : false,
+          "newFailed" : false,
+          "parameters" : [ "\"User navigating to Implement Linked list page\"", "\"Evaluate Linkedlist Module\"", "edge" ]
+        }, {
+          "name" : "Runs Cucumber Scenarios",
+          "uid" : "f7f439f511a2b4d7",
+          "parentUid" : "929a44bf78a31cf12dea157d256ecb72",
+          "status" : "passed",
+          "time" : {
+            "start" : 1684204502064,
+            "stop" : 1684204503294,
+            "duration" : 1230
+          },
+          "flaky" : false,
+          "newFailed" : false,
+          "parameters" : [ "\"User navigating to Traversal of Linked list page\"", "\"Evaluate Linkedlist Module\"", "edge" ]
+        }, {
+          "name" : "Runs Cucumber Scenarios",
+          "uid" : "10718bd2dae642a7",
+          "parentUid" : "929a44bf78a31cf12dea157d256ecb72",
+          "status" : "passed",
+          "time" : {
+            "start" : 1684204504444,
+            "stop" : 1684204506151,
+            "duration" : 1707
+          },
+          "flaky" : false,
+          "newFailed" : false,
+          "parameters" : [ "\"User navigating to Insertion of Linked list page\"", "\"Evaluate Linkedlist Module\"", "edge" ]
+        }, {
+          "name" : "Runs Cucumber Scenarios",
+          "uid" : "6d62fdbc2c8db55f",
+          "parentUid" : "929a44bf78a31cf12dea157d256ecb72",
+          "status" : "passed",
+          "time" : {
+            "start" : 1684204507247,
+            "stop" : 1684204508244,
+            "duration" : 997
+          },
+          "flaky" : false,
+          "newFailed" : false,
+          "parameters" : [ "\"User navigating to Deletion of Linked list page\"", "\"Evaluate Linkedlist Module\"", "edge" ]
+        }, {
+          "name" : "Runs Cucumber Scenarios",
+          "uid" : "dca7ab3d7ced4628",
+          "parentUid" : "929a44bf78a31cf12dea157d256ecb72",
+          "status" : "passed",
+          "time" : {
+            "start" : 1684204508252,
+            "stop" : 1684204509326,
+            "duration" : 1074
+          },
+          "flaky" : false,
+          "newFailed" : false,
+          "parameters" : [ "\"User validating Practice Questions Page\"", "\"Evaluate Linkedlist Module\"", "edge" ]
+        } ],
+        "uid" : "929a44bf78a31cf12dea157d256ecb72"
+      } ],
+      "uid" : "976ccdca693f47252d7f18276ecf770a"
+    } ],
+    "uid" : "32927ea479da21ad0daa59c6aefef6e9"
+  }, {
+    "name" : "feature to test ds algo portal link",
+    "children" : [ {
+      "name" : "Launch url and navigate to home page",
+      "uid" : "91ff59cf85aad911",
+      "parentUid" : "0559c0679990fcaa17bf7fcd3183c6d5",
+      "status" : "passed",
+      "time" : {
+        "start" : 1684204394484,
+        "stop" : 1684204398124,
+        "duration" : 3640
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ ]
+    } ],
+    "uid" : "0559c0679990fcaa17bf7fcd3183c6d5"
+  }, {
+    "name" : "evaluate home page",
+    "children" : [ {
+      "name" : "User navigate to home page",
+      "uid" : "dfc00dd41e483988",
+      "parentUid" : "42fb5f0d9a3aeb0cfbde0bed32d4643d",
+      "status" : "passed",
+      "time" : {
+        "start" : 1684204398137,
+        "stop" : 1684204398537,
+        "duration" : 400
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ ]
+    }, {
+      "name" : "Launch url and navigate to home page",
+      "uid" : "60f3c49b232e69fb",
+      "parentUid" : "42fb5f0d9a3aeb0cfbde0bed32d4643d",
+      "status" : "passed",
+      "time" : {
+        "start" : 1684204398554,
+        "stop" : 1684204399884,
+        "duration" : 1330
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ ]
+    } ],
+    "uid" : "42fb5f0d9a3aeb0cfbde0bed32d4643d"
+  }, {
+    "name" : "feature to test new user registration",
+    "children" : [ {
+      "name" : "user navigate to registration page",
+      "uid" : "6230bd89d3a3994b",
+      "parentUid" : "02d304dc41b926100bf11f3346786bfd",
+      "status" : "passed",
+      "time" : {
+        "start" : 1684204399908,
+        "stop" : 1684204400776,
+        "duration" : 868
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "0", "Sheet1" ]
+    }, {
+      "name" : "user navigate to registration page",
+      "uid" : "1d4734e2b8d7ade0",
+      "parentUid" : "02d304dc41b926100bf11f3346786bfd",
+      "status" : "passed",
+      "time" : {
+        "start" : 1684204400790,
+        "stop" : 1684204401437,
+        "duration" : 647
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "1", "Sheet1" ]
+    }, {
+      "name" : "user navigate to registration page",
+      "uid" : "868c85f49eae2c87",
+      "parentUid" : "02d304dc41b926100bf11f3346786bfd",
+      "status" : "passed",
+      "time" : {
+        "start" : 1684204401454,
+        "stop" : 1684204402254,
+        "duration" : 800
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "2", "Sheet1" ]
+    }, {
+      "name" : "user navigate to registration page",
+      "uid" : "39c696a3a49861c",
+      "parentUid" : "02d304dc41b926100bf11f3346786bfd",
+      "status" : "passed",
+      "time" : {
+        "start" : 1684204402269,
+        "stop" : 1684204403205,
+        "duration" : 936
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "3", "Sheet1" ]
+    }, {
+      "name" : "user navigate to registration page",
+      "uid" : "efb69ea49343a2e5",
+      "parentUid" : "02d304dc41b926100bf11f3346786bfd",
+      "status" : "passed",
+      "time" : {
+        "start" : 1684204403214,
+        "stop" : 1684204404084,
+        "duration" : 870
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "4", "Sheet1" ]
+    }, {
+      "name" : "user navigate to registration page",
+      "uid" : "4bfc71b22ab18cfe",
+      "parentUid" : "02d304dc41b926100bf11f3346786bfd",
+      "status" : "passed",
+      "time" : {
+        "start" : 1684204404094,
+        "stop" : 1684204404992,
+        "duration" : 898
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "5", "Sheet1" ]
+    }, {
+      "name" : "user navigate to registration page",
+      "uid" : "fb23af424e416746",
+      "parentUid" : "02d304dc41b926100bf11f3346786bfd",
+      "status" : "passed",
+      "time" : {
+        "start" : 1684204405009,
+        "stop" : 1684204406284,
+        "duration" : 1275
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "6", "Sheet1" ]
+    }, {
+      "name" : "user navigate to registration page",
+      "uid" : "2c98c3554ac5ce2b",
+      "parentUid" : "02d304dc41b926100bf11f3346786bfd",
+      "status" : "passed",
+      "time" : {
+        "start" : 1684204406299,
+        "stop" : 1684204407337,
+        "duration" : 1038
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "7", "Sheet1" ]
+    }, {
+      "name" : "user navigate to registration page",
+      "uid" : "3656f101f5e411c5",
+      "parentUid" : "02d304dc41b926100bf11f3346786bfd",
+      "status" : "passed",
+      "time" : {
+        "start" : 1684204407359,
+        "stop" : 1684204408365,
+        "duration" : 1006
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "8", "Sheet1" ]
+    }, {
+      "name" : "user navigate to registration page",
+      "uid" : "2aad31411de75b16",
+      "parentUid" : "02d304dc41b926100bf11f3346786bfd",
+      "status" : "passed",
+      "time" : {
+        "start" : 1684204408384,
+        "stop" : 1684204409278,
+        "duration" : 894
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "9", "Sheet1" ]
+    }, {
+      "name" : "user navigate to registration page",
+      "uid" : "e15e5164bbecf142",
+      "parentUid" : "02d304dc41b926100bf11f3346786bfd",
+      "status" : "failed",
+      "time" : {
+        "start" : 1684204409286,
+        "stop" : 1684204410447,
+        "duration" : 1161
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "10", "Sheet1" ]
+    } ],
+    "uid" : "02d304dc41b926100bf11f3346786bfd"
+  }, {
+    "name" : "User enter valid and invalid credentials for login",
+    "children" : [ {
+      "name" : "User on login page and login with inavalid and validinputs from Excel\"Sheet1\" and0",
+      "uid" : "8625c5d3b9be1a01",
+      "parentUid" : "977046da7b7b942cfd0333e04d85e464",
+      "status" : "passed",
+      "time" : {
+        "start" : 1684204410464,
+        "stop" : 1684204411160,
+        "duration" : 696
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "0", "Sheet1" ]
+    }, {
+      "name" : "User on login page and login with inavalid and validinputs from Excel\"Sheet1\" and1",
+      "uid" : "6ceb1b92831603c3",
+      "parentUid" : "977046da7b7b942cfd0333e04d85e464",
+      "status" : "passed",
+      "time" : {
+        "start" : 1684204411179,
+        "stop" : 1684204412867,
+        "duration" : 1688
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "1", "Sheet1" ]
+    }, {
+      "name" : "User on login page and login with inavalid and validinputs from Excel\"Sheet1\" and2",
+      "uid" : "e7f9ab4751f231f3",
+      "parentUid" : "977046da7b7b942cfd0333e04d85e464",
+      "status" : "passed",
+      "time" : {
+        "start" : 1684204412875,
+        "stop" : 1684204413654,
+        "duration" : 779
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "2", "Sheet1" ]
+    }, {
+      "name" : "User on login page and login with inavalid and validinputs from Excel\"Sheet1\" and3",
+      "uid" : "6f07a973404e6e9b",
+      "parentUid" : "977046da7b7b942cfd0333e04d85e464",
+      "status" : "passed",
+      "time" : {
+        "start" : 1684204413670,
+        "stop" : 1684204414755,
+        "duration" : 1085
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "3", "Sheet1" ]
+    } ],
+    "uid" : "977046da7b7b942cfd0333e04d85e464"
+  }, {
+    "name" : "Evaluate Data stuructures Introduction",
+    "children" : [ {
+      "name" : "User is able to navigate Data Structures Introduction",
+      "uid" : "44c7cb3fa9051d56",
+      "parentUid" : "c20dbc33a2ccb916f9314debde8802d3",
+      "status" : "passed",
+      "time" : {
+        "start" : 1684204414771,
+        "stop" : 1684204417679,
+        "duration" : 2908
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "0", "Sheet1" ]
+    }, {
+      "name" : "User is able to navigate to tryeditor page and run invalid python code",
+      "uid" : "8f236ba821e70746",
+      "parentUid" : "c20dbc33a2ccb916f9314debde8802d3",
+      "status" : "passed",
+      "time" : {
+        "start" : 1684204417704,
+        "stop" : 1684204418774,
+        "duration" : 1070
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "1", "Sheet1" ]
+    }, {
+      "name" : "User is able to navigate to practice questions",
+      "uid" : "f3e8add8ac1340c0",
+      "parentUid" : "c20dbc33a2ccb916f9314debde8802d3",
+      "status" : "passed",
+      "time" : {
+        "start" : 1684204418798,
+        "stop" : 1684204419289,
+        "duration" : 491
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ ]
+    } ],
+    "uid" : "c20dbc33a2ccb916f9314debde8802d3"
+  }, {
+    "name" : "Evaluate arrays module",
+    "children" : [ {
+      "name" : "The user is able to navigate to a page having Arrays in Python Topic",
+      "uid" : "3a631de23b32a492",
+      "parentUid" : "a7e405e0fc30107410be390508bb036d",
+      "status" : "passed",
+      "time" : {
+        "start" : 1684204419313,
+        "stop" : 1684204421984,
+        "duration" : 2671
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ ]
+    }, {
+      "name" : "User is able to navigate to tryeditor page and run valid python code",
+      "uid" : "be96d3415601dc",
+      "parentUid" : "a7e405e0fc30107410be390508bb036d",
+      "status" : "passed",
+      "time" : {
+        "start" : 1684204421994,
+        "stop" : 1684204423184,
+        "duration" : 1190
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "0", "Sheet1" ]
+    }, {
+      "name" : "User is able to navigate to tryeditor page and run invalid python code",
+      "uid" : "44541f2d4d0b6c37",
+      "parentUid" : "a7e405e0fc30107410be390508bb036d",
+      "status" : "passed",
+      "time" : {
+        "start" : 1684204423204,
+        "stop" : 1684204423894,
+        "duration" : 690
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "1", "Sheet1" ]
+    }, {
+      "name" : "User is able to navigate to tryeditor page and run valid python code",
+      "uid" : "f84980a4555a066a",
+      "parentUid" : "a7e405e0fc30107410be390508bb036d",
+      "status" : "passed",
+      "time" : {
+        "start" : 1684204423924,
+        "stop" : 1684204429274,
+        "duration" : 5350
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "0", "Sheet1" ]
+    }, {
+      "name" : "User is able to navigate to tryeditor page and run invalid python code",
+      "uid" : "4cb1308bade9c99",
+      "parentUid" : "a7e405e0fc30107410be390508bb036d",
+      "status" : "passed",
+      "time" : {
+        "start" : 1684204429294,
+        "stop" : 1684204431104,
+        "duration" : 1810
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "1", "Sheet1" ]
+    }, {
+      "name" : "User is able to navigate to tryeditor page and run valid python code",
+      "uid" : "de0a0600b29bbec1",
+      "parentUid" : "a7e405e0fc30107410be390508bb036d",
+      "status" : "passed",
+      "time" : {
+        "start" : 1684204431120,
+        "stop" : 1684204432094,
+        "duration" : 974
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "0", "Sheet1" ]
+    }, {
+      "name" : "User is able to navigate to tryeditor page and run invalid python code",
+      "uid" : "5a85c93789a4e8fe",
+      "parentUid" : "a7e405e0fc30107410be390508bb036d",
+      "status" : "passed",
+      "time" : {
+        "start" : 1684204432107,
+        "stop" : 1684204433226,
+        "duration" : 1119
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "1", "Sheet1" ]
+    }, {
+      "name" : "User is able to navigate to tryeditor page and run valid python code",
+      "uid" : "53b3d6113ae2d186",
+      "parentUid" : "a7e405e0fc30107410be390508bb036d",
+      "status" : "passed",
+      "time" : {
+        "start" : 1684204433244,
+        "stop" : 1684204434085,
+        "duration" : 841
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "0", "Sheet1" ]
+    }, {
+      "name" : "User is able to navigate to tryeditor page and run invalid python code",
+      "uid" : "e39ae2c151d1ab8e",
+      "parentUid" : "a7e405e0fc30107410be390508bb036d",
+      "status" : "passed",
+      "time" : {
+        "start" : 1684204434103,
+        "stop" : 1684204434894,
+        "duration" : 791
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "1", "Sheet1" ]
+    }, {
+      "name" : "User is able to navigate to tryeditor page and run valid python code",
+      "uid" : "c02ff49c59638fe0",
+      "parentUid" : "a7e405e0fc30107410be390508bb036d",
+      "status" : "passed",
+      "time" : {
+        "start" : 1684204434914,
+        "stop" : 1684204436324,
+        "duration" : 1410
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "0", "Sheet1" ]
+    }, {
+      "name" : "User is able to navigate to tryeditor page and run invalid python code",
+      "uid" : "b3e4888986dbd67b",
+      "parentUid" : "a7e405e0fc30107410be390508bb036d",
+      "status" : "passed",
+      "time" : {
+        "start" : 1684204436345,
+        "stop" : 1684204438125,
+        "duration" : 1780
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "1", "Sheet1" ]
+    }, {
+      "name" : "User is able to navigate to tryeditor page and run valid python code",
+      "uid" : "8bb6ea382fc90215",
+      "parentUid" : "a7e405e0fc30107410be390508bb036d",
+      "status" : "passed",
+      "time" : {
+        "start" : 1684204438144,
+        "stop" : 1684204438984,
+        "duration" : 840
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "0", "Sheet1" ]
+    }, {
+      "name" : "User is able to navigate to tryeditor page and run invalid python code",
+      "uid" : "2273c44dc0bcacf8",
+      "parentUid" : "a7e405e0fc30107410be390508bb036d",
+      "status" : "passed",
+      "time" : {
+        "start" : 1684204438999,
+        "stop" : 1684204440059,
+        "duration" : 1060
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "1", "Sheet1" ]
+    }, {
+      "name" : "User is able to navigate to tryeditor page and run valid python code",
+      "uid" : "7f27992061b83787",
+      "parentUid" : "a7e405e0fc30107410be390508bb036d",
+      "status" : "passed",
+      "time" : {
+        "start" : 1684204440084,
+        "stop" : 1684204441195,
+        "duration" : 1111
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "0", "Sheet1" ]
+    }, {
+      "name" : "User is able to navigate to tryeditor page and run invalid python code",
+      "uid" : "26a1fb6e542f6b45",
+      "parentUid" : "a7e405e0fc30107410be390508bb036d",
+      "status" : "passed",
+      "time" : {
+        "start" : 1684204441214,
+        "stop" : 1684204449737,
+        "duration" : 8523
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "1", "Sheet1" ]
+    }, {
+      "name" : "User is able to navigate to tryeditor page and run valid python code",
+      "uid" : "cb144928f672f516",
+      "parentUid" : "a7e405e0fc30107410be390508bb036d",
+      "status" : "passed",
+      "time" : {
+        "start" : 1684204449754,
+        "stop" : 1684204450764,
+        "duration" : 1010
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "0", "Sheet1" ]
+    }, {
+      "name" : "User is able to navigate to tryeditor page and run invalid python code",
+      "uid" : "6e3cb923e3c2ff8c",
+      "parentUid" : "a7e405e0fc30107410be390508bb036d",
+      "status" : "passed",
+      "time" : {
+        "start" : 1684204450784,
+        "stop" : 1684204451535,
+        "duration" : 751
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "1", "Sheet1" ]
+    } ],
+    "uid" : "a7e405e0fc30107410be390508bb036d"
+  }, {
+    "name" : "Evaluate Linkedlist Module",
+    "children" : [ {
+      "name" : "User is Logged in to DSAlgo portal",
+      "uid" : "956a6e84d21ca15e",
+      "parentUid" : "0dfc66e0edcba507ee08f26d303923f4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1684204451576,
+        "stop" : 1684204452736,
+        "duration" : 1160
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ ]
+    }, {
+      "name" : "User Navigating to LinkedList Page",
+      "uid" : "3e8127db6457216c",
+      "parentUid" : "0dfc66e0edcba507ee08f26d303923f4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1684204452754,
+        "stop" : 1684204456359,
+        "duration" : 3605
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ ]
+    }, {
+      "name" : "user navigating to Introduction of LinkedlistPage and using Data from Excel to evaluate",
+      "uid" : "cb669d917b3f8ce5",
+      "parentUid" : "0dfc66e0edcba507ee08f26d303923f4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1684204456375,
+        "stop" : 1684204457018,
+        "duration" : 643
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "0", "Sheet1" ]
+    }, {
+      "name" : "user navigating to Introduction of LinkedlistPage and using Data from Excel to evaluate",
+      "uid" : "68d66b13ac17a9e7",
+      "parentUid" : "0dfc66e0edcba507ee08f26d303923f4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1684204457034,
+        "stop" : 1684204457934,
+        "duration" : 900
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "1", "Sheet1" ]
+    }, {
+      "name" : "User navigating to Creating a Linked list page",
+      "uid" : "63b7b6e3afdfa32a",
+      "parentUid" : "0dfc66e0edcba507ee08f26d303923f4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1684204457960,
+        "stop" : 1684204491984,
+        "duration" : 34024
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "0", "Sheet1" ]
+    }, {
+      "name" : "User navigating to Creating a Linked list page",
+      "uid" : "55eb4740a764bd39",
+      "parentUid" : "0dfc66e0edcba507ee08f26d303923f4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1684204492008,
+        "stop" : 1684204494859,
+        "duration" : 2851
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "1", "Sheet1" ]
+    }, {
+      "name" : "User navigating to Types of Linked list page",
+      "uid" : "94ac18d9fd0c3703",
+      "parentUid" : "0dfc66e0edcba507ee08f26d303923f4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1684204494884,
+        "stop" : 1684204496674,
+        "duration" : 1790
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "0", "Sheet1" ]
+    }, {
+      "name" : "User navigating to Types of Linked list page",
+      "uid" : "1a660d1d77565fa4",
+      "parentUid" : "0dfc66e0edcba507ee08f26d303923f4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1684204496688,
+        "stop" : 1684204497654,
+        "duration" : 966
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "1", "Sheet1" ]
+    }, {
+      "name" : "User navigating to Implement Linked list page",
+      "uid" : "2ac1fb5ba37e15d",
+      "parentUid" : "0dfc66e0edcba507ee08f26d303923f4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1684204497674,
+        "stop" : 1684204498774,
+        "duration" : 1100
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "0", "Sheet1" ]
+    }, {
+      "name" : "User navigating to Implement Linked list page",
+      "uid" : "9e5d2aaffe24a656",
+      "parentUid" : "0dfc66e0edcba507ee08f26d303923f4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1684204498799,
+        "stop" : 1684204500533,
+        "duration" : 1734
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "1", "Sheet1" ]
+    }, {
+      "name" : "User navigating to Traversal of Linked list page",
+      "uid" : "fd9a476eb52871da",
+      "parentUid" : "0dfc66e0edcba507ee08f26d303923f4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1684204500554,
+        "stop" : 1684204502054,
+        "duration" : 1500
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "0", "Sheet1" ]
+    }, {
+      "name" : "User navigating to Traversal of Linked list page",
+      "uid" : "3049509636356a18",
+      "parentUid" : "0dfc66e0edcba507ee08f26d303923f4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1684204502065,
+        "stop" : 1684204503291,
+        "duration" : 1226
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "1", "Sheet1" ]
+    }, {
+      "name" : "User navigating to Insertion of Linked list page",
+      "uid" : "2c5d468ecae53c8f",
+      "parentUid" : "0dfc66e0edcba507ee08f26d303923f4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1684204503304,
+        "stop" : 1684204504434,
+        "duration" : 1130
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "0", "Sheet1" ]
+    }, {
+      "name" : "User navigating to Insertion of Linked list page",
+      "uid" : "3cb3d861c274f164",
+      "parentUid" : "0dfc66e0edcba507ee08f26d303923f4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1684204504454,
+        "stop" : 1684204506144,
+        "duration" : 1690
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "1", "Sheet1" ]
+    }, {
+      "name" : "User navigating to Deletion of Linked list page",
+      "uid" : "1987f76ae0468fed",
+      "parentUid" : "0dfc66e0edcba507ee08f26d303923f4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1684204506159,
+        "stop" : 1684204507234,
+        "duration" : 1075
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "0", "Sheet1" ]
+    }, {
+      "name" : "User navigating to Deletion of Linked list page",
+      "uid" : "c231928bd4180a85",
+      "parentUid" : "0dfc66e0edcba507ee08f26d303923f4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1684204507255,
+        "stop" : 1684204508236,
+        "duration" : 981
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "1", "Sheet1" ]
+    }, {
+      "name" : "User validating Practice Questions Page",
+      "uid" : "1bc763e069471337",
+      "parentUid" : "0dfc66e0edcba507ee08f26d303923f4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1684204508260,
+        "stop" : 1684204509326,
+        "duration" : 1066
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ ]
+    } ],
+    "uid" : "0dfc66e0edcba507ee08f26d303923f4"
+  } ]
+}

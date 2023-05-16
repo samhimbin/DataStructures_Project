@@ -1,0 +1,117 @@
+{
+  "uid" : "1ec7645a182f09ff",
+  "name" : "Runs Cucumber Scenarios",
+  "fullName" : "io.cucumber.testng.AbstractTestNGCucumberTests.runScenario",
+  "historyId" : "491d460310e071148dd82df18c3d29a5",
+  "time" : {
+    "start" : 1684203370788,
+    "stop" : 1684203371674,
+    "duration" : 886
+  },
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ {
+    "name" : "defineBrowser",
+    "time" : {
+      "start" : 1684203297411,
+      "stop" : 1684203297411,
+      "duration" : 0
+    },
+    "description" : "",
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "hasContent" : false,
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false
+  }, {
+    "name" : "setUpClass",
+    "time" : {
+      "start" : 1684203297412,
+      "stop" : 1684203297473,
+      "duration" : 61
+    },
+    "description" : "",
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "hasContent" : false,
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false
+  } ],
+  "afterStages" : [ {
+    "name" : "tearDownClass",
+    "time" : {
+      "start" : 1684203418463,
+      "stop" : 1684203418489,
+      "duration" : 26
+    },
+    "description" : "",
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "hasContent" : false,
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false
+  } ],
+  "labels" : [ {
+    "name" : "package",
+    "value" : "testRunner.TestNGTestRunner"
+  }, {
+    "name" : "testClass",
+    "value" : "testRunner.TestNGTestRunner"
+  }, {
+    "name" : "testMethod",
+    "value" : "runScenario"
+  }, {
+    "name" : "parentSuite",
+    "value" : "crossBrowserTestSuite"
+  }, {
+    "name" : "suite",
+    "value" : "EdgeTest"
+  }, {
+    "name" : "subSuite",
+    "value" : "testRunner.TestNGTestRunner"
+  }, {
+    "name" : "host",
+    "value" : "LAPTOP-TINQNFE1"
+  }, {
+    "name" : "thread",
+    "value" : "6448@LAPTOP-TINQNFE1.main(1)"
+  }, {
+    "name" : "framework",
+    "value" : "testng"
+  }, {
+    "name" : "language",
+    "value" : "java"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ {
+    "name" : "arg0",
+    "value" : "\"User on login page and login with inavalid and validinputs from Excel\"Sheet1\" and3\""
+  }, {
+    "name" : "arg1",
+    "value" : "\"User enter valid and invalid credentials for login\""
+  }, {
+    "name" : "browser",
+    "value" : "edge"
+  } ],
+  "links" : [ ],
+  "hidden" : true,
+  "retry" : true,
+  "extra" : {
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "1ec7645a182f09ff.json",
+  "parameterValues" : [ "\"User on login page and login with inavalid and validinputs from Excel\"Sheet1\" and3\"", "\"User enter valid and invalid credentials for login\"", "edge" ]
+}

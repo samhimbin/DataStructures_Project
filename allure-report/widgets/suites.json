@@ -1,0 +1,92 @@
+{
+  "total" : 8,
+  "items" : [ {
+    "uid" : "32927ea479da21ad0daa59c6aefef6e9",
+    "name" : "crossBrowserTestSuite",
+    "statistic" : {
+      "failed" : 2,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 46,
+      "unknown" : 0,
+      "total" : 48
+    }
+  }, {
+    "uid" : "02d304dc41b926100bf11f3346786bfd",
+    "name" : "feature to test new user registration",
+    "statistic" : {
+      "failed" : 1,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 10,
+      "unknown" : 0,
+      "total" : 11
+    }
+  }, {
+    "uid" : "a7e405e0fc30107410be390508bb036d",
+    "name" : "Evaluate arrays module",
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 17,
+      "unknown" : 0,
+      "total" : 17
+    }
+  }, {
+    "uid" : "0dfc66e0edcba507ee08f26d303923f4",
+    "name" : "Evaluate Linkedlist Module",
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 17,
+      "unknown" : 0,
+      "total" : 17
+    }
+  }, {
+    "uid" : "977046da7b7b942cfd0333e04d85e464",
+    "name" : "User enter valid and invalid credentials for login",
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 4,
+      "unknown" : 0,
+      "total" : 4
+    }
+  }, {
+    "uid" : "c20dbc33a2ccb916f9314debde8802d3",
+    "name" : "Evaluate Data stuructures Introduction",
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 3,
+      "unknown" : 0,
+      "total" : 3
+    }
+  }, {
+    "uid" : "42fb5f0d9a3aeb0cfbde0bed32d4643d",
+    "name" : "evaluate home page",
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 2,
+      "unknown" : 0,
+      "total" : 2
+    }
+  }, {
+    "uid" : "0559c0679990fcaa17bf7fcd3183c6d5",
+    "name" : "feature to test ds algo portal link",
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    }
+  } ]
+}

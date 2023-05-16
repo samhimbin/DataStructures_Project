@@ -1,0 +1,274 @@
+{
+  "uid" : "12b1ebcf355c201f",
+  "name" : "Runs Cucumber Scenarios",
+  "fullName" : "io.cucumber.testng.AbstractTestNGCucumberTests.runScenario",
+  "historyId" : "a6689b2b9b9acd2815a2b56ce3e187d5",
+  "time" : {
+    "start" : 1684204392404,
+    "stop" : 1684204393327,
+    "duration" : 923
+  },
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ {
+    "name" : "setUpClass",
+    "time" : {
+      "start" : 1684204285910,
+      "stop" : 1684204286874,
+      "duration" : 964
+    },
+    "description" : "",
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "hasContent" : false,
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false
+  }, {
+    "name" : "defineBrowser",
+    "time" : {
+      "start" : 1684204285869,
+      "stop" : 1684204285877,
+      "duration" : 8
+    },
+    "description" : "",
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "hasContent" : false,
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false
+  } ],
+  "afterStages" : [ {
+    "name" : "tearDownClass",
+    "time" : {
+      "start" : 1684204394337,
+      "stop" : 1684204394372,
+      "duration" : 35
+    },
+    "description" : "",
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "hasContent" : false,
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false
+  } ],
+  "labels" : [ {
+    "name" : "package",
+    "value" : "testRunner.TestNGTestRunner"
+  }, {
+    "name" : "testClass",
+    "value" : "testRunner.TestNGTestRunner"
+  }, {
+    "name" : "testMethod",
+    "value" : "runScenario"
+  }, {
+    "name" : "parentSuite",
+    "value" : "crossBrowserTestSuite"
+  }, {
+    "name" : "suite",
+    "value" : "chromeTest"
+  }, {
+    "name" : "subSuite",
+    "value" : "testRunner.TestNGTestRunner"
+  }, {
+    "name" : "host",
+    "value" : "LAPTOP-TINQNFE1"
+  }, {
+    "name" : "thread",
+    "value" : "25200@LAPTOP-TINQNFE1.main(1)"
+  }, {
+    "name" : "framework",
+    "value" : "testng"
+  }, {
+    "name" : "language",
+    "value" : "java"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ {
+    "name" : "arg0",
+    "value" : "\"User navigating to Deletion of Linked list page\""
+  }, {
+    "name" : "arg1",
+    "value" : "\"Evaluate Linkedlist Module\""
+  }, {
+    "name" : "browser",
+    "value" : "Chrome"
+  } ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ {
+      "uid" : "d5ca9d8955eeca48",
+      "status" : "passed",
+      "time" : {
+        "start" : 1684204391177,
+        "stop" : 1684204392404,
+        "duration" : 1227
+      }
+    }, {
+      "uid" : "bbf0d449e45f2a39",
+      "status" : "broken",
+      "statusDetails" : "no such element: Unable to locate element: {\"method\":\"link text\",\"selector\":\"Deletion\"}\n  (Session info: chrome=113.0.5672.93)\nFor documentation on this error, please visit: https://selenium.dev/exceptions/#no_such_element\nBuild info: version: '4.8.3', revision: 'e5e76298c3'\nSystem info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '20.0.1'\nDriver info: org.openqa.selenium.chrome.ChromeDriver\nCommand: [d2c1984af990ab6f97868cc1ffcabbd9, findElement {using=link text, value=Deletion}]\nCapabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 113.0.5672.93, chrome: {chromedriverVersion: 113.0.5672.63 (0e1a4471d5ae..., userDataDir: C:\\Users\\kiran\\AppData\\Loca...}, goog:chromeOptions: {debuggerAddress: localhost:59495}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: WINDOWS, proxy: Proxy(), se:cdp: ws://localhost:59495/devtoo..., se:cdpVersion: 113.0.5672.93, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}\nSession ID: d2c1984af990ab6f97868cc1ffcabbd9",
+      "time" : {
+        "start" : 1684203943747,
+        "stop" : 1684203948934,
+        "duration" : 5187
+      }
+    }, {
+      "uid" : "9f772e985925aaba",
+      "status" : "broken",
+      "statusDetails" : "no such element: Unable to locate element: {\"method\":\"link text\",\"selector\":\"Deletion\"}\n  (Session info: chrome=113.0.5672.93)\nFor documentation on this error, please visit: https://selenium.dev/exceptions/#no_such_element\nBuild info: version: '4.8.3', revision: 'e5e76298c3'\nSystem info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '20.0.1'\nDriver info: org.openqa.selenium.chrome.ChromeDriver\nCommand: [d2c1984af990ab6f97868cc1ffcabbd9, findElement {using=link text, value=Deletion}]\nCapabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 113.0.5672.93, chrome: {chromedriverVersion: 113.0.5672.63 (0e1a4471d5ae..., userDataDir: C:\\Users\\kiran\\AppData\\Loca...}, goog:chromeOptions: {debuggerAddress: localhost:59495}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: WINDOWS, proxy: Proxy(), se:cdp: ws://localhost:59495/devtoo..., se:cdpVersion: 113.0.5672.93, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}\nSession ID: d2c1984af990ab6f97868cc1ffcabbd9",
+      "time" : {
+        "start" : 1684203938473,
+        "stop" : 1684203943747,
+        "duration" : 5274
+      }
+    }, {
+      "uid" : "d22de7743fbdec0d",
+      "status" : "broken",
+      "statusDetails" : "no such element: Unable to locate element: {\"method\":\"link text\",\"selector\":\"Deletion\"}\n  (Session info: chrome=113.0.5672.93)\nFor documentation on this error, please visit: https://selenium.dev/exceptions/#no_such_element\nBuild info: version: '4.8.3', revision: 'e5e76298c3'\nSystem info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '20.0.1'\nDriver info: org.openqa.selenium.chrome.ChromeDriver\nCommand: [b1d91fc358de3f0eecf000d8d9a23fde, findElement {using=link text, value=Deletion}]\nCapabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 113.0.5672.93, chrome: {chromedriverVersion: 113.0.5672.63 (0e1a4471d5ae..., userDataDir: C:\\Users\\kiran\\AppData\\Loca...}, goog:chromeOptions: {debuggerAddress: localhost:58835}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: WINDOWS, proxy: Proxy(), se:cdp: ws://localhost:58835/devtoo..., se:cdpVersion: 113.0.5672.93, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}\nSession ID: b1d91fc358de3f0eecf000d8d9a23fde",
+      "time" : {
+        "start" : 1684203286877,
+        "stop" : 1684203292119,
+        "duration" : 5242
+      }
+    }, {
+      "uid" : "8d0c487dcd21bbbd",
+      "status" : "broken",
+      "statusDetails" : "no such element: Unable to locate element: {\"method\":\"link text\",\"selector\":\"Deletion\"}\n  (Session info: chrome=113.0.5672.93)\nFor documentation on this error, please visit: https://selenium.dev/exceptions/#no_such_element\nBuild info: version: '4.8.3', revision: 'e5e76298c3'\nSystem info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '20.0.1'\nDriver info: org.openqa.selenium.chrome.ChromeDriver\nCommand: [b1d91fc358de3f0eecf000d8d9a23fde, findElement {using=link text, value=Deletion}]\nCapabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 113.0.5672.93, chrome: {chromedriverVersion: 113.0.5672.63 (0e1a4471d5ae..., userDataDir: C:\\Users\\kiran\\AppData\\Loca...}, goog:chromeOptions: {debuggerAddress: localhost:58835}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: WINDOWS, proxy: Proxy(), se:cdp: ws://localhost:58835/devtoo..., se:cdpVersion: 113.0.5672.93, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}\nSession ID: b1d91fc358de3f0eecf000d8d9a23fde",
+      "time" : {
+        "start" : 1684203281524,
+        "stop" : 1684203286871,
+        "duration" : 5347
+      }
+    }, {
+      "uid" : "246fd3d40af084fa",
+      "status" : "passed",
+      "time" : {
+        "start" : 1684202745797,
+        "stop" : 1684202747363,
+        "duration" : 1566
+      }
+    }, {
+      "uid" : "af2550a59831c0e",
+      "status" : "passed",
+      "time" : {
+        "start" : 1684202743791,
+        "stop" : 1684202745788,
+        "duration" : 1997
+      }
+    }, {
+      "uid" : "ab54ec979a178edf",
+      "status" : "passed",
+      "time" : {
+        "start" : 1684187234307,
+        "stop" : 1684187235117,
+        "duration" : 810
+      }
+    }, {
+      "uid" : "b24b9cd6e50e022c",
+      "status" : "passed",
+      "time" : {
+        "start" : 1684187233367,
+        "stop" : 1684187234301,
+        "duration" : 934
+      }
+    }, {
+      "uid" : "83514d035eb1005",
+      "status" : "passed",
+      "time" : {
+        "start" : 1684184865503,
+        "stop" : 1684184867009,
+        "duration" : 1506
+      }
+    }, {
+      "uid" : "856d360f390d3a35",
+      "status" : "passed",
+      "time" : {
+        "start" : 1684184863704,
+        "stop" : 1684184865500,
+        "duration" : 1796
+      }
+    }, {
+      "uid" : "c4a2bbd63b500952",
+      "status" : "passed",
+      "time" : {
+        "start" : 1684153832685,
+        "stop" : 1684153833404,
+        "duration" : 719
+      }
+    }, {
+      "uid" : "61e6627b102dd661",
+      "status" : "passed",
+      "time" : {
+        "start" : 1684153831598,
+        "stop" : 1684153832681,
+        "duration" : 1083
+      }
+    }, {
+      "uid" : "f045e94c952274a6",
+      "status" : "passed",
+      "time" : {
+        "start" : 1684153561036,
+        "stop" : 1684153563658,
+        "duration" : 2622
+      }
+    }, {
+      "uid" : "7caf8ae9d05038ae",
+      "status" : "passed",
+      "time" : {
+        "start" : 1684153560183,
+        "stop" : 1684153561032,
+        "duration" : 849
+      }
+    } ],
+    "categories" : [ ],
+    "history" : {
+      "statistic" : {
+        "failed" : 0,
+        "broken" : 2,
+        "skipped" : 0,
+        "passed" : 1,
+        "unknown" : 0,
+        "total" : 3
+      },
+      "items" : [ {
+        "uid" : "47c651f5aadcff8d",
+        "reportUrl" : "http://localhost:8080/job/DsalgoProject/5/allure/#testresult/47c651f5aadcff8d",
+        "status" : "broken",
+        "statusDetails" : "no such element: Unable to locate element: {\"method\":\"link text\",\"selector\":\"Deletion\"}\n  (Session info: chrome=113.0.5672.93)\nFor documentation on this error, please visit: https://selenium.dev/exceptions/#no_such_element\nBuild info: version: '4.8.3', revision: 'e5e76298c3'\nSystem info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '20.0.1'\nDriver info: org.openqa.selenium.chrome.ChromeDriver\nCommand: [d2c1984af990ab6f97868cc1ffcabbd9, findElement {using=link text, value=Deletion}]\nCapabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 113.0.5672.93, chrome: {chromedriverVersion: 113.0.5672.63 (0e1a4471d5ae..., userDataDir: C:\\Users\\kiran\\AppData\\Loca...}, goog:chromeOptions: {debuggerAddress: localhost:59495}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: WINDOWS, proxy: Proxy(), se:cdp: ws://localhost:59495/devtoo..., se:cdpVersion: 113.0.5672.93, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}\nSession ID: d2c1984af990ab6f97868cc1ffcabbd9",
+        "time" : {
+          "start" : 1684203943747,
+          "stop" : 1684203948934,
+          "duration" : 5187
+        }
+      }, {
+        "uid" : "c6bdc7cc211cd928",
+        "reportUrl" : "http://localhost:8080/job/DsalgoProject/4/allure/#testresult/c6bdc7cc211cd928",
+        "status" : "broken",
+        "statusDetails" : "no such element: Unable to locate element: {\"method\":\"link text\",\"selector\":\"Deletion\"}\n  (Session info: chrome=113.0.5672.93)\nFor documentation on this error, please visit: https://selenium.dev/exceptions/#no_such_element\nBuild info: version: '4.8.3', revision: 'e5e76298c3'\nSystem info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '20.0.1'\nDriver info: org.openqa.selenium.chrome.ChromeDriver\nCommand: [b1d91fc358de3f0eecf000d8d9a23fde, findElement {using=link text, value=Deletion}]\nCapabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 113.0.5672.93, chrome: {chromedriverVersion: 113.0.5672.63 (0e1a4471d5ae..., userDataDir: C:\\Users\\kiran\\AppData\\Loca...}, goog:chromeOptions: {debuggerAddress: localhost:58835}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: WINDOWS, proxy: Proxy(), se:cdp: ws://localhost:58835/devtoo..., se:cdpVersion: 113.0.5672.93, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}\nSession ID: b1d91fc358de3f0eecf000d8d9a23fde",
+        "time" : {
+          "start" : 1684203286877,
+          "stop" : 1684203292119,
+          "duration" : 5242
+        }
+      } ]
+    },
+    "tags" : [ ]
+  },
+  "source" : "12b1ebcf355c201f.json",
+  "parameterValues" : [ "\"User navigating to Deletion of Linked list page\"", "\"Evaluate Linkedlist Module\"", "Chrome" ]
+}

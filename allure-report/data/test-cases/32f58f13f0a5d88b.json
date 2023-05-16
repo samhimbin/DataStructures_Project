@@ -1,0 +1,181 @@
+{
+  "uid" : "32f58f13f0a5d88b",
+  "name" : "user navigate to registration page",
+  "fullName" : "feature to test new user registration: user navigate to registration page",
+  "historyId" : "ac9c89f15b1cbfbf8dc3588adf43b6f0",
+  "time" : {
+    "start" : 1684203200108,
+    "stop" : 1684203217744,
+    "duration" : 17636
+  },
+  "status" : "failed",
+  "statusMessage" : "expected:<[password_mismatch:The two password fields didn’t match.]> but was:<[New Account Created. You are logged in as <username>]>",
+  "statusTrace" : "org.junit.ComparisonFailure: expected:<[password_mismatch:The two password fields didn’t match.]> but was:<[New Account Created. You are logged in as <username>]>\r\n\tat org.junit.Assert.assertEquals(Assert.java:117)\r\n\tat org.junit.Assert.assertEquals(Assert.java:146)\r\n\tat stepdefinitions.RegitrationSteps.user_click_register_button_with_expected_message(RegitrationSteps.java:81)\r\n\tat ✽.user click register button with expected message(file:///C:/Users/kiran/eclipse-workspace/ZoomDs_algo/src/test/resources/features/3RegisterPage.feature:8)\r\n",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ {
+    "name" : "HooksPkg.Hooks.setUp()",
+    "time" : {
+      "start" : 1684203200108,
+      "stop" : 1684203200109,
+      "duration" : 1
+    },
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "hasContent" : false,
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false
+  }, {
+    "name" : "HooksPkg.Hooks.setup2()",
+    "time" : {
+      "start" : 1684203200110,
+      "stop" : 1684203200111,
+      "duration" : 1
+    },
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "hasContent" : false,
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false
+  } ],
+  "testStage" : {
+    "status" : "failed",
+    "statusMessage" : "expected:<[password_mismatch:The two password fields didn’t match.]> but was:<[New Account Created. You are logged in as <username>]>",
+    "statusTrace" : "org.junit.ComparisonFailure: expected:<[password_mismatch:The two password fields didn’t match.]> but was:<[New Account Created. You are logged in as <username>]>\r\n\tat org.junit.Assert.assertEquals(Assert.java:117)\r\n\tat org.junit.Assert.assertEquals(Assert.java:146)\r\n\tat stepdefinitions.RegitrationSteps.user_click_register_button_with_expected_message(RegitrationSteps.java:81)\r\n\tat ✽.user click register button with expected message(file:///C:/Users/kiran/eclipse-workspace/ZoomDs_algo/src/test/resources/features/3RegisterPage.feature:8)\r\n",
+    "steps" : [ {
+      "name" : "Given  user click registration link",
+      "time" : {
+        "start" : 1684203200111,
+        "stop" : 1684203216262,
+        "duration" : 16151
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "hasContent" : false,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false
+    }, {
+      "name" : "When  user enter username,password,confirm password from given \"Sheet1\" and 10",
+      "time" : {
+        "start" : 1684203216263,
+        "stop" : 1684203216866,
+        "duration" : 603
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "hasContent" : false,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false
+    }, {
+      "name" : "Then  user click register button with expected message",
+      "time" : {
+        "start" : 1684203216867,
+        "stop" : 1684203217511,
+        "duration" : 644
+      },
+      "status" : "failed",
+      "statusMessage" : "expected:<[password_mismatch:The two password fields didn’t match.]> but was:<[New Account Created. You are logged in as <username>]>",
+      "statusTrace" : "org.junit.ComparisonFailure: expected:<[password_mismatch:The two password fields didn’t match.]> but was:<[New Account Created. You are logged in as <username>]>\r\n\tat org.junit.Assert.assertEquals(Assert.java:117)\r\n\tat org.junit.Assert.assertEquals(Assert.java:146)\r\n\tat stepdefinitions.RegitrationSteps.user_click_register_button_with_expected_message(RegitrationSteps.java:81)\r\n\tat ✽.user click register button with expected message(file:///C:/Users/kiran/eclipse-workspace/ZoomDs_algo/src/test/resources/features/3RegisterPage.feature:8)\r\n",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "hasContent" : true,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : true
+    } ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "stepsCount" : 3,
+    "hasContent" : true,
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false
+  },
+  "afterStages" : [ {
+    "name" : "HooksPkg.Hooks.tearDown(io.cucumber.java.Scenario)",
+    "time" : {
+      "start" : 1684203217512,
+      "stop" : 1684203217742,
+      "duration" : 230
+    },
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ {
+      "uid" : "87bb6b7fc0a1e180",
+      "name" : "user navigate to registration page",
+      "source" : "87bb6b7fc0a1e180.png",
+      "type" : "image/png",
+      "size" : 79022
+    } ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "hasContent" : true,
+    "attachmentsCount" : 1,
+    "shouldDisplayMessage" : false
+  } ],
+  "labels" : [ {
+    "name" : "tag",
+    "value" : "register"
+  }, {
+    "name" : "host",
+    "value" : "LAPTOP-TINQNFE1"
+  }, {
+    "name" : "thread",
+    "value" : "6448@LAPTOP-TINQNFE1.main(1)"
+  }, {
+    "name" : "feature",
+    "value" : "feature to test new user registration"
+  }, {
+    "name" : "story",
+    "value" : "user navigate to registration page"
+  }, {
+    "name" : "suite",
+    "value" : "feature to test new user registration"
+  }, {
+    "name" : "testClass",
+    "value" : "user navigate to registration page"
+  }, {
+    "name" : "framework",
+    "value" : "cucumber4jvm"
+  }, {
+    "name" : "language",
+    "value" : "java"
+  }, {
+    "name" : "gherkin_uri",
+    "value" : "file:///C:/Users/kiran/eclipse-workspace/ZoomDs_algo/src/test/resources/features/3RegisterPage.feature"
+  }, {
+    "name" : "package",
+    "value" : "src.test.resources.features.3RegisterPage_feature.feature to test new user registration"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ {
+    "name" : "rowno",
+    "value" : "10"
+  }, {
+    "name" : "sheetname",
+    "value" : "Sheet1"
+  } ],
+  "links" : [ ],
+  "hidden" : true,
+  "retry" : true,
+  "extra" : {
+    "categories" : [ ],
+    "tags" : [ "register" ]
+  },
+  "source" : "32f58f13f0a5d88b.json",
+  "parameterValues" : [ "10", "Sheet1" ]
+}

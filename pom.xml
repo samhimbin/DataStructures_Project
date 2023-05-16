@@ -145,7 +145,7 @@
 
 				<configuration>
 					<includes>
-						<include>**/TestNGTestRunner.java</include>
+						<include>**/TestRunner.java</include>
 					</includes>
 					<suiteXmlFiles>
 						<suiteXmlFile>testng.xml</suiteXmlFile>

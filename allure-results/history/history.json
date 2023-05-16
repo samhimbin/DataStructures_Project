@@ -1,0 +1,3030 @@
+{
+  "c19157c5eab36e83d84059debde83702" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 2,
+      "unknown" : 0,
+      "total" : 2
+    },
+    "items" : [ {
+      "uid" : "d8df6077fa5ab521",
+      "reportUrl" : "http://localhost:8080/job/DsalgoProject/5/allure/#testresult/d8df6077fa5ab521",
+      "status" : "passed",
+      "time" : {
+        "start" : 1684203876976,
+        "stop" : 1684203882654,
+        "duration" : 5678
+      }
+    }, {
+      "uid" : "96ee31a69a3dc689",
+      "reportUrl" : "http://localhost:8080/job/DsalgoProject/4/allure/#testresult/96ee31a69a3dc689",
+      "status" : "passed",
+      "time" : {
+        "start" : 1684203222924,
+        "stop" : 1684203228989,
+        "duration" : 6065
+      }
+    } ]
+  },
+  "c2f605dd96a60245c3c4982d01245c1c" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 2,
+      "unknown" : 0,
+      "total" : 2
+    },
+    "items" : [ {
+      "uid" : "62128f4d3f4c6fe9",
+      "reportUrl" : "http://localhost:8080/job/DsalgoProject/5/allure/#testresult/62128f4d3f4c6fe9",
+      "status" : "passed",
+      "time" : {
+        "start" : 1684203882664,
+        "stop" : 1684203883644,
+        "duration" : 980
+      }
+    }, {
+      "uid" : "27f14449e811fe0f",
+      "reportUrl" : "http://localhost:8080/job/DsalgoProject/4/allure/#testresult/27f14449e811fe0f",
+      "status" : "passed",
+      "time" : {
+        "start" : 1684203228995,
+        "stop" : 1684203229733,
+        "duration" : 738
+      }
+    } ]
+  },
+  "4833c8c67c2c1bf5fa31d47810cfdf64" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 2,
+      "unknown" : 0,
+      "total" : 2
+    },
+    "items" : [ {
+      "uid" : "32666e96200aa99c",
+      "reportUrl" : "http://localhost:8080/job/DsalgoProject/5/allure/#testresult/32666e96200aa99c",
+      "status" : "passed",
+      "time" : {
+        "start" : 1684203904394,
+        "stop" : 1684203905854,
+        "duration" : 1460
+      }
+    }, {
+      "uid" : "89a4e9da9840f97a",
+      "reportUrl" : "http://localhost:8080/job/DsalgoProject/4/allure/#testresult/89a4e9da9840f97a",
+      "status" : "passed",
+      "time" : {
+        "start" : 1684203249951,
+        "stop" : 1684203250850,
+        "duration" : 899
+      }
+    } ]
+  },
+  "5f60c4c760949536cdcd352e2a5de064" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 2,
+      "unknown" : 0,
+      "total" : 2
+    },
+    "items" : [ {
+      "uid" : "4cee3f3d4a828bac",
+      "reportUrl" : "http://localhost:8080/job/DsalgoProject/5/allure/#testresult/4cee3f3d4a828bac",
+      "status" : "passed",
+      "time" : {
+        "start" : 1684203954434,
+        "stop" : 1684203955442,
+        "duration" : 1008
+      }
+    }, {
+      "uid" : "ce60eca6a2617095",
+      "reportUrl" : "http://localhost:8080/job/DsalgoProject/4/allure/#testresult/ce60eca6a2617095",
+      "status" : "passed",
+      "time" : {
+        "start" : 1684203297496,
+        "stop" : 1684203298274,
+        "duration" : 778
+      }
+    } ]
+  },
+  "4478660e71f3fc1c2e1500c138e6540e" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 2,
+      "unknown" : 0,
+      "total" : 2
+    },
+    "items" : [ {
+      "uid" : "94248aaff62813b2",
+      "reportUrl" : "http://localhost:8080/job/DsalgoProject/5/allure/#testresult/94248aaff62813b2",
+      "status" : "passed",
+      "time" : {
+        "start" : 1684203920815,
+        "stop" : 1684203921828,
+        "duration" : 1013
+      }
+    }, {
+      "uid" : "50d6cc73eb1083d5",
+      "reportUrl" : "http://localhost:8080/job/DsalgoProject/4/allure/#testresult/50d6cc73eb1083d5",
+      "status" : "passed",
+      "time" : {
+        "start" : 1684203263926,
+        "stop" : 1684203265063,
+        "duration" : 1137
+      }
+    } ]
+  },
+  "2c231a8f8f4a2e51c88b661dd5bfc46e" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 2,
+      "unknown" : 0,
+      "total" : 2
+    },
+    "items" : [ {
+      "uid" : "e5157cc0217aa84c",
+      "reportUrl" : "http://localhost:8080/job/DsalgoProject/5/allure/#testresult/e5157cc0217aa84c",
+      "status" : "passed",
+      "time" : {
+        "start" : 1684204060894,
+        "stop" : 1684204061816,
+        "duration" : 922
+      }
+    }, {
+      "uid" : "99907fb4750fee42",
+      "reportUrl" : "http://localhost:8080/job/DsalgoProject/4/allure/#testresult/99907fb4750fee42",
+      "status" : "passed",
+      "time" : {
+        "start" : 1684203398015,
+        "stop" : 1684203399000,
+        "duration" : 985
+      }
+    } ]
+  },
+  "4e39a7c369b8ded492aeafa8423aa14" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 2,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 2
+    },
+    "items" : [ {
+      "uid" : "e2436f1dac1f4b4f",
+      "reportUrl" : "http://localhost:8080/job/DsalgoProject/5/allure/#testresult/e2436f1dac1f4b4f",
+      "status" : "broken",
+      "statusDetails" : "no such element: Unable to locate element: {\"method\":\"xpath\",\"selector\":\"//a[text()=' Register ']\"}\n  (Session info: chrome=113.0.5672.93)\nFor documentation on this error, please visit: https://selenium.dev/exceptions/#no_such_element\nBuild info: version: '4.8.3', revision: 'e5e76298c3'\nSystem info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '20.0.1'\nDriver info: org.openqa.selenium.chrome.ChromeDriver\nCommand: [d2c1984af990ab6f97868cc1ffcabbd9, findElement {using=xpath, value=//a[text()=' Register ']}]\nCapabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 113.0.5672.93, chrome: {chromedriverVersion: 113.0.5672.63 (0e1a4471d5ae..., userDataDir: C:\\Users\\kiran\\AppData\\Loca...}, goog:chromeOptions: {debuggerAddress: localhost:59495}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: WINDOWS, proxy: Proxy(), se:cdp: ws://localhost:59495/devtoo..., se:cdpVersion: 113.0.5672.93, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}\nSession ID: d2c1984af990ab6f97868cc1ffcabbd9",
+      "time" : {
+        "start" : 1684204019199,
+        "stop" : 1684204024384,
+        "duration" : 5185
+      }
+    }, {
+      "uid" : "d524f2d465d8c54f",
+      "reportUrl" : "http://localhost:8080/job/DsalgoProject/4/allure/#testresult/d524f2d465d8c54f",
+      "status" : "broken",
+      "statusDetails" : "no such element: Unable to locate element: {\"method\":\"xpath\",\"selector\":\"//a[text()=' Register ']\"}\n  (Session info: chrome=113.0.5672.93)\nFor documentation on this error, please visit: https://selenium.dev/exceptions/#no_such_element\nBuild info: version: '4.8.3', revision: 'e5e76298c3'\nSystem info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '20.0.1'\nDriver info: org.openqa.selenium.chrome.ChromeDriver\nCommand: [b1d91fc358de3f0eecf000d8d9a23fde, findElement {using=xpath, value=//a[text()=' Register ']}]\nCapabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 113.0.5672.93, chrome: {chromedriverVersion: 113.0.5672.63 (0e1a4471d5ae..., userDataDir: C:\\Users\\kiran\\AppData\\Loca...}, goog:chromeOptions: {debuggerAddress: localhost:58835}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: WINDOWS, proxy: Proxy(), se:cdp: ws://localhost:58835/devtoo..., se:cdpVersion: 113.0.5672.93, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}\nSession ID: b1d91fc358de3f0eecf000d8d9a23fde",
+      "time" : {
+        "start" : 1684203362054,
+        "stop" : 1684203367277,
+        "duration" : 5223
+      }
+    } ]
+  },
+  "dd34703d17b9984e74193f44eed7123" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 2,
+      "unknown" : 0,
+      "total" : 2
+    },
+    "items" : [ {
+      "uid" : "f95d35ee8a71c3a8",
+      "reportUrl" : "http://localhost:8080/job/DsalgoProject/5/allure/#testresult/f95d35ee8a71c3a8",
+      "status" : "passed",
+      "time" : {
+        "start" : 1684204045219,
+        "stop" : 1684204046315,
+        "duration" : 1096
+      }
+    }, {
+      "uid" : "a0faca1b55f6f3be",
+      "reportUrl" : "http://localhost:8080/job/DsalgoProject/4/allure/#testresult/a0faca1b55f6f3be",
+      "status" : "passed",
+      "time" : {
+        "start" : 1684203387444,
+        "stop" : 1684203388280,
+        "duration" : 836
+      }
+    } ]
+  },
+  "988209326b8d141de287df686f1636b2" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 2,
+      "unknown" : 0,
+      "total" : 2
+    },
+    "items" : [ {
+      "uid" : "ab1419ae91d6d43d",
+      "reportUrl" : "http://localhost:8080/job/DsalgoProject/5/allure/#testresult/ab1419ae91d6d43d",
+      "status" : "passed",
+      "time" : {
+        "start" : 1684203875684,
+        "stop" : 1684203876973,
+        "duration" : 1289
+      }
+    }, {
+      "uid" : "5ac2ee231de74296",
+      "reportUrl" : "http://localhost:8080/job/DsalgoProject/4/allure/#testresult/5ac2ee231de74296",
+      "status" : "passed",
+      "time" : {
+        "start" : 1684203221841,
+        "stop" : 1684203222920,
+        "duration" : 1079
+      }
+    } ]
+  },
+  "b6b4afd7fe70ffbb2f3f2496828e3c69" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 2,
+      "unknown" : 0,
+      "total" : 2
+    },
+    "items" : [ {
+      "uid" : "ed685b9d3032b75c",
+      "reportUrl" : "http://localhost:8080/job/DsalgoProject/5/allure/#testresult/ed685b9d3032b75c",
+      "status" : "passed",
+      "time" : {
+        "start" : 1684204056064,
+        "stop" : 1684204060197,
+        "duration" : 4133
+      }
+    }, {
+      "uid" : "8c5c579de252f0cd",
+      "reportUrl" : "http://localhost:8080/job/DsalgoProject/4/allure/#testresult/8c5c579de252f0cd",
+      "status" : "passed",
+      "time" : {
+        "start" : 1684203393848,
+        "stop" : 1684203396993,
+        "duration" : 3145
+      }
+    } ]
+  },
+  "17fa5edc9d78e7d58d5e838d3258fb25" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 2,
+      "unknown" : 0,
+      "total" : 2
+    },
+    "items" : [ {
+      "uid" : "6ac7a8cd220e0f9f",
+      "reportUrl" : "http://localhost:8080/job/DsalgoProject/5/allure/#testresult/6ac7a8cd220e0f9f",
+      "status" : "passed",
+      "time" : {
+        "start" : 1684203912104,
+        "stop" : 1684203913242,
+        "duration" : 1138
+      }
+    }, {
+      "uid" : "fbfd4fb49c1f5508",
+      "reportUrl" : "http://localhost:8080/job/DsalgoProject/4/allure/#testresult/fbfd4fb49c1f5508",
+      "status" : "passed",
+      "time" : {
+        "start" : 1684203259672,
+        "stop" : 1684203260402,
+        "duration" : 730
+      }
+    } ]
+  },
+  "eede292b9dd24cab70a3077926976ea0" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 2,
+      "unknown" : 0,
+      "total" : 2
+    },
+    "items" : [ {
+      "uid" : "e4823cd3015d4e38",
+      "reportUrl" : "http://localhost:8080/job/DsalgoProject/5/allure/#testresult/e4823cd3015d4e38",
+      "status" : "passed",
+      "time" : {
+        "start" : 1684204068427,
+        "stop" : 1684204069898,
+        "duration" : 1471
+      }
+    }, {
+      "uid" : "149db8813384c613",
+      "reportUrl" : "http://localhost:8080/job/DsalgoProject/4/allure/#testresult/149db8813384c613",
+      "status" : "passed",
+      "time" : {
+        "start" : 1684203406654,
+        "stop" : 1684203407984,
+        "duration" : 1330
+      }
+    } ]
+  },
+  "c350f42389618d4759e31fb8f63beb2a" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 2,
+      "unknown" : 0,
+      "total" : 2
+    },
+    "items" : [ {
+      "uid" : "cc3080bbadd95da9",
+      "reportUrl" : "http://localhost:8080/job/DsalgoProject/5/allure/#testresult/cc3080bbadd95da9",
+      "status" : "passed",
+      "time" : {
+        "start" : 1684204072454,
+        "stop" : 1684204073924,
+        "duration" : 1470
+      }
+    }, {
+      "uid" : "a87f8147f922cfba",
+      "reportUrl" : "http://localhost:8080/job/DsalgoProject/4/allure/#testresult/a87f8147f922cfba",
+      "status" : "passed",
+      "time" : {
+        "start" : 1684203410738,
+        "stop" : 1684203411970,
+        "duration" : 1232
+      }
+    } ]
+  },
+  "eeaf08eeeb2ef1ab5cfbdd9604db2372" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 2,
+      "unknown" : 0,
+      "total" : 2
+    },
+    "items" : [ {
+      "uid" : "f53683f9d64247e9",
+      "reportUrl" : "http://localhost:8080/job/DsalgoProject/5/allure/#testresult/f53683f9d64247e9",
+      "status" : "passed",
+      "time" : {
+        "start" : 1684204077222,
+        "stop" : 1684204079514,
+        "duration" : 2292
+      }
+    }, {
+      "uid" : "8fbde4a804a8a1ae",
+      "reportUrl" : "http://localhost:8080/job/DsalgoProject/4/allure/#testresult/8fbde4a804a8a1ae",
+      "status" : "passed",
+      "time" : {
+        "start" : 1684203414710,
+        "stop" : 1684203417154,
+        "duration" : 2444
+      }
+    } ]
+  },
+  "63d27e9b273985d9da0e178343a08a64" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 2,
+      "unknown" : 0,
+      "total" : 2
+    },
+    "items" : [ {
+      "uid" : "6d39d7fef4d7b7de",
+      "reportUrl" : "http://localhost:8080/job/DsalgoProject/5/allure/#testresult/6d39d7fef4d7b7de",
+      "status" : "passed",
+      "time" : {
+        "start" : 1684204064327,
+        "stop" : 1684204066104,
+        "duration" : 1777
+      }
+    }, {
+      "uid" : "b0d1eeb4cc9f8caf",
+      "reportUrl" : "http://localhost:8080/job/DsalgoProject/4/allure/#testresult/b0d1eeb4cc9f8caf",
+      "status" : "passed",
+      "time" : {
+        "start" : 1684203402441,
+        "stop" : 1684203403565,
+        "duration" : 1124
+      }
+    } ]
+  },
+  "e8c4f063e20ee759517141da28dc2f94" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 2,
+      "unknown" : 0,
+      "total" : 2
+    },
+    "items" : [ {
+      "uid" : "d8175eb4abe7776e",
+      "reportUrl" : "http://localhost:8080/job/DsalgoProject/5/allure/#testresult/d8175eb4abe7776e",
+      "status" : "passed",
+      "time" : {
+        "start" : 1684204037238,
+        "stop" : 1684204038264,
+        "duration" : 1026
+      }
+    }, {
+      "uid" : "73bea3986eee733b",
+      "reportUrl" : "http://localhost:8080/job/DsalgoProject/4/allure/#testresult/73bea3986eee733b",
+      "status" : "passed",
+      "time" : {
+        "start" : 1684203379266,
+        "stop" : 1684203380222,
+        "duration" : 956
+      }
+    } ]
+  },
+  "7bbbba523686034ac76b72962d3d55e2" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 2,
+      "unknown" : 0,
+      "total" : 2
+    },
+    "items" : [ {
+      "uid" : "22ead888e4850a8b",
+      "reportUrl" : "http://localhost:8080/job/DsalgoProject/5/allure/#testresult/22ead888e4850a8b",
+      "status" : "passed",
+      "time" : {
+        "start" : 1684204050231,
+        "stop" : 1684204051176,
+        "duration" : 945
+      }
+    }, {
+      "uid" : "28952d924980b128",
+      "reportUrl" : "http://localhost:8080/job/DsalgoProject/4/allure/#testresult/28952d924980b128",
+      "status" : "passed",
+      "time" : {
+        "start" : 1684203391174,
+        "stop" : 1684203391958,
+        "duration" : 784
+      }
+    } ]
+  },
+  "1726f7842016f4a6b35a6cc65107474d" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 2,
+      "unknown" : 0,
+      "total" : 2
+    },
+    "items" : [ {
+      "uid" : "cf3b02525bbe98d6",
+      "reportUrl" : "http://localhost:8080/job/DsalgoProject/5/allure/#testresult/cf3b02525bbe98d6",
+      "status" : "passed",
+      "time" : {
+        "start" : 1684204030405,
+        "stop" : 1684204031184,
+        "duration" : 779
+      }
+    }, {
+      "uid" : "860c76942872d589",
+      "reportUrl" : "http://localhost:8080/job/DsalgoProject/4/allure/#testresult/860c76942872d589",
+      "status" : "passed",
+      "time" : {
+        "start" : 1684203373982,
+        "stop" : 1684203374730,
+        "duration" : 748
+      }
+    } ]
+  },
+  "4bdc5cd05f94f2ca5975f92670e53b38" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 2,
+      "unknown" : 0,
+      "total" : 2
+    },
+    "items" : [ {
+      "uid" : "5d29dcd36c164a38",
+      "reportUrl" : "http://localhost:8080/job/DsalgoProject/5/allure/#testresult/5d29dcd36c164a38",
+      "status" : "passed",
+      "time" : {
+        "start" : 1684203907661,
+        "stop" : 1684203911412,
+        "duration" : 3751
+      }
+    }, {
+      "uid" : "f9e07615776320af",
+      "reportUrl" : "http://localhost:8080/job/DsalgoProject/4/allure/#testresult/f9e07615776320af",
+      "status" : "passed",
+      "time" : {
+        "start" : 1684203255736,
+        "stop" : 1684203258929,
+        "duration" : 3193
+      }
+    } ]
+  },
+  "fa4277c7b55be05808dbe35cc52ca66b" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 2,
+      "unknown" : 0,
+      "total" : 2
+    },
+    "items" : [ {
+      "uid" : "728c767c4eb2c91b",
+      "reportUrl" : "http://localhost:8080/job/DsalgoProject/5/allure/#testresult/728c767c4eb2c91b",
+      "status" : "passed",
+      "time" : {
+        "start" : 1684204035859,
+        "stop" : 1684204037219,
+        "duration" : 1360
+      }
+    }, {
+      "uid" : "c5654fc04ed7fdb5",
+      "reportUrl" : "http://localhost:8080/job/DsalgoProject/4/allure/#testresult/c5654fc04ed7fdb5",
+      "status" : "passed",
+      "time" : {
+        "start" : 1684203378203,
+        "stop" : 1684203379243,
+        "duration" : 1040
+      }
+    } ]
+  },
+  "ac9c89f15b1cbfbf8dc3588adf43b6f0" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 2,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 2
+    },
+    "items" : [ {
+      "uid" : "9814b1b968c0b1b3",
+      "reportUrl" : "http://localhost:8080/job/DsalgoProject/5/allure/#testresult/9814b1b968c0b1b3",
+      "status" : "broken",
+      "statusDetails" : "no such element: Unable to locate element: {\"method\":\"xpath\",\"selector\":\"//a[text()=' Register ']\"}\n  (Session info: chrome=113.0.5672.93)\nFor documentation on this error, please visit: https://selenium.dev/exceptions/#no_such_element\nBuild info: version: '4.8.3', revision: 'e5e76298c3'\nSystem info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '20.0.1'\nDriver info: org.openqa.selenium.chrome.ChromeDriver\nCommand: [d2c1984af990ab6f97868cc1ffcabbd9, findElement {using=xpath, value=//a[text()=' Register ']}]\nCapabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 113.0.5672.93, chrome: {chromedriverVersion: 113.0.5672.63 (0e1a4471d5ae..., userDataDir: C:\\Users\\kiran\\AppData\\Loca...}, goog:chromeOptions: {debuggerAddress: localhost:59495}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: WINDOWS, proxy: Proxy(), se:cdp: ws://localhost:59495/devtoo..., se:cdpVersion: 113.0.5672.93, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}\nSession ID: d2c1984af990ab6f97868cc1ffcabbd9",
+      "time" : {
+        "start" : 1684204019207,
+        "stop" : 1684204024380,
+        "duration" : 5173
+      }
+    }, {
+      "uid" : "73aac504d43508ec",
+      "reportUrl" : "http://localhost:8080/job/DsalgoProject/4/allure/#testresult/73aac504d43508ec",
+      "status" : "broken",
+      "statusDetails" : "no such element: Unable to locate element: {\"method\":\"xpath\",\"selector\":\"//a[text()=' Register ']\"}\n  (Session info: chrome=113.0.5672.93)\nFor documentation on this error, please visit: https://selenium.dev/exceptions/#no_such_element\nBuild info: version: '4.8.3', revision: 'e5e76298c3'\nSystem info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '20.0.1'\nDriver info: org.openqa.selenium.chrome.ChromeDriver\nCommand: [b1d91fc358de3f0eecf000d8d9a23fde, findElement {using=xpath, value=//a[text()=' Register ']}]\nCapabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 113.0.5672.93, chrome: {chromedriverVersion: 113.0.5672.63 (0e1a4471d5ae..., userDataDir: C:\\Users\\kiran\\AppData\\Loca...}, goog:chromeOptions: {debuggerAddress: localhost:58835}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: WINDOWS, proxy: Proxy(), se:cdp: ws://localhost:58835/devtoo..., se:cdpVersion: 113.0.5672.93, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}\nSession ID: b1d91fc358de3f0eecf000d8d9a23fde",
+      "time" : {
+        "start" : 1684203362059,
+        "stop" : 1684203367274,
+        "duration" : 5215
+      }
+    } ]
+  },
+  "f83431d3ae41cd047007c5bedb8bd02c" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 2,
+      "unknown" : 0,
+      "total" : 2
+    },
+    "items" : [ {
+      "uid" : "44d62d305043d0da",
+      "reportUrl" : "http://localhost:8080/job/DsalgoProject/5/allure/#testresult/44d62d305043d0da",
+      "status" : "passed",
+      "time" : {
+        "start" : 1684204031196,
+        "stop" : 1684204031944,
+        "duration" : 748
+      }
+    }, {
+      "uid" : "7474b4acfb1eada3",
+      "reportUrl" : "http://localhost:8080/job/DsalgoProject/4/allure/#testresult/7474b4acfb1eada3",
+      "status" : "passed",
+      "time" : {
+        "start" : 1684203374747,
+        "stop" : 1684203375251,
+        "duration" : 504
+      }
+    } ]
+  },
+  "8c3660e813912a0d0eb1eb5f2f4a1fad" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 2,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 2
+    },
+    "items" : [ {
+      "uid" : "ba5b5ca1fcfc6873",
+      "reportUrl" : "http://localhost:8080/job/DsalgoProject/5/allure/#testresult/ba5b5ca1fcfc6873",
+      "status" : "broken",
+      "statusDetails" : "no such element: Unable to locate element: {\"method\":\"xpath\",\"selector\":\"//div[@role='alert']\"}\n  (Session info: chrome=113.0.5672.93)\nFor documentation on this error, please visit: https://selenium.dev/exceptions/#no_such_element\nBuild info: version: '4.8.3', revision: 'e5e76298c3'\nSystem info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '20.0.1'\nDriver info: org.openqa.selenium.chrome.ChromeDriver\nCommand: [d2c1984af990ab6f97868cc1ffcabbd9, findElement {using=xpath, value=//div[@role='alert']}]\nCapabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 113.0.5672.93, chrome: {chromedriverVersion: 113.0.5672.63 (0e1a4471d5ae..., userDataDir: C:\\Users\\kiran\\AppData\\Loca...}, goog:chromeOptions: {debuggerAddress: localhost:59495}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: WINDOWS, proxy: Proxy(), se:cdp: ws://localhost:59495/devtoo..., se:cdpVersion: 113.0.5672.93, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}\nSession ID: d2c1984af990ab6f97868cc1ffcabbd9",
+      "time" : {
+        "start" : 1684203961111,
+        "stop" : 1684203966836,
+        "duration" : 5725
+      }
+    }, {
+      "uid" : "d3a911bd675d3360",
+      "reportUrl" : "http://localhost:8080/job/DsalgoProject/4/allure/#testresult/d3a911bd675d3360",
+      "status" : "broken",
+      "statusDetails" : "no such element: Unable to locate element: {\"method\":\"xpath\",\"selector\":\"//div[@role='alert']\"}\n  (Session info: chrome=113.0.5672.93)\nFor documentation on this error, please visit: https://selenium.dev/exceptions/#no_such_element\nBuild info: version: '4.8.3', revision: 'e5e76298c3'\nSystem info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '20.0.1'\nDriver info: org.openqa.selenium.chrome.ChromeDriver\nCommand: [b1d91fc358de3f0eecf000d8d9a23fde, findElement {using=xpath, value=//div[@role='alert']}]\nCapabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 113.0.5672.93, chrome: {chromedriverVersion: 113.0.5672.63 (0e1a4471d5ae..., userDataDir: C:\\Users\\kiran\\AppData\\Loca...}, goog:chromeOptions: {debuggerAddress: localhost:58835}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: WINDOWS, proxy: Proxy(), se:cdp: ws://localhost:58835/devtoo..., se:cdpVersion: 113.0.5672.93, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}\nSession ID: b1d91fc358de3f0eecf000d8d9a23fde",
+      "time" : {
+        "start" : 1684203303897,
+        "stop" : 1684203309599,
+        "duration" : 5702
+      }
+    } ]
+  },
+  "8344f272d960a0140c06fdc15c289bce" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 2,
+      "unknown" : 0,
+      "total" : 2
+    },
+    "items" : [ {
+      "uid" : "96c12967c7c16272",
+      "reportUrl" : "http://localhost:8080/job/DsalgoProject/5/allure/#testresult/96c12967c7c16272",
+      "status" : "passed",
+      "time" : {
+        "start" : 1684204067055,
+        "stop" : 1684204068414,
+        "duration" : 1359
+      }
+    }, {
+      "uid" : "64809a9986e8e8c4",
+      "reportUrl" : "http://localhost:8080/job/DsalgoProject/4/allure/#testresult/64809a9986e8e8c4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1684203404841,
+        "stop" : 1684203406644,
+        "duration" : 1803
+      }
+    } ]
+  },
+  "ba12947ea61c6872cd2830406ada3c" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 2,
+      "unknown" : 0,
+      "total" : 2
+    },
+    "items" : [ {
+      "uid" : "4affad3563d12f5",
+      "reportUrl" : "http://localhost:8080/job/DsalgoProject/5/allure/#testresult/4affad3563d12f5",
+      "status" : "passed",
+      "time" : {
+        "start" : 1684204063094,
+        "stop" : 1684204064314,
+        "duration" : 1220
+      }
+    }, {
+      "uid" : "8d242a53a02c6184",
+      "reportUrl" : "http://localhost:8080/job/DsalgoProject/4/allure/#testresult/8d242a53a02c6184",
+      "status" : "passed",
+      "time" : {
+        "start" : 1684203401382,
+        "stop" : 1684203402424,
+        "duration" : 1042
+      }
+    } ]
+  },
+  "e6cebf77a48835b4f2d17a8df6de3b1d" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 2,
+      "unknown" : 0,
+      "total" : 2
+    },
+    "items" : [ {
+      "uid" : "463ef6c3f9d339c6",
+      "reportUrl" : "http://localhost:8080/job/DsalgoProject/5/allure/#testresult/463ef6c3f9d339c6",
+      "status" : "passed",
+      "time" : {
+        "start" : 1684204051184,
+        "stop" : 1684204052804,
+        "duration" : 1620
+      }
+    }, {
+      "uid" : "9c356ffd43b17cd1",
+      "reportUrl" : "http://localhost:8080/job/DsalgoProject/4/allure/#testresult/9c356ffd43b17cd1",
+      "status" : "passed",
+      "time" : {
+        "start" : 1684203391974,
+        "stop" : 1684203392689,
+        "duration" : 715
+      }
+    } ]
+  },
+  "eaac5ab0c48370ac594a4534e4cb23c6" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 2,
+      "unknown" : 0,
+      "total" : 2
+    },
+    "items" : [ {
+      "uid" : "277eb10ce203637b",
+      "reportUrl" : "http://localhost:8080/job/DsalgoProject/5/allure/#testresult/277eb10ce203637b",
+      "status" : "passed",
+      "time" : {
+        "start" : 1684203883654,
+        "stop" : 1684203884248,
+        "duration" : 594
+      }
+    }, {
+      "uid" : "e599af78e9ac35b6",
+      "reportUrl" : "http://localhost:8080/job/DsalgoProject/4/allure/#testresult/e599af78e9ac35b6",
+      "status" : "passed",
+      "time" : {
+        "start" : 1684203229739,
+        "stop" : 1684203230152,
+        "duration" : 413
+      }
+    } ]
+  },
+  "faa0b9c5883fdc96b5d99da7e38b8334" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 2,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 2
+    },
+    "items" : [ {
+      "uid" : "7598a6ba9cd07e45",
+      "reportUrl" : "http://localhost:8080/job/DsalgoProject/5/allure/#testresult/7598a6ba9cd07e45",
+      "status" : "broken",
+      "statusDetails" : "no such element: Unable to locate element: {\"method\":\"xpath\",\"selector\":\"//a[text()=' Register ']\"}\n  (Session info: chrome=113.0.5672.93)\nFor documentation on this error, please visit: https://selenium.dev/exceptions/#no_such_element\nBuild info: version: '4.8.3', revision: 'e5e76298c3'\nSystem info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '20.0.1'\nDriver info: org.openqa.selenium.chrome.ChromeDriver\nCommand: [d2c1984af990ab6f97868cc1ffcabbd9, findElement {using=xpath, value=//a[text()=' Register ']}]\nCapabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 113.0.5672.93, chrome: {chromedriverVersion: 113.0.5672.63 (0e1a4471d5ae..., userDataDir: C:\\Users\\kiran\\AppData\\Loca...}, goog:chromeOptions: {debuggerAddress: localhost:59495}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: WINDOWS, proxy: Proxy(), se:cdp: ws://localhost:59495/devtoo..., se:cdpVersion: 113.0.5672.93, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}\nSession ID: d2c1984af990ab6f97868cc1ffcabbd9",
+      "time" : {
+        "start" : 1684203966854,
+        "stop" : 1684203972087,
+        "duration" : 5233
+      }
+    }, {
+      "uid" : "e3c1c5770e353414",
+      "reportUrl" : "http://localhost:8080/job/DsalgoProject/4/allure/#testresult/e3c1c5770e353414",
+      "status" : "broken",
+      "statusDetails" : "no such element: Unable to locate element: {\"method\":\"xpath\",\"selector\":\"//a[text()=' Register ']\"}\n  (Session info: chrome=113.0.5672.93)\nFor documentation on this error, please visit: https://selenium.dev/exceptions/#no_such_element\nBuild info: version: '4.8.3', revision: 'e5e76298c3'\nSystem info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '20.0.1'\nDriver info: org.openqa.selenium.chrome.ChromeDriver\nCommand: [b1d91fc358de3f0eecf000d8d9a23fde, findElement {using=xpath, value=//a[text()=' Register ']}]\nCapabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 113.0.5672.93, chrome: {chromedriverVersion: 113.0.5672.63 (0e1a4471d5ae..., userDataDir: C:\\Users\\kiran\\AppData\\Loca...}, goog:chromeOptions: {debuggerAddress: localhost:58835}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: WINDOWS, proxy: Proxy(), se:cdp: ws://localhost:58835/devtoo..., se:cdpVersion: 113.0.5672.93, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}\nSession ID: b1d91fc358de3f0eecf000d8d9a23fde",
+      "time" : {
+        "start" : 1684203309610,
+        "stop" : 1684203314848,
+        "duration" : 5238
+      }
+    } ]
+  },
+  "dff0874a8b1f77e962561487201cbb33" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 2,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 2
+    },
+    "items" : [ {
+      "uid" : "8eca450ca5df3c74",
+      "reportUrl" : "http://localhost:8080/job/DsalgoProject/5/allure/#testresult/8eca450ca5df3c74",
+      "status" : "broken",
+      "statusDetails" : "no such element: Unable to locate element: {\"method\":\"link text\",\"selector\":\"Practice Questions\"}\n  (Session info: chrome=113.0.5672.93)\nFor documentation on this error, please visit: https://selenium.dev/exceptions/#no_such_element\nBuild info: version: '4.8.3', revision: 'e5e76298c3'\nSystem info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '20.0.1'\nDriver info: org.openqa.selenium.chrome.ChromeDriver\nCommand: [d2c1984af990ab6f97868cc1ffcabbd9, findElement {using=link text, value=Practice Questions}]\nCapabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 113.0.5672.93, chrome: {chromedriverVersion: 113.0.5672.63 (0e1a4471d5ae..., userDataDir: C:\\Users\\kiran\\AppData\\Loca...}, goog:chromeOptions: {debuggerAddress: localhost:59495}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: WINDOWS, proxy: Proxy(), se:cdp: ws://localhost:59495/devtoo..., se:cdpVersion: 113.0.5672.93, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}\nSession ID: d2c1984af990ab6f97868cc1ffcabbd9",
+      "time" : {
+        "start" : 1684203948944,
+        "stop" : 1684203954192,
+        "duration" : 5248
+      }
+    }, {
+      "uid" : "7c07521eb9e31d69",
+      "reportUrl" : "http://localhost:8080/job/DsalgoProject/4/allure/#testresult/7c07521eb9e31d69",
+      "status" : "broken",
+      "statusDetails" : "no such element: Unable to locate element: {\"method\":\"link text\",\"selector\":\"Practice Questions\"}\n  (Session info: chrome=113.0.5672.93)\nFor documentation on this error, please visit: https://selenium.dev/exceptions/#no_such_element\nBuild info: version: '4.8.3', revision: 'e5e76298c3'\nSystem info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '20.0.1'\nDriver info: org.openqa.selenium.chrome.ChromeDriver\nCommand: [b1d91fc358de3f0eecf000d8d9a23fde, findElement {using=link text, value=Practice Questions}]\nCapabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 113.0.5672.93, chrome: {chromedriverVersion: 113.0.5672.63 (0e1a4471d5ae..., userDataDir: C:\\Users\\kiran\\AppData\\Loca...}, goog:chromeOptions: {debuggerAddress: localhost:58835}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: WINDOWS, proxy: Proxy(), se:cdp: ws://localhost:58835/devtoo..., se:cdpVersion: 113.0.5672.93, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}\nSession ID: b1d91fc358de3f0eecf000d8d9a23fde",
+      "time" : {
+        "start" : 1684203292122,
+        "stop" : 1684203297326,
+        "duration" : 5204
+      }
+    } ]
+  },
+  "137d4fc5bf1036ac7decf2322f04b8f9" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 2,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 2
+    },
+    "items" : [ {
+      "uid" : "68a141c83269f644",
+      "reportUrl" : "http://localhost:8080/job/DsalgoProject/5/allure/#testresult/68a141c83269f644",
+      "status" : "broken",
+      "statusDetails" : "no such element: Unable to locate element: {\"method\":\"xpath\",\"selector\":\"//a[text()=' Register ']\"}\n  (Session info: chrome=113.0.5672.93)\nFor documentation on this error, please visit: https://selenium.dev/exceptions/#no_such_element\nBuild info: version: '4.8.3', revision: 'e5e76298c3'\nSystem info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '20.0.1'\nDriver info: org.openqa.selenium.chrome.ChromeDriver\nCommand: [d2c1984af990ab6f97868cc1ffcabbd9, findElement {using=xpath, value=//a[text()=' Register ']}]\nCapabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 113.0.5672.93, chrome: {chromedriverVersion: 113.0.5672.63 (0e1a4471d5ae..., userDataDir: C:\\Users\\kiran\\AppData\\Loca...}, goog:chromeOptions: {debuggerAddress: localhost:59495}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: WINDOWS, proxy: Proxy(), se:cdp: ws://localhost:59495/devtoo..., se:cdpVersion: 113.0.5672.93, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}\nSession ID: d2c1984af990ab6f97868cc1ffcabbd9",
+      "time" : {
+        "start" : 1684204008744,
+        "stop" : 1684204013996,
+        "duration" : 5252
+      }
+    }, {
+      "uid" : "98886a4865f02815",
+      "reportUrl" : "http://localhost:8080/job/DsalgoProject/4/allure/#testresult/98886a4865f02815",
+      "status" : "broken",
+      "statusDetails" : "no such element: Unable to locate element: {\"method\":\"xpath\",\"selector\":\"//a[text()=' Register ']\"}\n  (Session info: chrome=113.0.5672.93)\nFor documentation on this error, please visit: https://selenium.dev/exceptions/#no_such_element\nBuild info: version: '4.8.3', revision: 'e5e76298c3'\nSystem info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '20.0.1'\nDriver info: org.openqa.selenium.chrome.ChromeDriver\nCommand: [b1d91fc358de3f0eecf000d8d9a23fde, findElement {using=xpath, value=//a[text()=' Register ']}]\nCapabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 113.0.5672.93, chrome: {chromedriverVersion: 113.0.5672.63 (0e1a4471d5ae..., userDataDir: C:\\Users\\kiran\\AppData\\Loca...}, goog:chromeOptions: {debuggerAddress: localhost:58835}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: WINDOWS, proxy: Proxy(), se:cdp: ws://localhost:58835/devtoo..., se:cdpVersion: 113.0.5672.93, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}\nSession ID: b1d91fc358de3f0eecf000d8d9a23fde",
+      "time" : {
+        "start" : 1684203351572,
+        "stop" : 1684203356778,
+        "duration" : 5206
+      }
+    } ]
+  },
+  "a839c5fa2a3c69f5ee381b5fad3b6a8a" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 2,
+      "unknown" : 0,
+      "total" : 2
+    },
+    "items" : [ {
+      "uid" : "8cfd3a0274774682",
+      "reportUrl" : "http://localhost:8080/job/DsalgoProject/5/allure/#testresult/8cfd3a0274774682",
+      "status" : "passed",
+      "time" : {
+        "start" : 1684203829685,
+        "stop" : 1684203836485,
+        "duration" : 6800
+      }
+    }, {
+      "uid" : "90595de364150e16",
+      "reportUrl" : "http://localhost:8080/job/DsalgoProject/4/allure/#testresult/90595de364150e16",
+      "status" : "passed",
+      "time" : {
+        "start" : 1684203178424,
+        "stop" : 1684203185116,
+        "duration" : 6692
+      }
+    } ]
+  },
+  "4d1aaf66b45c51286442eccf55f878a5" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 2,
+      "unknown" : 0,
+      "total" : 2
+    },
+    "items" : [ {
+      "uid" : "14d88bb15242a357",
+      "reportUrl" : "http://localhost:8080/job/DsalgoProject/5/allure/#testresult/14d88bb15242a357",
+      "status" : "passed",
+      "time" : {
+        "start" : 1684204046331,
+        "stop" : 1684204047514,
+        "duration" : 1183
+      }
+    }, {
+      "uid" : "ceed135b3d802247",
+      "reportUrl" : "http://localhost:8080/job/DsalgoProject/4/allure/#testresult/ceed135b3d802247",
+      "status" : "passed",
+      "time" : {
+        "start" : 1684203388301,
+        "stop" : 1684203388970,
+        "duration" : 669
+      }
+    } ]
+  },
+  "42c6f1f5e9dfbc219cd82a8af95d3976" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 2,
+      "unknown" : 0,
+      "total" : 2
+    },
+    "items" : [ {
+      "uid" : "b26657a407069f25",
+      "reportUrl" : "http://localhost:8080/job/DsalgoProject/5/allure/#testresult/b26657a407069f25",
+      "status" : "passed",
+      "time" : {
+        "start" : 1684204079527,
+        "stop" : 1684204080816,
+        "duration" : 1289
+      }
+    }, {
+      "uid" : "5cb83b07adb4b2c4",
+      "reportUrl" : "http://localhost:8080/job/DsalgoProject/4/allure/#testresult/5cb83b07adb4b2c4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1684203417179,
+        "stop" : 1684203418456,
+        "duration" : 1277
+      }
+    } ]
+  },
+  "dc0ea40b9e83621b4c17d75d4806d923" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 2,
+      "unknown" : 0,
+      "total" : 2
+    },
+    "items" : [ {
+      "uid" : "bafc67723152ed11",
+      "reportUrl" : "http://localhost:8080/job/DsalgoProject/5/allure/#testresult/bafc67723152ed11",
+      "status" : "passed",
+      "time" : {
+        "start" : 1684204047534,
+        "stop" : 1684204048424,
+        "duration" : 890
+      }
+    }, {
+      "uid" : "62be7ab7903377dc",
+      "reportUrl" : "http://localhost:8080/job/DsalgoProject/4/allure/#testresult/62be7ab7903377dc",
+      "status" : "passed",
+      "time" : {
+        "start" : 1684203388984,
+        "stop" : 1684203389690,
+        "duration" : 706
+      }
+    } ]
+  },
+  "759b3f2ac7522f5853a064dfe52f7514" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 2,
+      "unknown" : 0,
+      "total" : 2
+    },
+    "items" : [ {
+      "uid" : "559bfd62d4f9e879",
+      "reportUrl" : "http://localhost:8080/job/DsalgoProject/5/allure/#testresult/559bfd62d4f9e879",
+      "status" : "passed",
+      "time" : {
+        "start" : 1684204034781,
+        "stop" : 1684204035839,
+        "duration" : 1058
+      }
+    }, {
+      "uid" : "fbb5a853ce8dfbf6",
+      "reportUrl" : "http://localhost:8080/job/DsalgoProject/4/allure/#testresult/fbb5a853ce8dfbf6",
+      "status" : "passed",
+      "time" : {
+        "start" : 1684203377173,
+        "stop" : 1684203378187,
+        "duration" : 1014
+      }
+    } ]
+  },
+  "7e1330cef1e2790e3b654567d921546b" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 2,
+      "unknown" : 0,
+      "total" : 2
+    },
+    "items" : [ {
+      "uid" : "716efc0199ad212e",
+      "reportUrl" : "http://localhost:8080/job/DsalgoProject/5/allure/#testresult/716efc0199ad212e",
+      "status" : "passed",
+      "time" : {
+        "start" : 1684204071359,
+        "stop" : 1684204072439,
+        "duration" : 1080
+      }
+    }, {
+      "uid" : "ae30e1e6acaf869d",
+      "reportUrl" : "http://localhost:8080/job/DsalgoProject/4/allure/#testresult/ae30e1e6acaf869d",
+      "status" : "passed",
+      "time" : {
+        "start" : 1684203409159,
+        "stop" : 1684203410723,
+        "duration" : 1564
+      }
+    } ]
+  },
+  "efd8a739716e113a7987ba7358b4e296" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 2,
+      "unknown" : 0,
+      "total" : 2
+    },
+    "items" : [ {
+      "uid" : "a3b5b725427be034",
+      "reportUrl" : "http://localhost:8080/job/DsalgoProject/5/allure/#testresult/a3b5b725427be034",
+      "status" : "passed",
+      "time" : {
+        "start" : 1684203837236,
+        "stop" : 1684203838328,
+        "duration" : 1092
+      }
+    }, {
+      "uid" : "9a870572e0e8a3f7",
+      "reportUrl" : "http://localhost:8080/job/DsalgoProject/4/allure/#testresult/9a870572e0e8a3f7",
+      "status" : "passed",
+      "time" : {
+        "start" : 1684203185923,
+        "stop" : 1684203186702,
+        "duration" : 779
+      }
+    } ]
+  },
+  "c4ae43cb78aace87a63a8d4e5c864313" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 2,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 2
+    },
+    "items" : [ {
+      "uid" : "b95b499385488d28",
+      "reportUrl" : "http://localhost:8080/job/DsalgoProject/5/allure/#testresult/b95b499385488d28",
+      "status" : "broken",
+      "statusDetails" : "no such element: Unable to locate element: {\"method\":\"xpath\",\"selector\":\"//div[@role='alert']\"}\n  (Session info: chrome=113.0.5672.93)\nFor documentation on this error, please visit: https://selenium.dev/exceptions/#no_such_element\nBuild info: version: '4.8.3', revision: 'e5e76298c3'\nSystem info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '20.0.1'\nDriver info: org.openqa.selenium.chrome.ChromeDriver\nCommand: [d2c1984af990ab6f97868cc1ffcabbd9, findElement {using=xpath, value=//div[@role='alert']}]\nCapabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 113.0.5672.93, chrome: {chromedriverVersion: 113.0.5672.63 (0e1a4471d5ae..., userDataDir: C:\\Users\\kiran\\AppData\\Loca...}, goog:chromeOptions: {debuggerAddress: localhost:59495}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: WINDOWS, proxy: Proxy(), se:cdp: ws://localhost:59495/devtoo..., se:cdpVersion: 113.0.5672.93, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}\nSession ID: d2c1984af990ab6f97868cc1ffcabbd9",
+      "time" : {
+        "start" : 1684203955450,
+        "stop" : 1684203961104,
+        "duration" : 5654
+      }
+    }, {
+      "uid" : "89ceda08d51a79a1",
+      "reportUrl" : "http://localhost:8080/job/DsalgoProject/4/allure/#testresult/89ceda08d51a79a1",
+      "status" : "broken",
+      "statusDetails" : "no such element: Unable to locate element: {\"method\":\"xpath\",\"selector\":\"//div[@role='alert']\"}\n  (Session info: chrome=113.0.5672.93)\nFor documentation on this error, please visit: https://selenium.dev/exceptions/#no_such_element\nBuild info: version: '4.8.3', revision: 'e5e76298c3'\nSystem info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '20.0.1'\nDriver info: org.openqa.selenium.chrome.ChromeDriver\nCommand: [b1d91fc358de3f0eecf000d8d9a23fde, findElement {using=xpath, value=//div[@role='alert']}]\nCapabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 113.0.5672.93, chrome: {chromedriverVersion: 113.0.5672.63 (0e1a4471d5ae..., userDataDir: C:\\Users\\kiran\\AppData\\Loca...}, goog:chromeOptions: {debuggerAddress: localhost:58835}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: WINDOWS, proxy: Proxy(), se:cdp: ws://localhost:58835/devtoo..., se:cdpVersion: 113.0.5672.93, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}\nSession ID: b1d91fc358de3f0eecf000d8d9a23fde",
+      "time" : {
+        "start" : 1684203298286,
+        "stop" : 1684203303891,
+        "duration" : 5605
+      }
+    } ]
+  },
+  "42d3aa9ea5047548e614357a72eb8be9" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 2,
+      "unknown" : 0,
+      "total" : 2
+    },
+    "items" : [ {
+      "uid" : "30ecdda5e0fb918c",
+      "reportUrl" : "http://localhost:8080/job/DsalgoProject/5/allure/#testresult/30ecdda5e0fb918c",
+      "status" : "passed",
+      "time" : {
+        "start" : 1684204031188,
+        "stop" : 1684204031954,
+        "duration" : 766
+      }
+    }, {
+      "uid" : "4e263932930e47c4",
+      "reportUrl" : "http://localhost:8080/job/DsalgoProject/4/allure/#testresult/4e263932930e47c4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1684203374737,
+        "stop" : 1684203375256,
+        "duration" : 519
+      }
+    } ]
+  },
+  "b30d4b757651580597ccae76bb2245b3" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 2,
+      "unknown" : 0,
+      "total" : 2
+    },
+    "items" : [ {
+      "uid" : "853fafdc72153a1",
+      "reportUrl" : "http://localhost:8080/job/DsalgoProject/5/allure/#testresult/853fafdc72153a1",
+      "status" : "passed",
+      "time" : {
+        "start" : 1684204052809,
+        "stop" : 1684204056057,
+        "duration" : 3248
+      }
+    }, {
+      "uid" : "5546b9bf4129f8d7",
+      "reportUrl" : "http://localhost:8080/job/DsalgoProject/4/allure/#testresult/5546b9bf4129f8d7",
+      "status" : "passed",
+      "time" : {
+        "start" : 1684203392698,
+        "stop" : 1684203393836,
+        "duration" : 1138
+      }
+    } ]
+  },
+  "366531280adaf321b64f380ef01cb16e" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 2,
+      "unknown" : 0,
+      "total" : 2
+    },
+    "items" : [ {
+      "uid" : "e669a8b39e4e5f7c",
+      "reportUrl" : "http://localhost:8080/job/DsalgoProject/5/allure/#testresult/e669a8b39e4e5f7c",
+      "status" : "passed",
+      "time" : {
+        "start" : 1684204048437,
+        "stop" : 1684204049508,
+        "duration" : 1071
+      }
+    }, {
+      "uid" : "5883ab40899f5650",
+      "reportUrl" : "http://localhost:8080/job/DsalgoProject/4/allure/#testresult/5883ab40899f5650",
+      "status" : "passed",
+      "time" : {
+        "start" : 1684203389711,
+        "stop" : 1684203390460,
+        "duration" : 749
+      }
+    } ]
+  },
+  "bc6f50c9335ac552aa443ed612bc96fb" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 2,
+      "unknown" : 0,
+      "total" : 2
+    },
+    "items" : [ {
+      "uid" : "b0f3887fdd206040",
+      "reportUrl" : "http://localhost:8080/job/DsalgoProject/5/allure/#testresult/b0f3887fdd206040",
+      "status" : "passed",
+      "time" : {
+        "start" : 1684203923129,
+        "stop" : 1684203924760,
+        "duration" : 1631
+      }
+    }, {
+      "uid" : "cef792402c5edf61",
+      "reportUrl" : "http://localhost:8080/job/DsalgoProject/4/allure/#testresult/cef792402c5edf61",
+      "status" : "passed",
+      "time" : {
+        "start" : 1684203266450,
+        "stop" : 1684203267534,
+        "duration" : 1084
+      }
+    } ]
+  },
+  "777944e6f117285a3c634e3e5e1fa233" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 2,
+      "unknown" : 0,
+      "total" : 2
+    },
+    "items" : [ {
+      "uid" : "681bfa610e7ba9ec",
+      "reportUrl" : "http://localhost:8080/job/DsalgoProject/5/allure/#testresult/681bfa610e7ba9ec",
+      "status" : "passed",
+      "time" : {
+        "start" : 1684203905860,
+        "stop" : 1684203906620,
+        "duration" : 760
+      }
+    }, {
+      "uid" : "bfc7bbd5f492144b",
+      "reportUrl" : "http://localhost:8080/job/DsalgoProject/4/allure/#testresult/bfc7bbd5f492144b",
+      "status" : "passed",
+      "time" : {
+        "start" : 1684203250855,
+        "stop" : 1684203251921,
+        "duration" : 1066
+      }
+    } ]
+  },
+  "fed17a64b7ee29dd17132a8fe79dbaa1" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 2,
+      "unknown" : 0,
+      "total" : 2
+    },
+    "items" : [ {
+      "uid" : "80eba1a116c0153e",
+      "reportUrl" : "http://localhost:8080/job/DsalgoProject/5/allure/#testresult/80eba1a116c0153e",
+      "status" : "passed",
+      "time" : {
+        "start" : 1684204066114,
+        "stop" : 1684204067039,
+        "duration" : 925
+      }
+    }, {
+      "uid" : "9c7e00e30565b211",
+      "reportUrl" : "http://localhost:8080/job/DsalgoProject/4/allure/#testresult/9c7e00e30565b211",
+      "status" : "passed",
+      "time" : {
+        "start" : 1684203403576,
+        "stop" : 1684203404829,
+        "duration" : 1253
+      }
+    } ]
+  },
+  "cc2544a27ad11e62b9866481412be2c7" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 2,
+      "unknown" : 0,
+      "total" : 2
+    },
+    "items" : [ {
+      "uid" : "8367b86f5124b279",
+      "reportUrl" : "http://localhost:8080/job/DsalgoProject/5/allure/#testresult/8367b86f5124b279",
+      "status" : "passed",
+      "time" : {
+        "start" : 1684203906630,
+        "stop" : 1684203907658,
+        "duration" : 1028
+      }
+    }, {
+      "uid" : "aa9a77e54156237",
+      "reportUrl" : "http://localhost:8080/job/DsalgoProject/4/allure/#testresult/aa9a77e54156237",
+      "status" : "passed",
+      "time" : {
+        "start" : 1684203251926,
+        "stop" : 1684203255728,
+        "duration" : 3802
+      }
+    } ]
+  },
+  "36861ce5428018a5bb0b62e5585514ab" : {
+    "statistic" : {
+      "failed" : 2,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 2
+    },
+    "items" : [ {
+      "uid" : "b5a8a4183d2390da",
+      "reportUrl" : "http://localhost:8080/job/DsalgoProject/5/allure/#testresult/b5a8a4183d2390da",
+      "status" : "failed",
+      "statusDetails" : "expected:<[password_mismatch:The two password fields didn’t match.]> but was:<[New Account Created. You are logged in as <username>]>",
+      "time" : {
+        "start" : 1684203851767,
+        "stop" : 1684203869959,
+        "duration" : 18192
+      }
+    }, {
+      "uid" : "422fc2cbf74a5b83",
+      "reportUrl" : "http://localhost:8080/job/DsalgoProject/4/allure/#testresult/422fc2cbf74a5b83",
+      "status" : "failed",
+      "statusDetails" : "expected:<[password_mismatch:The two password fields didn’t match.]> but was:<[New Account Created. You are logged in as <username>]>",
+      "time" : {
+        "start" : 1684203200097,
+        "stop" : 1684203217752,
+        "duration" : 17655
+      }
+    } ]
+  },
+  "954d5fc0d40cdfb7742166406cfcf844" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 2,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 2
+    },
+    "items" : [ {
+      "uid" : "73d857a49f1f99ad",
+      "reportUrl" : "http://localhost:8080/job/DsalgoProject/5/allure/#testresult/73d857a49f1f99ad",
+      "status" : "broken",
+      "statusDetails" : "no such element: Unable to locate element: {\"method\":\"link text\",\"selector\":\"Insertion\"}\n  (Session info: chrome=113.0.5672.93)\nFor documentation on this error, please visit: https://selenium.dev/exceptions/#no_such_element\nBuild info: version: '4.8.3', revision: 'e5e76298c3'\nSystem info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '20.0.1'\nDriver info: org.openqa.selenium.chrome.ChromeDriver\nCommand: [d2c1984af990ab6f97868cc1ffcabbd9, findElement {using=link text, value=Insertion}]\nCapabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 113.0.5672.93, chrome: {chromedriverVersion: 113.0.5672.63 (0e1a4471d5ae..., userDataDir: C:\\Users\\kiran\\AppData\\Loca...}, goog:chromeOptions: {debuggerAddress: localhost:59495}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: WINDOWS, proxy: Proxy(), se:cdp: ws://localhost:59495/devtoo..., se:cdpVersion: 113.0.5672.93, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}\nSession ID: d2c1984af990ab6f97868cc1ffcabbd9",
+      "time" : {
+        "start" : 1684203933217,
+        "stop" : 1684203938465,
+        "duration" : 5248
+      }
+    }, {
+      "uid" : "ee4f69ccbaac2e7f",
+      "reportUrl" : "http://localhost:8080/job/DsalgoProject/4/allure/#testresult/ee4f69ccbaac2e7f",
+      "status" : "broken",
+      "statusDetails" : "no such element: Unable to locate element: {\"method\":\"link text\",\"selector\":\"Insertion\"}\n  (Session info: chrome=113.0.5672.93)\nFor documentation on this error, please visit: https://selenium.dev/exceptions/#no_such_element\nBuild info: version: '4.8.3', revision: 'e5e76298c3'\nSystem info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '20.0.1'\nDriver info: org.openqa.selenium.chrome.ChromeDriver\nCommand: [b1d91fc358de3f0eecf000d8d9a23fde, findElement {using=link text, value=Insertion}]\nCapabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 113.0.5672.93, chrome: {chromedriverVersion: 113.0.5672.63 (0e1a4471d5ae..., userDataDir: C:\\Users\\kiran\\AppData\\Loca...}, goog:chromeOptions: {debuggerAddress: localhost:58835}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: WINDOWS, proxy: Proxy(), se:cdp: ws://localhost:58835/devtoo..., se:cdpVersion: 113.0.5672.93, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}\nSession ID: b1d91fc358de3f0eecf000d8d9a23fde",
+      "time" : {
+        "start" : 1684203276241,
+        "stop" : 1684203281519,
+        "duration" : 5278
+      }
+    } ]
+  },
+  "283df94415d02041ff94fe2400485381" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 2,
+      "unknown" : 0,
+      "total" : 2
+    },
+    "items" : [ {
+      "uid" : "e75a06afec4312f1",
+      "reportUrl" : "http://localhost:8080/job/DsalgoProject/5/allure/#testresult/e75a06afec4312f1",
+      "status" : "passed",
+      "time" : {
+        "start" : 1684204073944,
+        "stop" : 1684204075444,
+        "duration" : 1500
+      }
+    }, {
+      "uid" : "aee7c26577f12b61",
+      "reportUrl" : "http://localhost:8080/job/DsalgoProject/4/allure/#testresult/aee7c26577f12b61",
+      "status" : "passed",
+      "time" : {
+        "start" : 1684203411991,
+        "stop" : 1684203413507,
+        "duration" : 1516
+      }
+    } ]
+  },
+  "fbc0351821f11b61b244d9346e196be2" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 2,
+      "unknown" : 0,
+      "total" : 2
+    },
+    "items" : [ {
+      "uid" : "7bfd1fb3abb44445",
+      "reportUrl" : "http://localhost:8080/job/DsalgoProject/5/allure/#testresult/7bfd1fb3abb44445",
+      "status" : "passed",
+      "time" : {
+        "start" : 1684203871804,
+        "stop" : 1684203874099,
+        "duration" : 2295
+      }
+    }, {
+      "uid" : "9e615f0374d1f372",
+      "reportUrl" : "http://localhost:8080/job/DsalgoProject/4/allure/#testresult/9e615f0374d1f372",
+      "status" : "passed",
+      "time" : {
+        "start" : 1684203218658,
+        "stop" : 1684203220629,
+        "duration" : 1971
+      }
+    } ]
+  },
+  "340f0fdebf0ad63e043c7c32412f3024" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 2,
+      "unknown" : 0,
+      "total" : 2
+    },
+    "items" : [ {
+      "uid" : "3537f796d39e0a3c",
+      "reportUrl" : "http://localhost:8080/job/DsalgoProject/5/allure/#testresult/3537f796d39e0a3c",
+      "status" : "passed",
+      "time" : {
+        "start" : 1684204030413,
+        "stop" : 1684204031174,
+        "duration" : 761
+      }
+    }, {
+      "uid" : "86fc2d0c537064e8",
+      "reportUrl" : "http://localhost:8080/job/DsalgoProject/4/allure/#testresult/86fc2d0c537064e8",
+      "status" : "passed",
+      "time" : {
+        "start" : 1684203373988,
+        "stop" : 1684203374723,
+        "duration" : 735
+      }
+    } ]
+  },
+  "7201454cbda011157e888e45652e7237" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 2,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 2
+    },
+    "items" : [ {
+      "uid" : "fd37c38b6aec96ba",
+      "reportUrl" : "http://localhost:8080/job/DsalgoProject/5/allure/#testresult/fd37c38b6aec96ba",
+      "status" : "broken",
+      "statusDetails" : "no such element: Unable to locate element: {\"method\":\"xpath\",\"selector\":\"//a[text()=' Register ']\"}\n  (Session info: chrome=113.0.5672.93)\nFor documentation on this error, please visit: https://selenium.dev/exceptions/#no_such_element\nBuild info: version: '4.8.3', revision: 'e5e76298c3'\nSystem info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '20.0.1'\nDriver info: org.openqa.selenium.chrome.ChromeDriver\nCommand: [d2c1984af990ab6f97868cc1ffcabbd9, findElement {using=xpath, value=//a[text()=' Register ']}]\nCapabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 113.0.5672.93, chrome: {chromedriverVersion: 113.0.5672.63 (0e1a4471d5ae..., userDataDir: C:\\Users\\kiran\\AppData\\Loca...}, goog:chromeOptions: {debuggerAddress: localhost:59495}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: WINDOWS, proxy: Proxy(), se:cdp: ws://localhost:59495/devtoo..., se:cdpVersion: 113.0.5672.93, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}\nSession ID: d2c1984af990ab6f97868cc1ffcabbd9",
+      "time" : {
+        "start" : 1684203998269,
+        "stop" : 1684204003435,
+        "duration" : 5166
+      }
+    }, {
+      "uid" : "51ef08d364f0d9aa",
+      "reportUrl" : "http://localhost:8080/job/DsalgoProject/4/allure/#testresult/51ef08d364f0d9aa",
+      "status" : "broken",
+      "statusDetails" : "no such element: Unable to locate element: {\"method\":\"xpath\",\"selector\":\"//a[text()=' Register ']\"}\n  (Session info: chrome=113.0.5672.93)\nFor documentation on this error, please visit: https://selenium.dev/exceptions/#no_such_element\nBuild info: version: '4.8.3', revision: 'e5e76298c3'\nSystem info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '20.0.1'\nDriver info: org.openqa.selenium.chrome.ChromeDriver\nCommand: [b1d91fc358de3f0eecf000d8d9a23fde, findElement {using=xpath, value=//a[text()=' Register ']}]\nCapabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 113.0.5672.93, chrome: {chromedriverVersion: 113.0.5672.63 (0e1a4471d5ae..., userDataDir: C:\\Users\\kiran\\AppData\\Loca...}, goog:chromeOptions: {debuggerAddress: localhost:58835}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: WINDOWS, proxy: Proxy(), se:cdp: ws://localhost:58835/devtoo..., se:cdpVersion: 113.0.5672.93, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}\nSession ID: b1d91fc358de3f0eecf000d8d9a23fde",
+      "time" : {
+        "start" : 1684203341077,
+        "stop" : 1684203346314,
+        "duration" : 5237
+      }
+    } ]
+  },
+  "947b3f12743d4cc307b61af4647d1f9c" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 2,
+      "unknown" : 0,
+      "total" : 2
+    },
+    "items" : [ {
+      "uid" : "80ebfd5f4c5b314a",
+      "reportUrl" : "http://localhost:8080/job/DsalgoProject/5/allure/#testresult/80ebfd5f4c5b314a",
+      "status" : "passed",
+      "time" : {
+        "start" : 1684204052825,
+        "stop" : 1684204056048,
+        "duration" : 3223
+      }
+    }, {
+      "uid" : "92ad2926e0a2ba0c",
+      "reportUrl" : "http://localhost:8080/job/DsalgoProject/4/allure/#testresult/92ad2926e0a2ba0c",
+      "status" : "passed",
+      "time" : {
+        "start" : 1684203392718,
+        "stop" : 1684203393832,
+        "duration" : 1114
+      }
+    } ]
+  },
+  "73eeca6d7f1dc73762261ab0c6914a5c" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 2,
+      "unknown" : 0,
+      "total" : 2
+    },
+    "items" : [ {
+      "uid" : "37ff04b867d6736",
+      "reportUrl" : "http://localhost:8080/job/DsalgoProject/5/allure/#testresult/37ff04b867d6736",
+      "status" : "passed",
+      "time" : {
+        "start" : 1684204043886,
+        "stop" : 1684204045196,
+        "duration" : 1310
+      }
+    }, {
+      "uid" : "64fb29f02b645b34",
+      "reportUrl" : "http://localhost:8080/job/DsalgoProject/4/allure/#testresult/64fb29f02b645b34",
+      "status" : "passed",
+      "time" : {
+        "start" : 1684203386344,
+        "stop" : 1684203387423,
+        "duration" : 1079
+      }
+    } ]
+  },
+  "10c427bce602867b786e7f95e49e69f" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 2,
+      "unknown" : 0,
+      "total" : 2
+    },
+    "items" : [ {
+      "uid" : "73c4c6632e05ec30",
+      "reportUrl" : "http://localhost:8080/job/DsalgoProject/5/allure/#testresult/73c4c6632e05ec30",
+      "status" : "passed",
+      "time" : {
+        "start" : 1684204060894,
+        "stop" : 1684204061816,
+        "duration" : 922
+      }
+    }, {
+      "uid" : "600bf65033bd4603",
+      "reportUrl" : "http://localhost:8080/job/DsalgoProject/4/allure/#testresult/600bf65033bd4603",
+      "status" : "passed",
+      "time" : {
+        "start" : 1684203398023,
+        "stop" : 1684203398992,
+        "duration" : 969
+      }
+    } ]
+  },
+  "dae9b16849d46e684133c42431706e95" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 2,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 2
+    },
+    "items" : [ {
+      "uid" : "143ab591aaec52c8",
+      "reportUrl" : "http://localhost:8080/job/DsalgoProject/5/allure/#testresult/143ab591aaec52c8",
+      "status" : "broken",
+      "statusDetails" : "no such element: Unable to locate element: {\"method\":\"xpath\",\"selector\":\"//div[@role='alert']\"}\n  (Session info: chrome=113.0.5672.93)\nFor documentation on this error, please visit: https://selenium.dev/exceptions/#no_such_element\nBuild info: version: '4.8.3', revision: 'e5e76298c3'\nSystem info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '20.0.1'\nDriver info: org.openqa.selenium.chrome.ChromeDriver\nCommand: [d2c1984af990ab6f97868cc1ffcabbd9, findElement {using=xpath, value=//div[@role='alert']}]\nCapabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 113.0.5672.93, chrome: {chromedriverVersion: 113.0.5672.63 (0e1a4471d5ae..., userDataDir: C:\\Users\\kiran\\AppData\\Loca...}, goog:chromeOptions: {debuggerAddress: localhost:59495}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: WINDOWS, proxy: Proxy(), se:cdp: ws://localhost:59495/devtoo..., se:cdpVersion: 113.0.5672.93, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}\nSession ID: d2c1984af990ab6f97868cc1ffcabbd9",
+      "time" : {
+        "start" : 1684203955458,
+        "stop" : 1684203961099,
+        "duration" : 5641
+      }
+    }, {
+      "uid" : "301393d0424d6dbf",
+      "reportUrl" : "http://localhost:8080/job/DsalgoProject/4/allure/#testresult/301393d0424d6dbf",
+      "status" : "broken",
+      "statusDetails" : "no such element: Unable to locate element: {\"method\":\"xpath\",\"selector\":\"//div[@role='alert']\"}\n  (Session info: chrome=113.0.5672.93)\nFor documentation on this error, please visit: https://selenium.dev/exceptions/#no_such_element\nBuild info: version: '4.8.3', revision: 'e5e76298c3'\nSystem info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '20.0.1'\nDriver info: org.openqa.selenium.chrome.ChromeDriver\nCommand: [b1d91fc358de3f0eecf000d8d9a23fde, findElement {using=xpath, value=//div[@role='alert']}]\nCapabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 113.0.5672.93, chrome: {chromedriverVersion: 113.0.5672.63 (0e1a4471d5ae..., userDataDir: C:\\Users\\kiran\\AppData\\Loca...}, goog:chromeOptions: {debuggerAddress: localhost:58835}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: WINDOWS, proxy: Proxy(), se:cdp: ws://localhost:58835/devtoo..., se:cdpVersion: 113.0.5672.93, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}\nSession ID: b1d91fc358de3f0eecf000d8d9a23fde",
+      "time" : {
+        "start" : 1684203298299,
+        "stop" : 1684203303888,
+        "duration" : 5589
+      }
+    } ]
+  },
+  "a6689b2b9b9acd2815a2b56ce3e187d5" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 2,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 2
+    },
+    "items" : [ {
+      "uid" : "47c651f5aadcff8d",
+      "reportUrl" : "http://localhost:8080/job/DsalgoProject/5/allure/#testresult/47c651f5aadcff8d",
+      "status" : "broken",
+      "statusDetails" : "no such element: Unable to locate element: {\"method\":\"link text\",\"selector\":\"Deletion\"}\n  (Session info: chrome=113.0.5672.93)\nFor documentation on this error, please visit: https://selenium.dev/exceptions/#no_such_element\nBuild info: version: '4.8.3', revision: 'e5e76298c3'\nSystem info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '20.0.1'\nDriver info: org.openqa.selenium.chrome.ChromeDriver\nCommand: [d2c1984af990ab6f97868cc1ffcabbd9, findElement {using=link text, value=Deletion}]\nCapabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 113.0.5672.93, chrome: {chromedriverVersion: 113.0.5672.63 (0e1a4471d5ae..., userDataDir: C:\\Users\\kiran\\AppData\\Loca...}, goog:chromeOptions: {debuggerAddress: localhost:59495}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: WINDOWS, proxy: Proxy(), se:cdp: ws://localhost:59495/devtoo..., se:cdpVersion: 113.0.5672.93, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}\nSession ID: d2c1984af990ab6f97868cc1ffcabbd9",
+      "time" : {
+        "start" : 1684203943747,
+        "stop" : 1684203948934,
+        "duration" : 5187
+      }
+    }, {
+      "uid" : "c6bdc7cc211cd928",
+      "reportUrl" : "http://localhost:8080/job/DsalgoProject/4/allure/#testresult/c6bdc7cc211cd928",
+      "status" : "broken",
+      "statusDetails" : "no such element: Unable to locate element: {\"method\":\"link text\",\"selector\":\"Deletion\"}\n  (Session info: chrome=113.0.5672.93)\nFor documentation on this error, please visit: https://selenium.dev/exceptions/#no_such_element\nBuild info: version: '4.8.3', revision: 'e5e76298c3'\nSystem info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '20.0.1'\nDriver info: org.openqa.selenium.chrome.ChromeDriver\nCommand: [b1d91fc358de3f0eecf000d8d9a23fde, findElement {using=link text, value=Deletion}]\nCapabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 113.0.5672.93, chrome: {chromedriverVersion: 113.0.5672.63 (0e1a4471d5ae..., userDataDir: C:\\Users\\kiran\\AppData\\Loca...}, goog:chromeOptions: {debuggerAddress: localhost:58835}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: WINDOWS, proxy: Proxy(), se:cdp: ws://localhost:58835/devtoo..., se:cdpVersion: 113.0.5672.93, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}\nSession ID: b1d91fc358de3f0eecf000d8d9a23fde",
+      "time" : {
+        "start" : 1684203286877,
+        "stop" : 1684203292119,
+        "duration" : 5242
+      }
+    } ]
+  },
+  "cdb6c12f231dbcc250736c18a8ae4890" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 2,
+      "unknown" : 0,
+      "total" : 2
+    },
+    "items" : [ {
+      "uid" : "48f83df6db95e6da",
+      "reportUrl" : "http://localhost:8080/job/DsalgoProject/5/allure/#testresult/48f83df6db95e6da",
+      "status" : "passed",
+      "time" : {
+        "start" : 1684204038284,
+        "stop" : 1684204039329,
+        "duration" : 1045
+      }
+    }, {
+      "uid" : "f5b7006029409e86",
+      "reportUrl" : "http://localhost:8080/job/DsalgoProject/4/allure/#testresult/f5b7006029409e86",
+      "status" : "passed",
+      "time" : {
+        "start" : 1684203380243,
+        "stop" : 1684203381029,
+        "duration" : 786
+      }
+    } ]
+  },
+  "7ca1911a6dae5f4ac189b6e4e0aaf8dd" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 2,
+      "unknown" : 0,
+      "total" : 2
+    },
+    "items" : [ {
+      "uid" : "ac50870fbb027b2d",
+      "reportUrl" : "http://localhost:8080/job/DsalgoProject/5/allure/#testresult/ac50870fbb027b2d",
+      "status" : "passed",
+      "time" : {
+        "start" : 1684204050239,
+        "stop" : 1684204051174,
+        "duration" : 935
+      }
+    }, {
+      "uid" : "7cd0ecfd3b2824fe",
+      "reportUrl" : "http://localhost:8080/job/DsalgoProject/4/allure/#testresult/7cd0ecfd3b2824fe",
+      "status" : "passed",
+      "time" : {
+        "start" : 1684203391182,
+        "stop" : 1684203391951,
+        "duration" : 769
+      }
+    } ]
+  },
+  "e4b466227cc12dc9ea9d1e617a813076" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 2,
+      "unknown" : 0,
+      "total" : 2
+    },
+    "items" : [ {
+      "uid" : "47b42fa7747547d8",
+      "reportUrl" : "http://localhost:8080/job/DsalgoProject/5/allure/#testresult/47b42fa7747547d8",
+      "status" : "passed",
+      "time" : {
+        "start" : 1684203914511,
+        "stop" : 1684203918983,
+        "duration" : 4472
+      }
+    }, {
+      "uid" : "b07cbaad859cd582",
+      "reportUrl" : "http://localhost:8080/job/DsalgoProject/4/allure/#testresult/b07cbaad859cd582",
+      "status" : "passed",
+      "time" : {
+        "start" : 1684203261548,
+        "stop" : 1684203262785,
+        "duration" : 1237
+      }
+    } ]
+  },
+  "e500a747e07f028226a8b011bc4201ac" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 2,
+      "unknown" : 0,
+      "total" : 2
+    },
+    "items" : [ {
+      "uid" : "698792d9bc2b86f5",
+      "reportUrl" : "http://localhost:8080/job/DsalgoProject/5/allure/#testresult/698792d9bc2b86f5",
+      "status" : "passed",
+      "time" : {
+        "start" : 1684203884256,
+        "stop" : 1684203886361,
+        "duration" : 2105
+      }
+    }, {
+      "uid" : "f8c66caeb73ac49f",
+      "reportUrl" : "http://localhost:8080/job/DsalgoProject/4/allure/#testresult/f8c66caeb73ac49f",
+      "status" : "passed",
+      "time" : {
+        "start" : 1684203230157,
+        "stop" : 1684203232604,
+        "duration" : 2447
+      }
+    } ]
+  },
+  "b9f2660f760bae80c7b100828a30418f" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 2,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 2
+    },
+    "items" : [ {
+      "uid" : "c35efea3f5d4e33",
+      "reportUrl" : "http://localhost:8080/job/DsalgoProject/5/allure/#testresult/c35efea3f5d4e33",
+      "status" : "broken",
+      "statusDetails" : "no such element: Unable to locate element: {\"method\":\"xpath\",\"selector\":\"//a[text()=' Register ']\"}\n  (Session info: chrome=113.0.5672.93)\nFor documentation on this error, please visit: https://selenium.dev/exceptions/#no_such_element\nBuild info: version: '4.8.3', revision: 'e5e76298c3'\nSystem info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '20.0.1'\nDriver info: org.openqa.selenium.chrome.ChromeDriver\nCommand: [d2c1984af990ab6f97868cc1ffcabbd9, findElement {using=xpath, value=//a[text()=' Register ']}]\nCapabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 113.0.5672.93, chrome: {chromedriverVersion: 113.0.5672.63 (0e1a4471d5ae..., userDataDir: C:\\Users\\kiran\\AppData\\Loca...}, goog:chromeOptions: {debuggerAddress: localhost:59495}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: WINDOWS, proxy: Proxy(), se:cdp: ws://localhost:59495/devtoo..., se:cdpVersion: 113.0.5672.93, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}\nSession ID: d2c1984af990ab6f97868cc1ffcabbd9",
+      "time" : {
+        "start" : 1684203987819,
+        "stop" : 1684203993031,
+        "duration" : 5212
+      }
+    }, {
+      "uid" : "259715d34671b2b9",
+      "reportUrl" : "http://localhost:8080/job/DsalgoProject/4/allure/#testresult/259715d34671b2b9",
+      "status" : "broken",
+      "statusDetails" : "no such element: Unable to locate element: {\"method\":\"xpath\",\"selector\":\"//a[text()=' Register ']\"}\n  (Session info: chrome=113.0.5672.93)\nFor documentation on this error, please visit: https://selenium.dev/exceptions/#no_such_element\nBuild info: version: '4.8.3', revision: 'e5e76298c3'\nSystem info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '20.0.1'\nDriver info: org.openqa.selenium.chrome.ChromeDriver\nCommand: [b1d91fc358de3f0eecf000d8d9a23fde, findElement {using=xpath, value=//a[text()=' Register ']}]\nCapabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 113.0.5672.93, chrome: {chromedriverVersion: 113.0.5672.63 (0e1a4471d5ae..., userDataDir: C:\\Users\\kiran\\AppData\\Loca...}, goog:chromeOptions: {debuggerAddress: localhost:58835}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: WINDOWS, proxy: Proxy(), se:cdp: ws://localhost:58835/devtoo..., se:cdpVersion: 113.0.5672.93, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}\nSession ID: b1d91fc358de3f0eecf000d8d9a23fde",
+      "time" : {
+        "start" : 1684203330548,
+        "stop" : 1684203335725,
+        "duration" : 5177
+      }
+    } ]
+  },
+  "59416845f3a8f0ff5bb355b2d70d77f6" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 2,
+      "unknown" : 0,
+      "total" : 2
+    },
+    "items" : [ {
+      "uid" : "613ad90c2143fc49",
+      "reportUrl" : "http://localhost:8080/job/DsalgoProject/5/allure/#testresult/613ad90c2143fc49",
+      "status" : "passed",
+      "time" : {
+        "start" : 1684204079524,
+        "stop" : 1684204080822,
+        "duration" : 1298
+      }
+    }, {
+      "uid" : "6b1eddb8463cc7ee",
+      "reportUrl" : "http://localhost:8080/job/DsalgoProject/4/allure/#testresult/6b1eddb8463cc7ee",
+      "status" : "passed",
+      "time" : {
+        "start" : 1684203417173,
+        "stop" : 1684203418459,
+        "duration" : 1286
+      }
+    } ]
+  },
+  "514f3432eaa9709c004d85ceaa5a4416" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 2,
+      "unknown" : 0,
+      "total" : 2
+    },
+    "items" : [ {
+      "uid" : "968a95c6bf60d0b8",
+      "reportUrl" : "http://localhost:8080/job/DsalgoProject/5/allure/#testresult/968a95c6bf60d0b8",
+      "status" : "passed",
+      "time" : {
+        "start" : 1684204025244,
+        "stop" : 1684204027075,
+        "duration" : 1831
+      }
+    }, {
+      "uid" : "ec01304f9d2fd7f",
+      "reportUrl" : "http://localhost:8080/job/DsalgoProject/4/allure/#testresult/ec01304f9d2fd7f",
+      "status" : "passed",
+      "time" : {
+        "start" : 1684203368431,
+        "stop" : 1684203370048,
+        "duration" : 1617
+      }
+    } ]
+  },
+  "54a489157122e90a6e996d07a0b3abe3" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 2,
+      "unknown" : 0,
+      "total" : 2
+    },
+    "items" : [ {
+      "uid" : "c12949891cdf24c0",
+      "reportUrl" : "http://localhost:8080/job/DsalgoProject/5/allure/#testresult/c12949891cdf24c0",
+      "status" : "passed",
+      "time" : {
+        "start" : 1684204060221,
+        "stop" : 1684204060884,
+        "duration" : 663
+      }
+    }, {
+      "uid" : "2eb6644e265f8452",
+      "reportUrl" : "http://localhost:8080/job/DsalgoProject/4/allure/#testresult/2eb6644e265f8452",
+      "status" : "passed",
+      "time" : {
+        "start" : 1684203397020,
+        "stop" : 1684203398005,
+        "duration" : 985
+      }
+    } ]
+  },
+  "1cb4b35a90d25a022af198f8b65f23dc" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 2,
+      "unknown" : 0,
+      "total" : 2
+    },
+    "items" : [ {
+      "uid" : "5485cb5eb97a1073",
+      "reportUrl" : "http://localhost:8080/job/DsalgoProject/5/allure/#testresult/5485cb5eb97a1073",
+      "status" : "passed",
+      "time" : {
+        "start" : 1684204028990,
+        "stop" : 1684204030389,
+        "duration" : 1399
+      }
+    }, {
+      "uid" : "5e5244a8299043d9",
+      "reportUrl" : "http://localhost:8080/job/DsalgoProject/4/allure/#testresult/5e5244a8299043d9",
+      "status" : "passed",
+      "time" : {
+        "start" : 1684203371685,
+        "stop" : 1684203373972,
+        "duration" : 2287
+      }
+    } ]
+  },
+  "d7066e71b048d970025e74b265288fef" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 2,
+      "unknown" : 0,
+      "total" : 2
+    },
+    "items" : [ {
+      "uid" : "a81048d968d2f9e7",
+      "reportUrl" : "http://localhost:8080/job/DsalgoProject/5/allure/#testresult/a81048d968d2f9e7",
+      "status" : "passed",
+      "time" : {
+        "start" : 1684204056057,
+        "stop" : 1684204060197,
+        "duration" : 4140
+      }
+    }, {
+      "uid" : "46a230f3914f2ed1",
+      "reportUrl" : "http://localhost:8080/job/DsalgoProject/4/allure/#testresult/46a230f3914f2ed1",
+      "status" : "passed",
+      "time" : {
+        "start" : 1684203393840,
+        "stop" : 1684203396999,
+        "duration" : 3159
+      }
+    } ]
+  },
+  "ea08f9d4f451cf74e70e51d5af616432" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 2,
+      "unknown" : 0,
+      "total" : 2
+    },
+    "items" : [ {
+      "uid" : "dbdd18939a127763",
+      "reportUrl" : "http://localhost:8080/job/DsalgoProject/5/allure/#testresult/dbdd18939a127763",
+      "status" : "passed",
+      "time" : {
+        "start" : 1684204061834,
+        "stop" : 1684204063070,
+        "duration" : 1236
+      }
+    }, {
+      "uid" : "a653e83c0ea24e12",
+      "reportUrl" : "http://localhost:8080/job/DsalgoProject/4/allure/#testresult/a653e83c0ea24e12",
+      "status" : "passed",
+      "time" : {
+        "start" : 1684203399014,
+        "stop" : 1684203401368,
+        "duration" : 2354
+      }
+    } ]
+  },
+  "4d40d6234f84606c6b46b2717a26d091" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 2,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 2
+    },
+    "items" : [ {
+      "uid" : "e1dca92b0f8d358c",
+      "reportUrl" : "http://localhost:8080/job/DsalgoProject/5/allure/#testresult/e1dca92b0f8d358c",
+      "status" : "broken",
+      "statusDetails" : "no such element: Unable to locate element: {\"method\":\"xpath\",\"selector\":\"//div[@role='alert']\"}\n  (Session info: chrome=113.0.5672.93)\nFor documentation on this error, please visit: https://selenium.dev/exceptions/#no_such_element\nBuild info: version: '4.8.3', revision: 'e5e76298c3'\nSystem info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '20.0.1'\nDriver info: org.openqa.selenium.chrome.ChromeDriver\nCommand: [d2c1984af990ab6f97868cc1ffcabbd9, findElement {using=xpath, value=//div[@role='alert']}]\nCapabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 113.0.5672.93, chrome: {chromedriverVersion: 113.0.5672.63 (0e1a4471d5ae..., userDataDir: C:\\Users\\kiran\\AppData\\Loca...}, goog:chromeOptions: {debuggerAddress: localhost:59495}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: WINDOWS, proxy: Proxy(), se:cdp: ws://localhost:59495/devtoo..., se:cdpVersion: 113.0.5672.93, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}\nSession ID: d2c1984af990ab6f97868cc1ffcabbd9",
+      "time" : {
+        "start" : 1684203961114,
+        "stop" : 1684203966836,
+        "duration" : 5722
+      }
+    }, {
+      "uid" : "b388426bd5f3bf90",
+      "reportUrl" : "http://localhost:8080/job/DsalgoProject/4/allure/#testresult/b388426bd5f3bf90",
+      "status" : "broken",
+      "statusDetails" : "no such element: Unable to locate element: {\"method\":\"xpath\",\"selector\":\"//div[@role='alert']\"}\n  (Session info: chrome=113.0.5672.93)\nFor documentation on this error, please visit: https://selenium.dev/exceptions/#no_such_element\nBuild info: version: '4.8.3', revision: 'e5e76298c3'\nSystem info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '20.0.1'\nDriver info: org.openqa.selenium.chrome.ChromeDriver\nCommand: [b1d91fc358de3f0eecf000d8d9a23fde, findElement {using=xpath, value=//div[@role='alert']}]\nCapabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 113.0.5672.93, chrome: {chromedriverVersion: 113.0.5672.63 (0e1a4471d5ae..., userDataDir: C:\\Users\\kiran\\AppData\\Loca...}, goog:chromeOptions: {debuggerAddress: localhost:58835}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: WINDOWS, proxy: Proxy(), se:cdp: ws://localhost:58835/devtoo..., se:cdpVersion: 113.0.5672.93, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}\nSession ID: b1d91fc358de3f0eecf000d8d9a23fde",
+      "time" : {
+        "start" : 1684203303904,
+        "stop" : 1684203309596,
+        "duration" : 5692
+      }
+    } ]
+  },
+  "491d460310e071148dd82df18c3d29a5" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 2,
+      "unknown" : 0,
+      "total" : 2
+    },
+    "items" : [ {
+      "uid" : "59e9dba4d44f567b",
+      "reportUrl" : "http://localhost:8080/job/DsalgoProject/5/allure/#testresult/59e9dba4d44f567b",
+      "status" : "passed",
+      "time" : {
+        "start" : 1684204027974,
+        "stop" : 1684204028974,
+        "duration" : 1000
+      }
+    }, {
+      "uid" : "7fa8f6858202bdd9",
+      "reportUrl" : "http://localhost:8080/job/DsalgoProject/4/allure/#testresult/7fa8f6858202bdd9",
+      "status" : "passed",
+      "time" : {
+        "start" : 1684203370788,
+        "stop" : 1684203371674,
+        "duration" : 886
+      }
+    } ]
+  },
+  "c7670c3aff5fc7dc409af6a3afa5d673" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 2,
+      "unknown" : 0,
+      "total" : 2
+    },
+    "items" : [ {
+      "uid" : "16488a9c33b47d86",
+      "reportUrl" : "http://localhost:8080/job/DsalgoProject/5/allure/#testresult/16488a9c33b47d86",
+      "status" : "passed",
+      "time" : {
+        "start" : 1684203954420,
+        "stop" : 1684203955444,
+        "duration" : 1024
+      }
+    }, {
+      "uid" : "831cf183cfc7cd23",
+      "reportUrl" : "http://localhost:8080/job/DsalgoProject/4/allure/#testresult/831cf183cfc7cd23",
+      "status" : "passed",
+      "time" : {
+        "start" : 1684203297483,
+        "stop" : 1684203298279,
+        "duration" : 796
+      }
+    } ]
+  },
+  "a26a5f137b26df51dca284e280cd16bc" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 2,
+      "unknown" : 0,
+      "total" : 2
+    },
+    "items" : [ {
+      "uid" : "60dc1c581327877f",
+      "reportUrl" : "http://localhost:8080/job/DsalgoProject/5/allure/#testresult/60dc1c581327877f",
+      "status" : "passed",
+      "time" : {
+        "start" : 1684204066126,
+        "stop" : 1684204067034,
+        "duration" : 908
+      }
+    }, {
+      "uid" : "1af45c96364dcb6f",
+      "reportUrl" : "http://localhost:8080/job/DsalgoProject/4/allure/#testresult/1af45c96364dcb6f",
+      "status" : "passed",
+      "time" : {
+        "start" : 1684203403585,
+        "stop" : 1684203404820,
+        "duration" : 1235
+      }
+    } ]
+  },
+  "556fed5bcc1f308a0f2210bccc3e2d71" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 2,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 2
+    },
+    "items" : [ {
+      "uid" : "1b460bdd83bfc1cf",
+      "reportUrl" : "http://localhost:8080/job/DsalgoProject/5/allure/#testresult/1b460bdd83bfc1cf",
+      "status" : "broken",
+      "statusDetails" : "no such element: Unable to locate element: {\"method\":\"xpath\",\"selector\":\"//a[text()=' Register ']\"}\n  (Session info: chrome=113.0.5672.93)\nFor documentation on this error, please visit: https://selenium.dev/exceptions/#no_such_element\nBuild info: version: '4.8.3', revision: 'e5e76298c3'\nSystem info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '20.0.1'\nDriver info: org.openqa.selenium.chrome.ChromeDriver\nCommand: [d2c1984af990ab6f97868cc1ffcabbd9, findElement {using=xpath, value=//a[text()=' Register ']}]\nCapabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 113.0.5672.93, chrome: {chromedriverVersion: 113.0.5672.63 (0e1a4471d5ae..., userDataDir: C:\\Users\\kiran\\AppData\\Loca...}, goog:chromeOptions: {debuggerAddress: localhost:59495}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: WINDOWS, proxy: Proxy(), se:cdp: ws://localhost:59495/devtoo..., se:cdpVersion: 113.0.5672.93, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}\nSession ID: d2c1984af990ab6f97868cc1ffcabbd9",
+      "time" : {
+        "start" : 1684203977339,
+        "stop" : 1684203982544,
+        "duration" : 5205
+      }
+    }, {
+      "uid" : "7618f567adecb386",
+      "reportUrl" : "http://localhost:8080/job/DsalgoProject/4/allure/#testresult/7618f567adecb386",
+      "status" : "broken",
+      "statusDetails" : "no such element: Unable to locate element: {\"method\":\"xpath\",\"selector\":\"//a[text()=' Register ']\"}\n  (Session info: chrome=113.0.5672.93)\nFor documentation on this error, please visit: https://selenium.dev/exceptions/#no_such_element\nBuild info: version: '4.8.3', revision: 'e5e76298c3'\nSystem info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '20.0.1'\nDriver info: org.openqa.selenium.chrome.ChromeDriver\nCommand: [b1d91fc358de3f0eecf000d8d9a23fde, findElement {using=xpath, value=//a[text()=' Register ']}]\nCapabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 113.0.5672.93, chrome: {chromedriverVersion: 113.0.5672.63 (0e1a4471d5ae..., userDataDir: C:\\Users\\kiran\\AppData\\Loca...}, goog:chromeOptions: {debuggerAddress: localhost:58835}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: WINDOWS, proxy: Proxy(), se:cdp: ws://localhost:58835/devtoo..., se:cdpVersion: 113.0.5672.93, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}\nSession ID: b1d91fc358de3f0eecf000d8d9a23fde",
+      "time" : {
+        "start" : 1684203320119,
+        "stop" : 1684203325323,
+        "duration" : 5204
+      }
+    } ]
+  },
+  "24436580e2f08a9200282ddb68c115f0" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 2,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 2
+    },
+    "items" : [ {
+      "uid" : "380a1eba0cd23fae",
+      "reportUrl" : "http://localhost:8080/job/DsalgoProject/5/allure/#testresult/380a1eba0cd23fae",
+      "status" : "broken",
+      "statusDetails" : "no such element: Unable to locate element: {\"method\":\"xpath\",\"selector\":\"//a[text()=' Register ']\"}\n  (Session info: chrome=113.0.5672.93)\nFor documentation on this error, please visit: https://selenium.dev/exceptions/#no_such_element\nBuild info: version: '4.8.3', revision: 'e5e76298c3'\nSystem info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '20.0.1'\nDriver info: org.openqa.selenium.chrome.ChromeDriver\nCommand: [d2c1984af990ab6f97868cc1ffcabbd9, findElement {using=xpath, value=//a[text()=' Register ']}]\nCapabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 113.0.5672.93, chrome: {chromedriverVersion: 113.0.5672.63 (0e1a4471d5ae..., userDataDir: C:\\Users\\kiran\\AppData\\Loca...}, goog:chromeOptions: {debuggerAddress: localhost:59495}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: WINDOWS, proxy: Proxy(), se:cdp: ws://localhost:59495/devtoo..., se:cdpVersion: 113.0.5672.93, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}\nSession ID: d2c1984af990ab6f97868cc1ffcabbd9",
+      "time" : {
+        "start" : 1684204003449,
+        "stop" : 1684204008724,
+        "duration" : 5275
+      }
+    }, {
+      "uid" : "185528af33e573d4",
+      "reportUrl" : "http://localhost:8080/job/DsalgoProject/4/allure/#testresult/185528af33e573d4",
+      "status" : "broken",
+      "statusDetails" : "no such element: Unable to locate element: {\"method\":\"xpath\",\"selector\":\"//a[text()=' Register ']\"}\n  (Session info: chrome=113.0.5672.93)\nFor documentation on this error, please visit: https://selenium.dev/exceptions/#no_such_element\nBuild info: version: '4.8.3', revision: 'e5e76298c3'\nSystem info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '20.0.1'\nDriver info: org.openqa.selenium.chrome.ChromeDriver\nCommand: [b1d91fc358de3f0eecf000d8d9a23fde, findElement {using=xpath, value=//a[text()=' Register ']}]\nCapabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 113.0.5672.93, chrome: {chromedriverVersion: 113.0.5672.63 (0e1a4471d5ae..., userDataDir: C:\\Users\\kiran\\AppData\\Loca...}, goog:chromeOptions: {debuggerAddress: localhost:58835}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: WINDOWS, proxy: Proxy(), se:cdp: ws://localhost:58835/devtoo..., se:cdpVersion: 113.0.5672.93, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}\nSession ID: b1d91fc358de3f0eecf000d8d9a23fde",
+      "time" : {
+        "start" : 1684203346327,
+        "stop" : 1684203351557,
+        "duration" : 5230
+      }
+    } ]
+  },
+  "b18bae89bee89360a5fa1603306a5b88" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 2,
+      "unknown" : 0,
+      "total" : 2
+    },
+    "items" : [ {
+      "uid" : "adea31996c7412c4",
+      "reportUrl" : "http://localhost:8080/job/DsalgoProject/5/allure/#testresult/adea31996c7412c4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1684204075464,
+        "stop" : 1684204077194,
+        "duration" : 1730
+      }
+    }, {
+      "uid" : "176e0b86a674e1c6",
+      "reportUrl" : "http://localhost:8080/job/DsalgoProject/4/allure/#testresult/176e0b86a674e1c6",
+      "status" : "passed",
+      "time" : {
+        "start" : 1684203413526,
+        "stop" : 1684203414690,
+        "duration" : 1164
+      }
+    } ]
+  },
+  "953ed75c9bc53fb88c28b2fe43172074" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 2,
+      "unknown" : 0,
+      "total" : 2
+    },
+    "items" : [ {
+      "uid" : "4e1ab66e1116fbb8",
+      "reportUrl" : "http://localhost:8080/job/DsalgoProject/5/allure/#testresult/4e1ab66e1116fbb8",
+      "status" : "passed",
+      "time" : {
+        "start" : 1684204073934,
+        "stop" : 1684204075454,
+        "duration" : 1520
+      }
+    }, {
+      "uid" : "9517600cd2cc8ba9",
+      "reportUrl" : "http://localhost:8080/job/DsalgoProject/4/allure/#testresult/9517600cd2cc8ba9",
+      "status" : "passed",
+      "time" : {
+        "start" : 1684203411982,
+        "stop" : 1684203413513,
+        "duration" : 1531
+      }
+    } ]
+  },
+  "36b66f59a9647ef3c7a5999900a10ea9" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 2,
+      "unknown" : 0,
+      "total" : 2
+    },
+    "items" : [ {
+      "uid" : "173968d35bed6566",
+      "reportUrl" : "http://localhost:8080/job/DsalgoProject/5/allure/#testresult/173968d35bed6566",
+      "status" : "passed",
+      "time" : {
+        "start" : 1684203874104,
+        "stop" : 1684203875677,
+        "duration" : 1573
+      }
+    }, {
+      "uid" : "8339e6ef534f391b",
+      "reportUrl" : "http://localhost:8080/job/DsalgoProject/4/allure/#testresult/8339e6ef534f391b",
+      "status" : "passed",
+      "time" : {
+        "start" : 1684203220633,
+        "stop" : 1684203221838,
+        "duration" : 1205
+      }
+    } ]
+  },
+  "d81f703f577762896a42304b128c50a9" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 2,
+      "unknown" : 0,
+      "total" : 2
+    },
+    "items" : [ {
+      "uid" : "8b5e7c9538a448ee",
+      "reportUrl" : "http://localhost:8080/job/DsalgoProject/5/allure/#testresult/8b5e7c9538a448ee",
+      "status" : "passed",
+      "time" : {
+        "start" : 1684204068435,
+        "stop" : 1684204069894,
+        "duration" : 1459
+      }
+    }, {
+      "uid" : "acc2055ecc34c305",
+      "reportUrl" : "http://localhost:8080/job/DsalgoProject/4/allure/#testresult/acc2055ecc34c305",
+      "status" : "passed",
+      "time" : {
+        "start" : 1684203406662,
+        "stop" : 1684203407973,
+        "duration" : 1311
+      }
+    } ]
+  },
+  "ea1e34140ad962a292da6e8db62ceac9" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 2,
+      "unknown" : 0,
+      "total" : 2
+    },
+    "items" : [ {
+      "uid" : "7f1a3f1500b2d216",
+      "reportUrl" : "http://localhost:8080/job/DsalgoProject/5/allure/#testresult/7f1a3f1500b2d216",
+      "status" : "passed",
+      "time" : {
+        "start" : 1684204041564,
+        "stop" : 1684204042407,
+        "duration" : 843
+      }
+    }, {
+      "uid" : "9b8417ce07ba64ab",
+      "reportUrl" : "http://localhost:8080/job/DsalgoProject/4/allure/#testresult/9b8417ce07ba64ab",
+      "status" : "passed",
+      "time" : {
+        "start" : 1684203383422,
+        "stop" : 1684203384418,
+        "duration" : 996
+      }
+    } ]
+  },
+  "238f3da4aff4cadcae005ce518231d26" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 2,
+      "unknown" : 0,
+      "total" : 2
+    },
+    "items" : [ {
+      "uid" : "ba60ea2e63b6dd4d",
+      "reportUrl" : "http://localhost:8080/job/DsalgoProject/5/allure/#testresult/ba60ea2e63b6dd4d",
+      "status" : "passed",
+      "time" : {
+        "start" : 1684204025242,
+        "stop" : 1684204027075,
+        "duration" : 1833
+      }
+    }, {
+      "uid" : "d4f02b0838509f56",
+      "reportUrl" : "http://localhost:8080/job/DsalgoProject/4/allure/#testresult/d4f02b0838509f56",
+      "status" : "passed",
+      "time" : {
+        "start" : 1684203368423,
+        "stop" : 1684203370051,
+        "duration" : 1628
+      }
+    } ]
+  },
+  "37719cdee1ac239252a379cf061069a3" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 2,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 2
+    },
+    "items" : [ {
+      "uid" : "3773a6923f00de72",
+      "reportUrl" : "http://localhost:8080/job/DsalgoProject/5/allure/#testresult/3773a6923f00de72",
+      "status" : "broken",
+      "statusDetails" : "no such element: Unable to locate element: {\"method\":\"xpath\",\"selector\":\"//a[text()=' Register ']\"}\n  (Session info: chrome=113.0.5672.93)\nFor documentation on this error, please visit: https://selenium.dev/exceptions/#no_such_element\nBuild info: version: '4.8.3', revision: 'e5e76298c3'\nSystem info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '20.0.1'\nDriver info: org.openqa.selenium.chrome.ChromeDriver\nCommand: [d2c1984af990ab6f97868cc1ffcabbd9, findElement {using=xpath, value=//a[text()=' Register ']}]\nCapabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 113.0.5672.93, chrome: {chromedriverVersion: 113.0.5672.63 (0e1a4471d5ae..., userDataDir: C:\\Users\\kiran\\AppData\\Loca...}, goog:chromeOptions: {debuggerAddress: localhost:59495}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: WINDOWS, proxy: Proxy(), se:cdp: ws://localhost:59495/devtoo..., se:cdpVersion: 113.0.5672.93, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}\nSession ID: d2c1984af990ab6f97868cc1ffcabbd9",
+      "time" : {
+        "start" : 1684204014014,
+        "stop" : 1684204019194,
+        "duration" : 5180
+      }
+    }, {
+      "uid" : "6d7bde104716e5f5",
+      "reportUrl" : "http://localhost:8080/job/DsalgoProject/4/allure/#testresult/6d7bde104716e5f5",
+      "status" : "broken",
+      "statusDetails" : "no such element: Unable to locate element: {\"method\":\"xpath\",\"selector\":\"//a[text()=' Register ']\"}\n  (Session info: chrome=113.0.5672.93)\nFor documentation on this error, please visit: https://selenium.dev/exceptions/#no_such_element\nBuild info: version: '4.8.3', revision: 'e5e76298c3'\nSystem info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '20.0.1'\nDriver info: org.openqa.selenium.chrome.ChromeDriver\nCommand: [b1d91fc358de3f0eecf000d8d9a23fde, findElement {using=xpath, value=//a[text()=' Register ']}]\nCapabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 113.0.5672.93, chrome: {chromedriverVersion: 113.0.5672.63 (0e1a4471d5ae..., userDataDir: C:\\Users\\kiran\\AppData\\Loca...}, goog:chromeOptions: {debuggerAddress: localhost:58835}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: WINDOWS, proxy: Proxy(), se:cdp: ws://localhost:58835/devtoo..., se:cdpVersion: 113.0.5672.93, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}\nSession ID: b1d91fc358de3f0eecf000d8d9a23fde",
+      "time" : {
+        "start" : 1684203356789,
+        "stop" : 1684203362047,
+        "duration" : 5258
+      }
+    } ]
+  },
+  "d4589c70231bfaf37cb6f9890b6caad" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 2,
+      "unknown" : 0,
+      "total" : 2
+    },
+    "items" : [ {
+      "uid" : "ff7fce491e6db294",
+      "reportUrl" : "http://localhost:8080/job/DsalgoProject/5/allure/#testresult/ff7fce491e6db294",
+      "status" : "passed",
+      "time" : {
+        "start" : 1684204039350,
+        "stop" : 1684204040364,
+        "duration" : 1014
+      }
+    }, {
+      "uid" : "54d5eaf04fa80941",
+      "reportUrl" : "http://localhost:8080/job/DsalgoProject/4/allure/#testresult/54d5eaf04fa80941",
+      "status" : "passed",
+      "time" : {
+        "start" : 1684203381052,
+        "stop" : 1684203382391,
+        "duration" : 1339
+      }
+    } ]
+  },
+  "7e7a3c1a1374799e343668e013a18de0" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 2,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 2
+    },
+    "items" : [ {
+      "uid" : "a6cbd8e4cedfa1f",
+      "reportUrl" : "http://localhost:8080/job/DsalgoProject/5/allure/#testresult/a6cbd8e4cedfa1f",
+      "status" : "broken",
+      "statusDetails" : "no such element: Unable to locate element: {\"method\":\"xpath\",\"selector\":\"//a[text()=' Register ']\"}\n  (Session info: chrome=113.0.5672.93)\nFor documentation on this error, please visit: https://selenium.dev/exceptions/#no_such_element\nBuild info: version: '4.8.3', revision: 'e5e76298c3'\nSystem info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '20.0.1'\nDriver info: org.openqa.selenium.chrome.ChromeDriver\nCommand: [d2c1984af990ab6f97868cc1ffcabbd9, findElement {using=xpath, value=//a[text()=' Register ']}]\nCapabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 113.0.5672.93, chrome: {chromedriverVersion: 113.0.5672.63 (0e1a4471d5ae..., userDataDir: C:\\Users\\kiran\\AppData\\Loca...}, goog:chromeOptions: {debuggerAddress: localhost:59495}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: WINDOWS, proxy: Proxy(), se:cdp: ws://localhost:59495/devtoo..., se:cdpVersion: 113.0.5672.93, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}\nSession ID: d2c1984af990ab6f97868cc1ffcabbd9",
+      "time" : {
+        "start" : 1684203982560,
+        "stop" : 1684203987798,
+        "duration" : 5238
+      }
+    }, {
+      "uid" : "b7720e788e8008bd",
+      "reportUrl" : "http://localhost:8080/job/DsalgoProject/4/allure/#testresult/b7720e788e8008bd",
+      "status" : "broken",
+      "statusDetails" : "no such element: Unable to locate element: {\"method\":\"xpath\",\"selector\":\"//a[text()=' Register ']\"}\n  (Session info: chrome=113.0.5672.93)\nFor documentation on this error, please visit: https://selenium.dev/exceptions/#no_such_element\nBuild info: version: '4.8.3', revision: 'e5e76298c3'\nSystem info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '20.0.1'\nDriver info: org.openqa.selenium.chrome.ChromeDriver\nCommand: [b1d91fc358de3f0eecf000d8d9a23fde, findElement {using=xpath, value=//a[text()=' Register ']}]\nCapabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 113.0.5672.93, chrome: {chromedriverVersion: 113.0.5672.63 (0e1a4471d5ae..., userDataDir: C:\\Users\\kiran\\AppData\\Loca...}, goog:chromeOptions: {debuggerAddress: localhost:58835}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: WINDOWS, proxy: Proxy(), se:cdp: ws://localhost:58835/devtoo..., se:cdpVersion: 113.0.5672.93, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}\nSession ID: b1d91fc358de3f0eecf000d8d9a23fde",
+      "time" : {
+        "start" : 1684203325336,
+        "stop" : 1684203330533,
+        "duration" : 5197
+      }
+    } ]
+  },
+  "e0d40304b09cd9f8d08e3f0217e38dd4" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 2,
+      "unknown" : 0,
+      "total" : 2
+    },
+    "items" : [ {
+      "uid" : "ada51e0793cb9ba1",
+      "reportUrl" : "http://localhost:8080/job/DsalgoProject/5/allure/#testresult/ada51e0793cb9ba1",
+      "status" : "passed",
+      "time" : {
+        "start" : 1684204028984,
+        "stop" : 1684204030397,
+        "duration" : 1413
+      }
+    }, {
+      "uid" : "2a4f899a86dfd286",
+      "reportUrl" : "http://localhost:8080/job/DsalgoProject/4/allure/#testresult/2a4f899a86dfd286",
+      "status" : "passed",
+      "time" : {
+        "start" : 1684203371677,
+        "stop" : 1684203373976,
+        "duration" : 2299
+      }
+    } ]
+  },
+  "64aabaea877b4bbc13b01c8b44edc3c8" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 2,
+      "unknown" : 0,
+      "total" : 2
+    },
+    "items" : [ {
+      "uid" : "b53a3b893a837828",
+      "reportUrl" : "http://localhost:8080/job/DsalgoProject/5/allure/#testresult/b53a3b893a837828",
+      "status" : "passed",
+      "time" : {
+        "start" : 1684204024394,
+        "stop" : 1684204025226,
+        "duration" : 832
+      }
+    }, {
+      "uid" : "5775eb996b7d495d",
+      "reportUrl" : "http://localhost:8080/job/DsalgoProject/4/allure/#testresult/5775eb996b7d495d",
+      "status" : "passed",
+      "time" : {
+        "start" : 1684203367288,
+        "stop" : 1684203368417,
+        "duration" : 1129
+      }
+    } ]
+  },
+  "d8c1c748005f666b34732548985c4043" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 2,
+      "unknown" : 0,
+      "total" : 2
+    },
+    "items" : [ {
+      "uid" : "2b3e188578b08f91",
+      "reportUrl" : "http://localhost:8080/job/DsalgoProject/5/allure/#testresult/2b3e188578b08f91",
+      "status" : "passed",
+      "time" : {
+        "start" : 1684204063102,
+        "stop" : 1684204064309,
+        "duration" : 1207
+      }
+    }, {
+      "uid" : "ddf3cff07f0e38e",
+      "reportUrl" : "http://localhost:8080/job/DsalgoProject/4/allure/#testresult/ddf3cff07f0e38e",
+      "status" : "passed",
+      "time" : {
+        "start" : 1684203401388,
+        "stop" : 1684203402420,
+        "duration" : 1032
+      }
+    } ]
+  },
+  "4e10cac31a1a0fe808769a68902c75ad" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 2,
+      "unknown" : 0,
+      "total" : 2
+    },
+    "items" : [ {
+      "uid" : "e57d2a99599a6bc1",
+      "reportUrl" : "http://localhost:8080/job/DsalgoProject/5/allure/#testresult/e57d2a99599a6bc1",
+      "status" : "passed",
+      "time" : {
+        "start" : 1684204071344,
+        "stop" : 1684204072442,
+        "duration" : 1098
+      }
+    }, {
+      "uid" : "22502ee1eeb8a0c3",
+      "reportUrl" : "http://localhost:8080/job/DsalgoProject/4/allure/#testresult/22502ee1eeb8a0c3",
+      "status" : "passed",
+      "time" : {
+        "start" : 1684203409151,
+        "stop" : 1684203410726,
+        "duration" : 1575
+      }
+    } ]
+  },
+  "8449223323fdd0f4c289ed1c6d592c89" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 2,
+      "unknown" : 0,
+      "total" : 2
+    },
+    "items" : [ {
+      "uid" : "420dab11f53bbf4b",
+      "reportUrl" : "http://localhost:8080/job/DsalgoProject/5/allure/#testresult/420dab11f53bbf4b",
+      "status" : "passed",
+      "time" : {
+        "start" : 1684204027084,
+        "stop" : 1684204027970,
+        "duration" : 886
+      }
+    }, {
+      "uid" : "5bb01de6728f59a7",
+      "reportUrl" : "http://localhost:8080/job/DsalgoProject/4/allure/#testresult/5bb01de6728f59a7",
+      "status" : "passed",
+      "time" : {
+        "start" : 1684203370073,
+        "stop" : 1684203370781,
+        "duration" : 708
+      }
+    } ]
+  },
+  "20078ec39fa0b4e73a9587b3f9a27d53" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 2,
+      "unknown" : 0,
+      "total" : 2
+    },
+    "items" : [ {
+      "uid" : "8d7286e1728aba97",
+      "reportUrl" : "http://localhost:8080/job/DsalgoProject/5/allure/#testresult/8d7286e1728aba97",
+      "status" : "passed",
+      "time" : {
+        "start" : 1684204027979,
+        "stop" : 1684204028974,
+        "duration" : 995
+      }
+    }, {
+      "uid" : "5b6f7d9c0bebf734",
+      "reportUrl" : "http://localhost:8080/job/DsalgoProject/4/allure/#testresult/5b6f7d9c0bebf734",
+      "status" : "passed",
+      "time" : {
+        "start" : 1684203370795,
+        "stop" : 1684203371672,
+        "duration" : 877
+      }
+    } ]
+  },
+  "8ccd748ae72a8f4054d10a9e26d3807d" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 2,
+      "unknown" : 0,
+      "total" : 2
+    },
+    "items" : [ {
+      "uid" : "9fe72883a95a5638",
+      "reportUrl" : "http://localhost:8080/job/DsalgoProject/5/allure/#testresult/9fe72883a95a5638",
+      "status" : "passed",
+      "time" : {
+        "start" : 1684204051181,
+        "stop" : 1684204052809,
+        "duration" : 1628
+      }
+    }, {
+      "uid" : "cdeea6b8179e370d",
+      "reportUrl" : "http://localhost:8080/job/DsalgoProject/4/allure/#testresult/cdeea6b8179e370d",
+      "status" : "passed",
+      "time" : {
+        "start" : 1684203391967,
+        "stop" : 1684203392693,
+        "duration" : 726
+      }
+    } ]
+  },
+  "b56d93583d308c55ce1d2b650252dfcd" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 2,
+      "unknown" : 0,
+      "total" : 2
+    },
+    "items" : [ {
+      "uid" : "a28817fd796c5964",
+      "reportUrl" : "http://localhost:8080/job/DsalgoProject/5/allure/#testresult/a28817fd796c5964",
+      "status" : "passed",
+      "time" : {
+        "start" : 1684204031957,
+        "stop" : 1684204034764,
+        "duration" : 2807
+      }
+    }, {
+      "uid" : "3551c8d66d1f9651",
+      "reportUrl" : "http://localhost:8080/job/DsalgoProject/4/allure/#testresult/3551c8d66d1f9651",
+      "status" : "passed",
+      "time" : {
+        "start" : 1684203375261,
+        "stop" : 1684203377159,
+        "duration" : 1898
+      }
+    } ]
+  },
+  "2b399d7399e6761f8758295e70443585" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 2,
+      "unknown" : 0,
+      "total" : 2
+    },
+    "items" : [ {
+      "uid" : "e35b9fb89fd8fcff",
+      "reportUrl" : "http://localhost:8080/job/DsalgoProject/5/allure/#testresult/e35b9fb89fd8fcff",
+      "status" : "passed",
+      "time" : {
+        "start" : 1684204077209,
+        "stop" : 1684204079519,
+        "duration" : 2310
+      }
+    }, {
+      "uid" : "5d8760a6f38a53b5",
+      "reportUrl" : "http://localhost:8080/job/DsalgoProject/4/allure/#testresult/5d8760a6f38a53b5",
+      "status" : "passed",
+      "time" : {
+        "start" : 1684203414703,
+        "stop" : 1684203417168,
+        "duration" : 2465
+      }
+    } ]
+  },
+  "5f01a1e112cc34a8dafda4265ced48ac" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 2,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 2
+    },
+    "items" : [ {
+      "uid" : "ca09b6da2e0b0699",
+      "reportUrl" : "http://localhost:8080/job/DsalgoProject/5/allure/#testresult/ca09b6da2e0b0699",
+      "status" : "broken",
+      "statusDetails" : "no such element: Unable to locate element: {\"method\":\"xpath\",\"selector\":\"//a[text()=' Register ']\"}\n  (Session info: chrome=113.0.5672.93)\nFor documentation on this error, please visit: https://selenium.dev/exceptions/#no_such_element\nBuild info: version: '4.8.3', revision: 'e5e76298c3'\nSystem info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '20.0.1'\nDriver info: org.openqa.selenium.chrome.ChromeDriver\nCommand: [d2c1984af990ab6f97868cc1ffcabbd9, findElement {using=xpath, value=//a[text()=' Register ']}]\nCapabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 113.0.5672.93, chrome: {chromedriverVersion: 113.0.5672.63 (0e1a4471d5ae..., userDataDir: C:\\Users\\kiran\\AppData\\Loca...}, goog:chromeOptions: {debuggerAddress: localhost:59495}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: WINDOWS, proxy: Proxy(), se:cdp: ws://localhost:59495/devtoo..., se:cdpVersion: 113.0.5672.93, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}\nSession ID: d2c1984af990ab6f97868cc1ffcabbd9",
+      "time" : {
+        "start" : 1684203993044,
+        "stop" : 1684203998244,
+        "duration" : 5200
+      }
+    }, {
+      "uid" : "dcd45b86b697a25a",
+      "reportUrl" : "http://localhost:8080/job/DsalgoProject/4/allure/#testresult/dcd45b86b697a25a",
+      "status" : "broken",
+      "statusDetails" : "no such element: Unable to locate element: {\"method\":\"xpath\",\"selector\":\"//a[text()=' Register ']\"}\n  (Session info: chrome=113.0.5672.93)\nFor documentation on this error, please visit: https://selenium.dev/exceptions/#no_such_element\nBuild info: version: '4.8.3', revision: 'e5e76298c3'\nSystem info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '20.0.1'\nDriver info: org.openqa.selenium.chrome.ChromeDriver\nCommand: [b1d91fc358de3f0eecf000d8d9a23fde, findElement {using=xpath, value=//a[text()=' Register ']}]\nCapabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 113.0.5672.93, chrome: {chromedriverVersion: 113.0.5672.63 (0e1a4471d5ae..., userDataDir: C:\\Users\\kiran\\AppData\\Loca...}, goog:chromeOptions: {debuggerAddress: localhost:58835}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: WINDOWS, proxy: Proxy(), se:cdp: ws://localhost:58835/devtoo..., se:cdpVersion: 113.0.5672.93, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}\nSession ID: b1d91fc358de3f0eecf000d8d9a23fde",
+      "time" : {
+        "start" : 1684203335738,
+        "stop" : 1684203341045,
+        "duration" : 5307
+      }
+    } ]
+  },
+  "6207ca2e073f73c73bf8a26803b9a1d4" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 2,
+      "unknown" : 0,
+      "total" : 2
+    },
+    "items" : [ {
+      "uid" : "af4472e6809ff48e",
+      "reportUrl" : "http://localhost:8080/job/DsalgoProject/5/allure/#testresult/af4472e6809ff48e",
+      "status" : "passed",
+      "time" : {
+        "start" : 1684204024387,
+        "stop" : 1684204025234,
+        "duration" : 847
+      }
+    }, {
+      "uid" : "51504e22c272f3c2",
+      "reportUrl" : "http://localhost:8080/job/DsalgoProject/4/allure/#testresult/51504e22c272f3c2",
+      "status" : "passed",
+      "time" : {
+        "start" : 1684203367282,
+        "stop" : 1684203368420,
+        "duration" : 1138
+      }
+    } ]
+  },
+  "e2636fd75a4eebb901bc85a62f740521" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 2,
+      "unknown" : 0,
+      "total" : 2
+    },
+    "items" : [ {
+      "uid" : "13d820212c99775c",
+      "reportUrl" : "http://localhost:8080/job/DsalgoProject/5/allure/#testresult/13d820212c99775c",
+      "status" : "passed",
+      "time" : {
+        "start" : 1684204049534,
+        "stop" : 1684204050224,
+        "duration" : 690
+      }
+    }, {
+      "uid" : "6f18dd62a9b5bfd1",
+      "reportUrl" : "http://localhost:8080/job/DsalgoProject/4/allure/#testresult/6f18dd62a9b5bfd1",
+      "status" : "passed",
+      "time" : {
+        "start" : 1684203390482,
+        "stop" : 1684203391165,
+        "duration" : 683
+      }
+    } ]
+  },
+  "86105318ff72004d5da846af183ba102" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 1,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 2
+    },
+    "items" : [ {
+      "uid" : "14d1b611c4e2a2ce",
+      "reportUrl" : "http://localhost:8080/job/DsalgoProject/5/allure/#testresult/14d1b611c4e2a2ce",
+      "status" : "broken",
+      "statusDetails" : "no such alert\n  (Session info: chrome=113.0.5672.93)\nBuild info: version: '4.8.3', revision: 'e5e76298c3'\nSystem info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '20.0.1'\nDriver info: org.openqa.selenium.chrome.ChromeDriver\nCommand: [d2c1984af990ab6f97868cc1ffcabbd9, getAlertText {}]\nCapabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 113.0.5672.93, chrome: {chromedriverVersion: 113.0.5672.63 (0e1a4471d5ae..., userDataDir: C:\\Users\\kiran\\AppData\\Loca...}, goog:chromeOptions: {debuggerAddress: localhost:59495}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: WINDOWS, proxy: Proxy(), se:cdp: ws://localhost:59495/devtoo..., se:cdpVersion: 113.0.5672.93, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}\nSession ID: d2c1984af990ab6f97868cc1ffcabbd9",
+      "time" : {
+        "start" : 1684203926329,
+        "stop" : 1684203928008,
+        "duration" : 1679
+      }
+    }, {
+      "uid" : "46f17a975ae26366",
+      "reportUrl" : "http://localhost:8080/job/DsalgoProject/4/allure/#testresult/46f17a975ae26366",
+      "status" : "passed",
+      "time" : {
+        "start" : 1684203268849,
+        "stop" : 1684203270136,
+        "duration" : 1287
+      }
+    } ]
+  },
+  "b2918db9d46adad7597f4e0980b56c9c" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 2,
+      "unknown" : 0,
+      "total" : 2
+    },
+    "items" : [ {
+      "uid" : "15a08e1494157bf5",
+      "reportUrl" : "http://localhost:8080/job/DsalgoProject/5/allure/#testresult/15a08e1494157bf5",
+      "status" : "passed",
+      "time" : {
+        "start" : 1684204027075,
+        "stop" : 1684204027974,
+        "duration" : 899
+      }
+    }, {
+      "uid" : "256a065c668d7479",
+      "reportUrl" : "http://localhost:8080/job/DsalgoProject/4/allure/#testresult/256a065c668d7479",
+      "status" : "passed",
+      "time" : {
+        "start" : 1684203370058,
+        "stop" : 1684203370784,
+        "duration" : 726
+      }
+    } ]
+  },
+  "1f71c4ee67be4f744fa4599169045150" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 2,
+      "unknown" : 0,
+      "total" : 2
+    },
+    "items" : [ {
+      "uid" : "dee98cdeddcc315e",
+      "reportUrl" : "http://localhost:8080/job/DsalgoProject/5/allure/#testresult/dee98cdeddcc315e",
+      "status" : "passed",
+      "time" : {
+        "start" : 1684203836501,
+        "stop" : 1684203837234,
+        "duration" : 733
+      }
+    }, {
+      "uid" : "46454518a9bbf9d2",
+      "reportUrl" : "http://localhost:8080/job/DsalgoProject/4/allure/#testresult/46454518a9bbf9d2",
+      "status" : "passed",
+      "time" : {
+        "start" : 1684203185126,
+        "stop" : 1684203185917,
+        "duration" : 791
+      }
+    } ]
+  },
+  "5b06e718a1c73f89e810c07c8867221b" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 2,
+      "unknown" : 0,
+      "total" : 2
+    },
+    "items" : [ {
+      "uid" : "7fb619485133387e",
+      "reportUrl" : "http://localhost:8080/job/DsalgoProject/5/allure/#testresult/7fb619485133387e",
+      "status" : "passed",
+      "time" : {
+        "start" : 1684204031974,
+        "stop" : 1684204034764,
+        "duration" : 2790
+      }
+    }, {
+      "uid" : "c8138016d5e3589b",
+      "reportUrl" : "http://localhost:8080/job/DsalgoProject/4/allure/#testresult/c8138016d5e3589b",
+      "status" : "passed",
+      "time" : {
+        "start" : 1684203375279,
+        "stop" : 1684203377156,
+        "duration" : 1877
+      }
+    } ]
+  },
+  "569a6289cf0053d9f593af7cd2ceb16d" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 2,
+      "unknown" : 0,
+      "total" : 2
+    },
+    "items" : [ {
+      "uid" : "b9b52be8707d58b0",
+      "reportUrl" : "http://localhost:8080/job/DsalgoProject/5/allure/#testresult/b9b52be8707d58b0",
+      "status" : "passed",
+      "time" : {
+        "start" : 1684204040384,
+        "stop" : 1684204041544,
+        "duration" : 1160
+      }
+    }, {
+      "uid" : "178e105d148e876b",
+      "reportUrl" : "http://localhost:8080/job/DsalgoProject/4/allure/#testresult/178e105d148e876b",
+      "status" : "passed",
+      "time" : {
+        "start" : 1684203382411,
+        "stop" : 1684203383403,
+        "duration" : 992
+      }
+    } ]
+  },
+  "d7a67944e33a54959fa1253caa4e8541" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 2,
+      "unknown" : 0,
+      "total" : 2
+    },
+    "items" : [ {
+      "uid" : "d124bbebb8b74c15",
+      "reportUrl" : "http://localhost:8080/job/DsalgoProject/5/allure/#testresult/d124bbebb8b74c15",
+      "status" : "passed",
+      "time" : {
+        "start" : 1684204042424,
+        "stop" : 1684204043872,
+        "duration" : 1448
+      }
+    }, {
+      "uid" : "1b18f58095d0b2fe",
+      "reportUrl" : "http://localhost:8080/job/DsalgoProject/4/allure/#testresult/1b18f58095d0b2fe",
+      "status" : "passed",
+      "time" : {
+        "start" : 1684203384441,
+        "stop" : 1684203386323,
+        "duration" : 1882
+      }
+    } ]
+  },
+  "300db45a87c580d2bcdf4a30feefb613" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 2,
+      "unknown" : 0,
+      "total" : 2
+    },
+    "items" : [ {
+      "uid" : "388cb629784ca2c3",
+      "reportUrl" : "http://localhost:8080/job/DsalgoProject/5/allure/#testresult/388cb629784ca2c3",
+      "status" : "passed",
+      "time" : {
+        "start" : 1684204069914,
+        "stop" : 1684204071327,
+        "duration" : 1413
+      }
+    }, {
+      "uid" : "5bdbe811c17d943e",
+      "reportUrl" : "http://localhost:8080/job/DsalgoProject/4/allure/#testresult/5bdbe811c17d943e",
+      "status" : "passed",
+      "time" : {
+        "start" : 1684203407999,
+        "stop" : 1684203409138,
+        "duration" : 1139
+      }
+    } ]
+  },
+  "975fcffba2afa59e8db52fd81a50dfcc" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 2,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 2
+    },
+    "items" : [ {
+      "uid" : "9b4f28289ce9351f",
+      "reportUrl" : "http://localhost:8080/job/DsalgoProject/5/allure/#testresult/9b4f28289ce9351f",
+      "status" : "broken",
+      "statusDetails" : "no such element: Unable to locate element: {\"method\":\"xpath\",\"selector\":\"//a[text()=' Register ']\"}\n  (Session info: chrome=113.0.5672.93)\nFor documentation on this error, please visit: https://selenium.dev/exceptions/#no_such_element\nBuild info: version: '4.8.3', revision: 'e5e76298c3'\nSystem info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '20.0.1'\nDriver info: org.openqa.selenium.chrome.ChromeDriver\nCommand: [d2c1984af990ab6f97868cc1ffcabbd9, findElement {using=xpath, value=//a[text()=' Register ']}]\nCapabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 113.0.5672.93, chrome: {chromedriverVersion: 113.0.5672.63 (0e1a4471d5ae..., userDataDir: C:\\Users\\kiran\\AppData\\Loca...}, goog:chromeOptions: {debuggerAddress: localhost:59495}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: WINDOWS, proxy: Proxy(), se:cdp: ws://localhost:59495/devtoo..., se:cdpVersion: 113.0.5672.93, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}\nSession ID: d2c1984af990ab6f97868cc1ffcabbd9",
+      "time" : {
+        "start" : 1684203972104,
+        "stop" : 1684203977320,
+        "duration" : 5216
+      }
+    }, {
+      "uid" : "f52d8db2abb9d508",
+      "reportUrl" : "http://localhost:8080/job/DsalgoProject/4/allure/#testresult/f52d8db2abb9d508",
+      "status" : "broken",
+      "statusDetails" : "no such element: Unable to locate element: {\"method\":\"xpath\",\"selector\":\"//a[text()=' Register ']\"}\n  (Session info: chrome=113.0.5672.93)\nFor documentation on this error, please visit: https://selenium.dev/exceptions/#no_such_element\nBuild info: version: '4.8.3', revision: 'e5e76298c3'\nSystem info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '20.0.1'\nDriver info: org.openqa.selenium.chrome.ChromeDriver\nCommand: [b1d91fc358de3f0eecf000d8d9a23fde, findElement {using=xpath, value=//a[text()=' Register ']}]\nCapabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 113.0.5672.93, chrome: {chromedriverVersion: 113.0.5672.63 (0e1a4471d5ae..., userDataDir: C:\\Users\\kiran\\AppData\\Loca...}, goog:chromeOptions: {debuggerAddress: localhost:58835}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: WINDOWS, proxy: Proxy(), se:cdp: ws://localhost:58835/devtoo..., se:cdpVersion: 113.0.5672.93, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}\nSession ID: b1d91fc358de3f0eecf000d8d9a23fde",
+      "time" : {
+        "start" : 1684203314858,
+        "stop" : 1684203320103,
+        "duration" : 5245
+      }
+    } ]
+  },
+  "31807f1861749bd2843f2817a6150b9d" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 2,
+      "unknown" : 0,
+      "total" : 2
+    },
+    "items" : [ {
+      "uid" : "a48aa08f31478ae4",
+      "reportUrl" : "http://localhost:8080/job/DsalgoProject/5/allure/#testresult/a48aa08f31478ae4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1684203869994,
+        "stop" : 1684203871794,
+        "duration" : 1800
+      }
+    }, {
+      "uid" : "de88689e8e4aff1f",
+      "reportUrl" : "http://localhost:8080/job/DsalgoProject/4/allure/#testresult/de88689e8e4aff1f",
+      "status" : "passed",
+      "time" : {
+        "start" : 1684203217762,
+        "stop" : 1684203218652,
+        "duration" : 890
+      }
+    } ]
+  }
+}

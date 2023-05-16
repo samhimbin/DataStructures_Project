@@ -1,0 +1,268 @@
+{
+  "uid" : "e92ae41b06ff2b2e",
+  "name" : "Runs Cucumber Scenarios",
+  "fullName" : "io.cucumber.testng.AbstractTestNGCucumberTests.runScenario",
+  "historyId" : "2c231a8f8f4a2e51c88b661dd5bfc46e",
+  "time" : {
+    "start" : 1684204457029,
+    "stop" : 1684204457944,
+    "duration" : 915
+  },
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ {
+    "name" : "setUpClass",
+    "time" : {
+      "start" : 1684204394410,
+      "stop" : 1684204394475,
+      "duration" : 65
+    },
+    "description" : "",
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "hasContent" : false,
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false
+  }, {
+    "name" : "defineBrowser",
+    "time" : {
+      "start" : 1684204394410,
+      "stop" : 1684204394410,
+      "duration" : 0
+    },
+    "description" : "",
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "hasContent" : false,
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false
+  } ],
+  "afterStages" : [ {
+    "name" : "tearDownClass",
+    "time" : {
+      "start" : 1684204509326,
+      "stop" : 1684204509354,
+      "duration" : 28
+    },
+    "description" : "",
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "hasContent" : false,
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false
+  } ],
+  "labels" : [ {
+    "name" : "package",
+    "value" : "testRunner.TestNGTestRunner"
+  }, {
+    "name" : "testClass",
+    "value" : "testRunner.TestNGTestRunner"
+  }, {
+    "name" : "testMethod",
+    "value" : "runScenario"
+  }, {
+    "name" : "parentSuite",
+    "value" : "crossBrowserTestSuite"
+  }, {
+    "name" : "suite",
+    "value" : "EdgeTest"
+  }, {
+    "name" : "subSuite",
+    "value" : "testRunner.TestNGTestRunner"
+  }, {
+    "name" : "host",
+    "value" : "LAPTOP-TINQNFE1"
+  }, {
+    "name" : "thread",
+    "value" : "25200@LAPTOP-TINQNFE1.main(1)"
+  }, {
+    "name" : "framework",
+    "value" : "testng"
+  }, {
+    "name" : "language",
+    "value" : "java"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ {
+    "name" : "arg0",
+    "value" : "\"user navigating to Introduction of LinkedlistPage and using Data from Excel to evaluate\""
+  }, {
+    "name" : "arg1",
+    "value" : "\"Evaluate Linkedlist Module\""
+  }, {
+    "name" : "browser",
+    "value" : "edge"
+  } ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ {
+      "uid" : "9b7c371d512a121f",
+      "status" : "passed",
+      "time" : {
+        "start" : 1684204456367,
+        "stop" : 1684204457024,
+        "duration" : 657
+      }
+    }, {
+      "uid" : "cd74fc62bc5706b1",
+      "status" : "passed",
+      "time" : {
+        "start" : 1684204060894,
+        "stop" : 1684204061816,
+        "duration" : 922
+      }
+    }, {
+      "uid" : "a9640a8d4e42286a",
+      "status" : "passed",
+      "time" : {
+        "start" : 1684204060205,
+        "stop" : 1684204060885,
+        "duration" : 680
+      }
+    }, {
+      "uid" : "b803db11b6547cc1",
+      "status" : "passed",
+      "time" : {
+        "start" : 1684203398015,
+        "stop" : 1684203399000,
+        "duration" : 985
+      }
+    }, {
+      "uid" : "52f2fa81e0455b62",
+      "status" : "passed",
+      "time" : {
+        "start" : 1684203397008,
+        "stop" : 1684203398012,
+        "duration" : 1004
+      }
+    }, {
+      "uid" : "4c8d98b54e6edc96",
+      "status" : "passed",
+      "time" : {
+        "start" : 1684202862409,
+        "stop" : 1684202863017,
+        "duration" : 608
+      }
+    }, {
+      "uid" : "6ffb5d586a4a95a4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1684202861559,
+        "stop" : 1684202862402,
+        "duration" : 843
+      }
+    }, {
+      "uid" : "b016e89d0ee9ec08",
+      "status" : "passed",
+      "time" : {
+        "start" : 1684187274445,
+        "stop" : 1684187274824,
+        "duration" : 379
+      }
+    }, {
+      "uid" : "cc9e8a37ab69f59d",
+      "status" : "passed",
+      "time" : {
+        "start" : 1684187274031,
+        "stop" : 1684187274442,
+        "duration" : 411
+      }
+    }, {
+      "uid" : "baae3022d3bcc1a2",
+      "status" : "passed",
+      "time" : {
+        "start" : 1684184916515,
+        "stop" : 1684184917320,
+        "duration" : 805
+      }
+    }, {
+      "uid" : "18c8b450b38456aa",
+      "status" : "passed",
+      "time" : {
+        "start" : 1684184915869,
+        "stop" : 1684184916513,
+        "duration" : 644
+      }
+    }, {
+      "uid" : "ff2e099985ef01c0",
+      "status" : "passed",
+      "time" : {
+        "start" : 1684153869485,
+        "stop" : 1684153870040,
+        "duration" : 555
+      }
+    }, {
+      "uid" : "895bf8bbe2b0636f",
+      "status" : "passed",
+      "time" : {
+        "start" : 1684153868875,
+        "stop" : 1684153869475,
+        "duration" : 600
+      }
+    }, {
+      "uid" : "df88cba0fe089c42",
+      "status" : "passed",
+      "time" : {
+        "start" : 1684153600604,
+        "stop" : 1684153601189,
+        "duration" : 585
+      }
+    }, {
+      "uid" : "9982e29c5614e41b",
+      "status" : "passed",
+      "time" : {
+        "start" : 1684153600024,
+        "stop" : 1684153600599,
+        "duration" : 575
+      }
+    } ],
+    "categories" : [ ],
+    "history" : {
+      "statistic" : {
+        "failed" : 0,
+        "broken" : 0,
+        "skipped" : 0,
+        "passed" : 3,
+        "unknown" : 0,
+        "total" : 3
+      },
+      "items" : [ {
+        "uid" : "e5157cc0217aa84c",
+        "reportUrl" : "http://localhost:8080/job/DsalgoProject/5/allure/#testresult/e5157cc0217aa84c",
+        "status" : "passed",
+        "time" : {
+          "start" : 1684204060894,
+          "stop" : 1684204061816,
+          "duration" : 922
+        }
+      }, {
+        "uid" : "99907fb4750fee42",
+        "reportUrl" : "http://localhost:8080/job/DsalgoProject/4/allure/#testresult/99907fb4750fee42",
+        "status" : "passed",
+        "time" : {
+          "start" : 1684203398015,
+          "stop" : 1684203399000,
+          "duration" : 985
+        }
+      } ]
+    },
+    "tags" : [ ]
+  },
+  "source" : "e92ae41b06ff2b2e.json",
+  "parameterValues" : [ "\"user navigating to Introduction of LinkedlistPage and using Data from Excel to evaluate\"", "\"Evaluate Linkedlist Module\"", "edge" ]
+}

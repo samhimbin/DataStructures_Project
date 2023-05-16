@@ -1,0 +1,1031 @@
+[ {
+  "uid" : "17ecbb66e6cae01e",
+  "name" : "Runs Cucumber Scenarios",
+  "time" : {
+    "start" : 1684204411171,
+    "stop" : 1684204412875,
+    "duration" : 1704
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "e39ae2c151d1ab8e",
+  "name" : "User is able to navigate to tryeditor page and run invalid python code",
+  "time" : {
+    "start" : 1684204434103,
+    "stop" : 1684204434894,
+    "duration" : 791
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "9225921c49e98712",
+  "name" : "Runs Cucumber Scenarios",
+  "time" : {
+    "start" : 1684204413664,
+    "stop" : 1684204414755,
+    "duration" : 1091
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "16ee16cc00f4f609",
+  "name" : "Runs Cucumber Scenarios",
+  "time" : {
+    "start" : 1684204409286,
+    "stop" : 1684204410455,
+    "duration" : 1169
+  },
+  "status" : "failed",
+  "severity" : "normal"
+}, {
+  "uid" : "cb669d917b3f8ce5",
+  "name" : "user navigating to Introduction of LinkedlistPage and using Data from Excel to evaluate",
+  "time" : {
+    "start" : 1684204456375,
+    "stop" : 1684204457018,
+    "duration" : 643
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "f70f927432c1b14b",
+  "name" : "Runs Cucumber Scenarios",
+  "time" : {
+    "start" : 1684204368959,
+    "stop" : 1684204369847,
+    "duration" : 888
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "2c5d468ecae53c8f",
+  "name" : "User navigating to Insertion of Linked list page",
+  "time" : {
+    "start" : 1684204503304,
+    "stop" : 1684204504434,
+    "duration" : 1130
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "6f07a973404e6e9b",
+  "name" : "User on login page and login with inavalid and validinputs from Excel\"Sheet1\" and3",
+  "time" : {
+    "start" : 1684204413670,
+    "stop" : 1684204414755,
+    "duration" : 1085
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "8625c5d3b9be1a01",
+  "name" : "User on login page and login with inavalid and validinputs from Excel\"Sheet1\" and0",
+  "time" : {
+    "start" : 1684204410464,
+    "stop" : 1684204411160,
+    "duration" : 696
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "f3e8add8ac1340c0",
+  "name" : "User is able to navigate to practice questions",
+  "time" : {
+    "start" : 1684204418798,
+    "stop" : 1684204419289,
+    "duration" : 491
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "39c696a3a49861c",
+  "name" : "user navigate to registration page",
+  "time" : {
+    "start" : 1684204402269,
+    "stop" : 1684204403205,
+    "duration" : 936
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "30cfd746f26fcea0",
+  "name" : "Runs Cucumber Scenarios",
+  "time" : {
+    "start" : 1684204313644,
+    "stop" : 1684204315058,
+    "duration" : 1414
+  },
+  "status" : "failed",
+  "severity" : "normal"
+}, {
+  "uid" : "f84980a4555a066a",
+  "name" : "User is able to navigate to tryeditor page and run valid python code",
+  "time" : {
+    "start" : 1684204423924,
+    "stop" : 1684204429274,
+    "duration" : 5350
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "dca7ab3d7ced4628",
+  "name" : "Runs Cucumber Scenarios",
+  "time" : {
+    "start" : 1684204508252,
+    "stop" : 1684204509326,
+    "duration" : 1074
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "c02ff49c59638fe0",
+  "name" : "User is able to navigate to tryeditor page and run valid python code",
+  "time" : {
+    "start" : 1684204434914,
+    "stop" : 1684204436324,
+    "duration" : 1410
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "53b3d6113ae2d186",
+  "name" : "User is able to navigate to tryeditor page and run valid python code",
+  "time" : {
+    "start" : 1684204433244,
+    "stop" : 1684204434085,
+    "duration" : 841
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "de0a0600b29bbec1",
+  "name" : "User is able to navigate to tryeditor page and run valid python code",
+  "time" : {
+    "start" : 1684204431120,
+    "stop" : 1684204432094,
+    "duration" : 974
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "6e6c53e241cd3b63",
+  "name" : "Runs Cucumber Scenarios",
+  "time" : {
+    "start" : 1684204449749,
+    "stop" : 1684204450769,
+    "duration" : 1020
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "63b7b6e3afdfa32a",
+  "name" : "User navigating to Creating a Linked list page",
+  "time" : {
+    "start" : 1684204457960,
+    "stop" : 1684204491984,
+    "duration" : 34024
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "bfade45c7c11ba03",
+  "name" : "Runs Cucumber Scenarios",
+  "time" : {
+    "start" : 1684204366924,
+    "stop" : 1684204368215,
+    "duration" : 1291
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "2aad31411de75b16",
+  "name" : "user navigate to registration page",
+  "time" : {
+    "start" : 1684204408384,
+    "stop" : 1684204409278,
+    "duration" : 894
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "9e5d2aaffe24a656",
+  "name" : "User navigating to Implement Linked list page",
+  "time" : {
+    "start" : 1684204498799,
+    "stop" : 1684204500533,
+    "duration" : 1734
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "70c657367dc42265",
+  "name" : "Runs Cucumber Scenarios",
+  "time" : {
+    "start" : 1684204348174,
+    "stop" : 1684204348589,
+    "duration" : 415
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "fd9a476eb52871da",
+  "name" : "User navigating to Traversal of Linked list page",
+  "time" : {
+    "start" : 1684204500554,
+    "stop" : 1684204502054,
+    "duration" : 1500
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "65bc667d4a53b93f",
+  "name" : "Runs Cucumber Scenarios",
+  "time" : {
+    "start" : 1684204414763,
+    "stop" : 1684204417687,
+    "duration" : 2924
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "cb144928f672f516",
+  "name" : "User is able to navigate to tryeditor page and run valid python code",
+  "time" : {
+    "start" : 1684204449754,
+    "stop" : 1684204450764,
+    "duration" : 1010
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "e15e5164bbecf142",
+  "name" : "user navigate to registration page",
+  "time" : {
+    "start" : 1684204409286,
+    "stop" : 1684204410447,
+    "duration" : 1161
+  },
+  "status" : "failed",
+  "severity" : "normal"
+}, {
+  "uid" : "24f36b853db6205e",
+  "name" : "Runs Cucumber Scenarios",
+  "time" : {
+    "start" : 1684204373324,
+    "stop" : 1684204373979,
+    "duration" : 655
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "75a81cd01444b04",
+  "name" : "Runs Cucumber Scenarios",
+  "time" : {
+    "start" : 1684204496680,
+    "stop" : 1684204497662,
+    "duration" : 982
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "44541f2d4d0b6c37",
+  "name" : "User is able to navigate to tryeditor page and run invalid python code",
+  "time" : {
+    "start" : 1684204423204,
+    "stop" : 1684204423894,
+    "duration" : 690
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "6230bd89d3a3994b",
+  "name" : "user navigate to registration page",
+  "time" : {
+    "start" : 1684204399908,
+    "stop" : 1684204400776,
+    "duration" : 868
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "3a631de23b32a492",
+  "name" : "The user is able to navigate to a page having Arrays in Python Topic",
+  "time" : {
+    "start" : 1684204419313,
+    "stop" : 1684204421984,
+    "duration" : 2671
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "f0e4a84bcd919069",
+  "name" : "Runs Cucumber Scenarios",
+  "time" : {
+    "start" : 1684204451554,
+    "stop" : 1684204452744,
+    "duration" : 1190
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "868c85f49eae2c87",
+  "name" : "user navigate to registration page",
+  "time" : {
+    "start" : 1684204401454,
+    "stop" : 1684204402254,
+    "duration" : 800
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "2c98c3554ac5ce2b",
+  "name" : "user navigate to registration page",
+  "time" : {
+    "start" : 1684204406299,
+    "stop" : 1684204407337,
+    "duration" : 1038
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "68d66b13ac17a9e7",
+  "name" : "user navigating to Introduction of LinkedlistPage and using Data from Excel to evaluate",
+  "time" : {
+    "start" : 1684204457034,
+    "stop" : 1684204457934,
+    "duration" : 900
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "be96d3415601dc",
+  "name" : "User is able to navigate to tryeditor page and run valid python code",
+  "time" : {
+    "start" : 1684204421994,
+    "stop" : 1684204423184,
+    "duration" : 1190
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "4cb1308bade9c99",
+  "name" : "User is able to navigate to tryeditor page and run invalid python code",
+  "time" : {
+    "start" : 1684204429294,
+    "stop" : 1684204431104,
+    "duration" : 1810
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "3656f101f5e411c5",
+  "name" : "user navigate to registration page",
+  "time" : {
+    "start" : 1684204407359,
+    "stop" : 1684204408365,
+    "duration" : 1006
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "a2e5ca5c7aa8b59d",
+  "name" : "Runs Cucumber Scenarios",
+  "time" : {
+    "start" : 1684204452744,
+    "stop" : 1684204456367,
+    "duration" : 3623
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "94ac18d9fd0c3703",
+  "name" : "User navigating to Types of Linked list page",
+  "time" : {
+    "start" : 1684204494884,
+    "stop" : 1684204496674,
+    "duration" : 1790
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "12b1ebcf355c201f",
+  "name" : "Runs Cucumber Scenarios",
+  "time" : {
+    "start" : 1684204392404,
+    "stop" : 1684204393327,
+    "duration" : 923
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "b3e4888986dbd67b",
+  "name" : "User is able to navigate to tryeditor page and run invalid python code",
+  "time" : {
+    "start" : 1684204436345,
+    "stop" : 1684204438125,
+    "duration" : 1780
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "14b305670fc866b1",
+  "name" : "Runs Cucumber Scenarios",
+  "time" : {
+    "start" : 1684204296470,
+    "stop" : 1684204297267,
+    "duration" : 797
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "1a660d1d77565fa4",
+  "name" : "User navigating to Types of Linked list page",
+  "time" : {
+    "start" : 1684204496688,
+    "stop" : 1684204497654,
+    "duration" : 966
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "7f27992061b83787",
+  "name" : "User is able to navigate to tryeditor page and run valid python code",
+  "time" : {
+    "start" : 1684204440084,
+    "stop" : 1684204441195,
+    "duration" : 1111
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "6ceb1b92831603c3",
+  "name" : "User on login page and login with inavalid and validinputs from Excel\"Sheet1\" and1",
+  "time" : {
+    "start" : 1684204411179,
+    "stop" : 1684204412867,
+    "duration" : 1688
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "f7f439f511a2b4d7",
+  "name" : "Runs Cucumber Scenarios",
+  "time" : {
+    "start" : 1684204502064,
+    "stop" : 1684204503294,
+    "duration" : 1230
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "fad396a531028172",
+  "name" : "Runs Cucumber Scenarios",
+  "time" : {
+    "start" : 1684204333440,
+    "stop" : 1684204334614,
+    "duration" : 1174
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "d7165472a41c2872",
+  "name" : "Runs Cucumber Scenarios",
+  "time" : {
+    "start" : 1684204348589,
+    "stop" : 1684204350556,
+    "duration" : 1967
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "c231928bd4180a85",
+  "name" : "User navigating to Deletion of Linked list page",
+  "time" : {
+    "start" : 1684204507255,
+    "stop" : 1684204508236,
+    "duration" : 981
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "4dc492422312e37a",
+  "name" : "Runs Cucumber Scenarios",
+  "time" : {
+    "start" : 1684204419297,
+    "stop" : 1684204421990,
+    "duration" : 2693
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "a4baeb9d51d5a8e3",
+  "name" : "Runs Cucumber Scenarios",
+  "time" : {
+    "start" : 1684204315079,
+    "stop" : 1684204331474,
+    "duration" : 16395
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "7b1116c8d23a33ca",
+  "name" : "Runs Cucumber Scenarios",
+  "time" : {
+    "start" : 1684204383374,
+    "stop" : 1684204385049,
+    "duration" : 1675
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "658f5bfe36c3aef8",
+  "name" : "Runs Cucumber Scenarios",
+  "time" : {
+    "start" : 1684204492000,
+    "stop" : 1684204494864,
+    "duration" : 2864
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "7c1e26e54580d906",
+  "name" : "Runs Cucumber Scenarios",
+  "time" : {
+    "start" : 1684204450774,
+    "stop" : 1684204451544,
+    "duration" : 770
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "beee404892e4a25a",
+  "name" : "Runs Cucumber Scenarios",
+  "time" : {
+    "start" : 1684204398545,
+    "stop" : 1684204399899,
+    "duration" : 1354
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "6d62fdbc2c8db55f",
+  "name" : "Runs Cucumber Scenarios",
+  "time" : {
+    "start" : 1684204507247,
+    "stop" : 1684204508244,
+    "duration" : 997
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "60640e2000428c49",
+  "name" : "Runs Cucumber Scenarios",
+  "time" : {
+    "start" : 1684204398129,
+    "stop" : 1684204398544,
+    "duration" : 415
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "55eb4740a764bd39",
+  "name" : "User navigating to Creating a Linked list page",
+  "time" : {
+    "start" : 1684204492008,
+    "stop" : 1684204494859,
+    "duration" : 2851
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "e92ae41b06ff2b2e",
+  "name" : "Runs Cucumber Scenarios",
+  "time" : {
+    "start" : 1684204457029,
+    "stop" : 1684204457944,
+    "duration" : 915
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "956a6e84d21ca15e",
+  "name" : "User is Logged in to DSAlgo portal",
+  "time" : {
+    "start" : 1684204451576,
+    "stop" : 1684204452736,
+    "duration" : 1160
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "61c5a300292bfb7f",
+  "name" : "Runs Cucumber Scenarios",
+  "time" : {
+    "start" : 1684204386684,
+    "stop" : 1684204387994,
+    "duration" : 1310
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "2273c44dc0bcacf8",
+  "name" : "User is able to navigate to tryeditor page and run invalid python code",
+  "time" : {
+    "start" : 1684204438999,
+    "stop" : 1684204440059,
+    "duration" : 1060
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "1987f76ae0468fed",
+  "name" : "User navigating to Deletion of Linked list page",
+  "time" : {
+    "start" : 1684204506159,
+    "stop" : 1684204507234,
+    "duration" : 1075
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "10718bd2dae642a7",
+  "name" : "Runs Cucumber Scenarios",
+  "time" : {
+    "start" : 1684204504444,
+    "stop" : 1684204506151,
+    "duration" : 1707
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "4bfc71b22ab18cfe",
+  "name" : "user navigate to registration page",
+  "time" : {
+    "start" : 1684204404094,
+    "stop" : 1684204404992,
+    "duration" : 898
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "9fe92ce5ab58da80",
+  "name" : "Runs Cucumber Scenarios",
+  "time" : {
+    "start" : 1684204394475,
+    "stop" : 1684204398124,
+    "duration" : 3649
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "127aac70d6d78804",
+  "name" : "Runs Cucumber Scenarios",
+  "time" : {
+    "start" : 1684204390066,
+    "stop" : 1684204391174,
+    "duration" : 1108
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "e7f9ab4751f231f3",
+  "name" : "User on login page and login with inavalid and validinputs from Excel\"Sheet1\" and2",
+  "time" : {
+    "start" : 1684204412875,
+    "stop" : 1684204413654,
+    "duration" : 779
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "6f7e752a903b3226",
+  "name" : "Runs Cucumber Scenarios",
+  "time" : {
+    "start" : 1684204369851,
+    "stop" : 1684204372464,
+    "duration" : 2613
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "8bb6ea382fc90215",
+  "name" : "User is able to navigate to tryeditor page and run valid python code",
+  "time" : {
+    "start" : 1684204438144,
+    "stop" : 1684204438984,
+    "duration" : 840
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "1d4734e2b8d7ade0",
+  "name" : "user navigate to registration page",
+  "time" : {
+    "start" : 1684204400790,
+    "stop" : 1684204401437,
+    "duration" : 647
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "e33f2d7d4b13d554",
+  "name" : "Runs Cucumber Scenarios",
+  "time" : {
+    "start" : 1684204334614,
+    "stop" : 1684204336518,
+    "duration" : 1904
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "dfc00dd41e483988",
+  "name" : "User navigate to home page",
+  "time" : {
+    "start" : 1684204398137,
+    "stop" : 1684204398537,
+    "duration" : 400
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "a41a949f3af00ed4",
+  "name" : "Runs Cucumber Scenarios",
+  "time" : {
+    "start" : 1684204336526,
+    "stop" : 1684204347308,
+    "duration" : 10782
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "3db550f9bde97060",
+  "name" : "Runs Cucumber Scenarios",
+  "time" : {
+    "start" : 1684204286977,
+    "stop" : 1684204296459,
+    "duration" : 9482
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "26a1fb6e542f6b45",
+  "name" : "User is able to navigate to tryeditor page and run invalid python code",
+  "time" : {
+    "start" : 1684204441214,
+    "stop" : 1684204449737,
+    "duration" : 8523
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "3e8127db6457216c",
+  "name" : "User Navigating to LinkedList Page",
+  "time" : {
+    "start" : 1684204452754,
+    "stop" : 1684204456359,
+    "duration" : 3605
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "fb35325026d852e9",
+  "name" : "Runs Cucumber Scenarios",
+  "time" : {
+    "start" : 1684204347314,
+    "stop" : 1684204348169,
+    "duration" : 855
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "3972a727d971dafd",
+  "name" : "Runs Cucumber Scenarios",
+  "time" : {
+    "start" : 1684204368219,
+    "stop" : 1684204368950,
+    "duration" : 731
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "60f3c49b232e69fb",
+  "name" : "Launch url and navigate to home page",
+  "time" : {
+    "start" : 1684204398554,
+    "stop" : 1684204399884,
+    "duration" : 1330
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "6e3cb923e3c2ff8c",
+  "name" : "User is able to navigate to tryeditor page and run invalid python code",
+  "time" : {
+    "start" : 1684204450784,
+    "stop" : 1684204451535,
+    "duration" : 751
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "3049509636356a18",
+  "name" : "User navigating to Traversal of Linked list page",
+  "time" : {
+    "start" : 1684204502065,
+    "stop" : 1684204503291,
+    "duration" : 1226
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "5b0313fb09c8486d",
+  "name" : "Runs Cucumber Scenarios",
+  "time" : {
+    "start" : 1684204498789,
+    "stop" : 1684204500533,
+    "duration" : 1744
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "5a85c93789a4e8fe",
+  "name" : "User is able to navigate to tryeditor page and run invalid python code",
+  "time" : {
+    "start" : 1684204432107,
+    "stop" : 1684204433226,
+    "duration" : 1119
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "2c6fbf1d690f49e4",
+  "name" : "Runs Cucumber Scenarios",
+  "time" : {
+    "start" : 1684204297275,
+    "stop" : 1684204298465,
+    "duration" : 1190
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "fb23af424e416746",
+  "name" : "user navigate to registration page",
+  "time" : {
+    "start" : 1684204405009,
+    "stop" : 1684204406284,
+    "duration" : 1275
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "91ff59cf85aad911",
+  "name" : "Launch url and navigate to home page",
+  "time" : {
+    "start" : 1684204394484,
+    "stop" : 1684204398124,
+    "duration" : 3640
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "a323b85439328902",
+  "name" : "Runs Cucumber Scenarios",
+  "time" : {
+    "start" : 1684204375229,
+    "stop" : 1684204376906,
+    "duration" : 1677
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "9c751339d805f358",
+  "name" : "Runs Cucumber Scenarios",
+  "time" : {
+    "start" : 1684204379026,
+    "stop" : 1684204381004,
+    "duration" : 1978
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "3cb3d861c274f164",
+  "name" : "User navigating to Insertion of Linked list page",
+  "time" : {
+    "start" : 1684204504454,
+    "stop" : 1684204506144,
+    "duration" : 1690
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "efb69ea49343a2e5",
+  "name" : "user navigate to registration page",
+  "time" : {
+    "start" : 1684204403214,
+    "stop" : 1684204404084,
+    "duration" : 870
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "43bab7305900de74",
+  "name" : "Runs Cucumber Scenarios",
+  "time" : {
+    "start" : 1684204412875,
+    "stop" : 1684204413654,
+    "duration" : 779
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "91262bf9498735c9",
+  "name" : "Runs Cucumber Scenarios",
+  "time" : {
+    "start" : 1684204393335,
+    "stop" : 1684204394334,
+    "duration" : 999
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "cb342961f67ea426",
+  "name" : "Runs Cucumber Scenarios",
+  "time" : {
+    "start" : 1684204410459,
+    "stop" : 1684204411160,
+    "duration" : 701
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "7f6001fc884812df",
+  "name" : "Runs Cucumber Scenarios",
+  "time" : {
+    "start" : 1684204331477,
+    "stop" : 1684204333434,
+    "duration" : 1957
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "2ac1fb5ba37e15d",
+  "name" : "User navigating to Implement Linked list page",
+  "time" : {
+    "start" : 1684204497674,
+    "stop" : 1684204498774,
+    "duration" : 1100
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "1bc763e069471337",
+  "name" : "User validating Practice Questions Page",
+  "time" : {
+    "start" : 1684204508260,
+    "stop" : 1684204509326,
+    "duration" : 1066
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "8f236ba821e70746",
+  "name" : "User is able to navigate to tryeditor page and run invalid python code",
+  "time" : {
+    "start" : 1684204417704,
+    "stop" : 1684204418774,
+    "duration" : 1070
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "44c7cb3fa9051d56",
+  "name" : "User is able to navigate Data Structures Introduction",
+  "time" : {
+    "start" : 1684204414771,
+    "stop" : 1684204417679,
+    "duration" : 2908
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "934bd381b3c060e4",
+  "name" : "Runs Cucumber Scenarios",
+  "time" : {
+    "start" : 1684204417694,
+    "stop" : 1684204418779,
+    "duration" : 1085
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "43306e643934998d",
+  "name" : "Runs Cucumber Scenarios",
+  "time" : {
+    "start" : 1684204418791,
+    "stop" : 1684204419294,
+    "duration" : 503
+  },
+  "status" : "passed",
+  "severity" : "normal"
+} ]

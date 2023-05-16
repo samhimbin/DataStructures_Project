@@ -1,0 +1,52 @@
+{
+  "uid" : "4b4757e66a1912dae1a509f688f20b0f",
+  "name" : "categories",
+  "children" : [ {
+    "name" : "Product defects",
+    "children" : [ {
+      "name" : "expected:<[password_mismatch:The two password fields didn’t match.]> but was:<[New Account Created. You are logged in as <username>]>",
+      "children" : [ {
+        "name" : "Runs Cucumber Scenarios",
+        "uid" : "30cfd746f26fcea0",
+        "parentUid" : "e7a5f3143e60ef58ea47dc72fdfbaa24",
+        "status" : "failed",
+        "time" : {
+          "start" : 1684204313644,
+          "stop" : 1684204315058,
+          "duration" : 1414
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "\"user navigate to registration page\"", "\"feature to test new user registration\"", "Chrome" ]
+      }, {
+        "name" : "Runs Cucumber Scenarios",
+        "uid" : "16ee16cc00f4f609",
+        "parentUid" : "e7a5f3143e60ef58ea47dc72fdfbaa24",
+        "status" : "failed",
+        "time" : {
+          "start" : 1684204409286,
+          "stop" : 1684204410455,
+          "duration" : 1169
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "\"user navigate to registration page\"", "\"feature to test new user registration\"", "edge" ]
+      }, {
+        "name" : "user navigate to registration page",
+        "uid" : "e15e5164bbecf142",
+        "parentUid" : "e7a5f3143e60ef58ea47dc72fdfbaa24",
+        "status" : "failed",
+        "time" : {
+          "start" : 1684204409286,
+          "stop" : 1684204410447,
+          "duration" : 1161
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "10", "Sheet1" ]
+      } ],
+      "uid" : "e7a5f3143e60ef58ea47dc72fdfbaa24"
+    } ],
+    "uid" : "8fb3a91ba5aaf9de24cc8a92edc82b5d"
+  } ]
+}

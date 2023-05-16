@@ -1,0 +1,859 @@
+{
+  "uid" : "30cfd746f26fcea0",
+  "name" : "Runs Cucumber Scenarios",
+  "fullName" : "io.cucumber.testng.AbstractTestNGCucumberTests.runScenario",
+  "historyId" : "36861ce5428018a5bb0b62e5585514ab",
+  "time" : {
+    "start" : 1684204313644,
+    "stop" : 1684204315058,
+    "duration" : 1414
+  },
+  "status" : "failed",
+  "statusMessage" : "expected:<[password_mismatch:The two password fields didn’t match.]> but was:<[New Account Created. You are logged in as <username>]>",
+  "statusTrace" : "org.junit.ComparisonFailure: expected:<[password_mismatch:The two password fields didn’t match.]> but was:<[New Account Created. You are logged in as <username>]>\r\n\tat org.junit.Assert.assertEquals(Assert.java:117)\r\n\tat org.junit.Assert.assertEquals(Assert.java:146)\r\n\tat stepdefinitions.RegitrationSteps.user_click_register_button_with_expected_message(RegitrationSteps.java:81)\r\n\tat ✽.user click register button with expected message(file:///C:/Users/kiran/eclipse-workspace/ZoomDs_algo/src/test/resources/features/3RegisterPage.feature:8)\r\n",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ {
+    "name" : "setUpClass",
+    "time" : {
+      "start" : 1684204285910,
+      "stop" : 1684204286874,
+      "duration" : 964
+    },
+    "description" : "",
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "hasContent" : false,
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false
+  }, {
+    "name" : "defineBrowser",
+    "time" : {
+      "start" : 1684204285869,
+      "stop" : 1684204285877,
+      "duration" : 8
+    },
+    "description" : "",
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "hasContent" : false,
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false
+  } ],
+  "afterStages" : [ {
+    "name" : "tearDownClass",
+    "time" : {
+      "start" : 1684204394337,
+      "stop" : 1684204394372,
+      "duration" : 35
+    },
+    "description" : "",
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "hasContent" : false,
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false
+  } ],
+  "labels" : [ {
+    "name" : "package",
+    "value" : "testRunner.TestNGTestRunner"
+  }, {
+    "name" : "testClass",
+    "value" : "testRunner.TestNGTestRunner"
+  }, {
+    "name" : "testMethod",
+    "value" : "runScenario"
+  }, {
+    "name" : "parentSuite",
+    "value" : "crossBrowserTestSuite"
+  }, {
+    "name" : "suite",
+    "value" : "chromeTest"
+  }, {
+    "name" : "subSuite",
+    "value" : "testRunner.TestNGTestRunner"
+  }, {
+    "name" : "host",
+    "value" : "LAPTOP-TINQNFE1"
+  }, {
+    "name" : "thread",
+    "value" : "25200@LAPTOP-TINQNFE1.main(1)"
+  }, {
+    "name" : "framework",
+    "value" : "testng"
+  }, {
+    "name" : "language",
+    "value" : "java"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ {
+    "name" : "arg0",
+    "value" : "\"user navigate to registration page\""
+  }, {
+    "name" : "arg1",
+    "value" : "\"feature to test new user registration\""
+  }, {
+    "name" : "browser",
+    "value" : "Chrome"
+  } ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ {
+      "uid" : "a680bdd247c62df2",
+      "status" : "passed",
+      "time" : {
+        "start" : 1684204312478,
+        "stop" : 1684204313638,
+        "duration" : 1160
+      }
+    }, {
+      "uid" : "6f061988ab80ff7e",
+      "status" : "passed",
+      "time" : {
+        "start" : 1684204310995,
+        "stop" : 1684204312474,
+        "duration" : 1479
+      }
+    }, {
+      "uid" : "a275aabf748612f7",
+      "status" : "passed",
+      "time" : {
+        "start" : 1684204309895,
+        "stop" : 1684204310989,
+        "duration" : 1094
+      }
+    }, {
+      "uid" : "a45664079d220a75",
+      "status" : "passed",
+      "time" : {
+        "start" : 1684204308654,
+        "stop" : 1684204309894,
+        "duration" : 1240
+      }
+    }, {
+      "uid" : "1fc04326ddccac23",
+      "status" : "passed",
+      "time" : {
+        "start" : 1684204307335,
+        "stop" : 1684204308644,
+        "duration" : 1309
+      }
+    }, {
+      "uid" : "845d95ffa76a29ec",
+      "status" : "passed",
+      "time" : {
+        "start" : 1684204305796,
+        "stop" : 1684204307327,
+        "duration" : 1531
+      }
+    }, {
+      "uid" : "fc74077990396908",
+      "status" : "passed",
+      "time" : {
+        "start" : 1684204303879,
+        "stop" : 1684204305788,
+        "duration" : 1909
+      }
+    }, {
+      "uid" : "3a157f0bb9ec8dd6",
+      "status" : "passed",
+      "time" : {
+        "start" : 1684204302494,
+        "stop" : 1684204303867,
+        "duration" : 1373
+      }
+    }, {
+      "uid" : "faf4e7cc4b682835",
+      "status" : "passed",
+      "time" : {
+        "start" : 1684204301130,
+        "stop" : 1684204302489,
+        "duration" : 1359
+      }
+    }, {
+      "uid" : "a1a9d503372bff4e",
+      "status" : "passed",
+      "time" : {
+        "start" : 1684204298474,
+        "stop" : 1684204301123,
+        "duration" : 2649
+      }
+    }, {
+      "uid" : "f2ed3fec689f2986",
+      "status" : "failed",
+      "statusDetails" : "expected:<[password_mismatch:The two password fields didn’t match.]> but was:<[New Account Created. You are logged in as <username>]>",
+      "time" : {
+        "start" : 1684203851767,
+        "stop" : 1684203869959,
+        "duration" : 18192
+      }
+    }, {
+      "uid" : "bea59edb0be3f0b8",
+      "status" : "passed",
+      "time" : {
+        "start" : 1684203850674,
+        "stop" : 1684203851767,
+        "duration" : 1093
+      }
+    }, {
+      "uid" : "25b0da99d722a683",
+      "status" : "passed",
+      "time" : {
+        "start" : 1684203849706,
+        "stop" : 1684203850664,
+        "duration" : 958
+      }
+    }, {
+      "uid" : "941a811022b0db",
+      "status" : "passed",
+      "time" : {
+        "start" : 1684203848039,
+        "stop" : 1684203849698,
+        "duration" : 1659
+      }
+    }, {
+      "uid" : "31847899687866a1",
+      "status" : "passed",
+      "time" : {
+        "start" : 1684203846529,
+        "stop" : 1684203848034,
+        "duration" : 1505
+      }
+    }, {
+      "uid" : "ddeda2285e6dfebb",
+      "status" : "passed",
+      "time" : {
+        "start" : 1684203845341,
+        "stop" : 1684203846524,
+        "duration" : 1183
+      }
+    }, {
+      "uid" : "310f5d4fcb899ba7",
+      "status" : "passed",
+      "time" : {
+        "start" : 1684203844196,
+        "stop" : 1684203845334,
+        "duration" : 1138
+      }
+    }, {
+      "uid" : "beba4191135e8072",
+      "status" : "passed",
+      "time" : {
+        "start" : 1684203842944,
+        "stop" : 1684203844188,
+        "duration" : 1244
+      }
+    }, {
+      "uid" : "3e2c2bb3fbe8d9a",
+      "status" : "passed",
+      "time" : {
+        "start" : 1684203841744,
+        "stop" : 1684203842934,
+        "duration" : 1190
+      }
+    }, {
+      "uid" : "f213012414d2ac65",
+      "status" : "passed",
+      "time" : {
+        "start" : 1684203840639,
+        "stop" : 1684203841734,
+        "duration" : 1095
+      }
+    }, {
+      "uid" : "1def5533d196f6f2",
+      "status" : "passed",
+      "time" : {
+        "start" : 1684203838336,
+        "stop" : 1684203840634,
+        "duration" : 2298
+      }
+    }, {
+      "uid" : "8410ae849e794287",
+      "status" : "failed",
+      "statusDetails" : "expected:<[password_mismatch:The two password fields didn’t match.]> but was:<[New Account Created. You are logged in as <username>]>",
+      "time" : {
+        "start" : 1684203200097,
+        "stop" : 1684203217752,
+        "duration" : 17655
+      }
+    }, {
+      "uid" : "c9f6c93e467cff",
+      "status" : "passed",
+      "time" : {
+        "start" : 1684203199054,
+        "stop" : 1684203200092,
+        "duration" : 1038
+      }
+    }, {
+      "uid" : "6a81d52cebc63985",
+      "status" : "passed",
+      "time" : {
+        "start" : 1684203198124,
+        "stop" : 1684203199051,
+        "duration" : 927
+      }
+    }, {
+      "uid" : "bed023136d809cfd",
+      "status" : "passed",
+      "time" : {
+        "start" : 1684203197039,
+        "stop" : 1684203198120,
+        "duration" : 1081
+      }
+    }, {
+      "uid" : "f71a98192bb4011",
+      "status" : "passed",
+      "time" : {
+        "start" : 1684203195991,
+        "stop" : 1684203197034,
+        "duration" : 1043
+      }
+    }, {
+      "uid" : "66590e3cb1d59864",
+      "status" : "passed",
+      "time" : {
+        "start" : 1684203194910,
+        "stop" : 1684203195987,
+        "duration" : 1077
+      }
+    }, {
+      "uid" : "ac8a0dea8bd68bc2",
+      "status" : "passed",
+      "time" : {
+        "start" : 1684203193729,
+        "stop" : 1684203194906,
+        "duration" : 1177
+      }
+    }, {
+      "uid" : "b216151e95e07dbd",
+      "status" : "passed",
+      "time" : {
+        "start" : 1684203192179,
+        "stop" : 1684203193723,
+        "duration" : 1544
+      }
+    }, {
+      "uid" : "fb061e3f10767001",
+      "status" : "passed",
+      "time" : {
+        "start" : 1684203190938,
+        "stop" : 1684203192176,
+        "duration" : 1238
+      }
+    }, {
+      "uid" : "f72c63fe9f0e0e34",
+      "status" : "passed",
+      "time" : {
+        "start" : 1684203188825,
+        "stop" : 1684203190911,
+        "duration" : 2086
+      }
+    }, {
+      "uid" : "eb9a2e99217560b9",
+      "status" : "passed",
+      "time" : {
+        "start" : 1684203186705,
+        "stop" : 1684203188819,
+        "duration" : 2114
+      }
+    }, {
+      "uid" : "46fdd78c746c7025",
+      "status" : "failed",
+      "statusDetails" : "expected:<[password_mismatch:The two password fields didn’t match.]> but was:<[New Account Created. You are logged in as <username>]>",
+      "time" : {
+        "start" : 1684202686260,
+        "stop" : 1684202688226,
+        "duration" : 1966
+      }
+    }, {
+      "uid" : "930fea74848e7e3a",
+      "status" : "passed",
+      "time" : {
+        "start" : 1684202685018,
+        "stop" : 1684202686255,
+        "duration" : 1237
+      }
+    }, {
+      "uid" : "baa0b9d7afbf7af9",
+      "status" : "passed",
+      "time" : {
+        "start" : 1684202683878,
+        "stop" : 1684202685009,
+        "duration" : 1131
+      }
+    }, {
+      "uid" : "df045da1521d8ca3",
+      "status" : "passed",
+      "time" : {
+        "start" : 1684202682566,
+        "stop" : 1684202683869,
+        "duration" : 1303
+      }
+    }, {
+      "uid" : "b012caccc2951cf9",
+      "status" : "passed",
+      "time" : {
+        "start" : 1684202681181,
+        "stop" : 1684202682562,
+        "duration" : 1381
+      }
+    }, {
+      "uid" : "146dc4957096d274",
+      "status" : "passed",
+      "time" : {
+        "start" : 1684202679968,
+        "stop" : 1684202681178,
+        "duration" : 1210
+      }
+    }, {
+      "uid" : "f8640a5436ee5c88",
+      "status" : "passed",
+      "time" : {
+        "start" : 1684202677777,
+        "stop" : 1684202679962,
+        "duration" : 2185
+      }
+    }, {
+      "uid" : "69cd6bbd972c7aba",
+      "status" : "passed",
+      "time" : {
+        "start" : 1684202676094,
+        "stop" : 1684202677773,
+        "duration" : 1679
+      }
+    }, {
+      "uid" : "d5f9fdb6f5f4795b",
+      "status" : "passed",
+      "time" : {
+        "start" : 1684202674919,
+        "stop" : 1684202676085,
+        "duration" : 1166
+      }
+    }, {
+      "uid" : "280d4e1430b36041",
+      "status" : "passed",
+      "time" : {
+        "start" : 1684202673639,
+        "stop" : 1684202674913,
+        "duration" : 1274
+      }
+    }, {
+      "uid" : "d2f68f29b67ae38d",
+      "status" : "passed",
+      "time" : {
+        "start" : 1684202671226,
+        "stop" : 1684202673630,
+        "duration" : 2404
+      }
+    }, {
+      "uid" : "7f2b4edb20bdc3b2",
+      "status" : "failed",
+      "statusDetails" : "expected:<[password_mismatch:The two password fields didn’t match.]> but was:<[New Account Created. You are logged in as <username>]>",
+      "time" : {
+        "start" : 1684187198431,
+        "stop" : 1684187199323,
+        "duration" : 892
+      }
+    }, {
+      "uid" : "3947e07da6fcfcbb",
+      "status" : "passed",
+      "time" : {
+        "start" : 1684187197465,
+        "stop" : 1684187198428,
+        "duration" : 963
+      }
+    }, {
+      "uid" : "e81d1791f7d95df",
+      "status" : "passed",
+      "time" : {
+        "start" : 1684187196582,
+        "stop" : 1684187197462,
+        "duration" : 880
+      }
+    }, {
+      "uid" : "30461b9f0a181e32",
+      "status" : "passed",
+      "time" : {
+        "start" : 1684187195940,
+        "stop" : 1684187196578,
+        "duration" : 638
+      }
+    }, {
+      "uid" : "2fccc11f01c66174",
+      "status" : "passed",
+      "time" : {
+        "start" : 1684187195243,
+        "stop" : 1684187195937,
+        "duration" : 694
+      }
+    }, {
+      "uid" : "7fa7325d3165fbd9",
+      "status" : "passed",
+      "time" : {
+        "start" : 1684187194666,
+        "stop" : 1684187195239,
+        "duration" : 573
+      }
+    }, {
+      "uid" : "b1185b7b7cb62431",
+      "status" : "passed",
+      "time" : {
+        "start" : 1684187194013,
+        "stop" : 1684187194663,
+        "duration" : 650
+      }
+    }, {
+      "uid" : "bca86156611ce856",
+      "status" : "passed",
+      "time" : {
+        "start" : 1684187193324,
+        "stop" : 1684187194009,
+        "duration" : 685
+      }
+    }, {
+      "uid" : "e968946b89336674",
+      "status" : "passed",
+      "time" : {
+        "start" : 1684187192715,
+        "stop" : 1684187193320,
+        "duration" : 605
+      }
+    }, {
+      "uid" : "a435870c9dd8b88e",
+      "status" : "passed",
+      "time" : {
+        "start" : 1684187192124,
+        "stop" : 1684187192712,
+        "duration" : 588
+      }
+    }, {
+      "uid" : "e4a9bd0072694ad7",
+      "status" : "passed",
+      "time" : {
+        "start" : 1684187190786,
+        "stop" : 1684187192120,
+        "duration" : 1334
+      }
+    }, {
+      "uid" : "32dbd2049d3abb06",
+      "status" : "failed",
+      "statusDetails" : "expected:<[password_mismatch:The two password fields didn’t match.]> but was:<[New Account Created. You are logged in as <username>]>",
+      "time" : {
+        "start" : 1684184810134,
+        "stop" : 1684184811099,
+        "duration" : 965
+      }
+    }, {
+      "uid" : "b697b016f043c892",
+      "status" : "passed",
+      "time" : {
+        "start" : 1684184809262,
+        "stop" : 1684184810130,
+        "duration" : 868
+      }
+    }, {
+      "uid" : "a940e17beabe8b92",
+      "status" : "passed",
+      "time" : {
+        "start" : 1684184808420,
+        "stop" : 1684184809257,
+        "duration" : 837
+      }
+    }, {
+      "uid" : "14b9ae6304b1afc3",
+      "status" : "passed",
+      "time" : {
+        "start" : 1684184807213,
+        "stop" : 1684184808417,
+        "duration" : 1204
+      }
+    }, {
+      "uid" : "fa1e53a6f202b40b",
+      "status" : "passed",
+      "time" : {
+        "start" : 1684184806237,
+        "stop" : 1684184807209,
+        "duration" : 972
+      }
+    }, {
+      "uid" : "7ed42e8999582c94",
+      "status" : "passed",
+      "time" : {
+        "start" : 1684184805115,
+        "stop" : 1684184806233,
+        "duration" : 1118
+      }
+    }, {
+      "uid" : "ac2ac979a3b52659",
+      "status" : "passed",
+      "time" : {
+        "start" : 1684184804115,
+        "stop" : 1684184805112,
+        "duration" : 997
+      }
+    }, {
+      "uid" : "4b2811a8e6f37505",
+      "status" : "passed",
+      "time" : {
+        "start" : 1684184802602,
+        "stop" : 1684184804111,
+        "duration" : 1509
+      }
+    }, {
+      "uid" : "e4b58b4bbedaf693",
+      "status" : "passed",
+      "time" : {
+        "start" : 1684184801789,
+        "stop" : 1684184802598,
+        "duration" : 809
+      }
+    }, {
+      "uid" : "fb55fcedb3d296d3",
+      "status" : "passed",
+      "time" : {
+        "start" : 1684184801088,
+        "stop" : 1684184801787,
+        "duration" : 699
+      }
+    }, {
+      "uid" : "fa70aebcbde17cb2",
+      "status" : "passed",
+      "time" : {
+        "start" : 1684184799444,
+        "stop" : 1684184801083,
+        "duration" : 1639
+      }
+    }, {
+      "uid" : "12f535fe88ed6aa4",
+      "status" : "failed",
+      "statusDetails" : "expected:<[password_mismatch:The two password fields didn’t match.]> but was:<[New Account Created. You are logged in as <username>]>",
+      "time" : {
+        "start" : 1684153797113,
+        "stop" : 1684153797999,
+        "duration" : 886
+      }
+    }, {
+      "uid" : "78cefea5724f709",
+      "status" : "passed",
+      "time" : {
+        "start" : 1684153796265,
+        "stop" : 1684153797110,
+        "duration" : 845
+      }
+    }, {
+      "uid" : "eb8fae6ab15b11d",
+      "status" : "passed",
+      "time" : {
+        "start" : 1684153795586,
+        "stop" : 1684153796261,
+        "duration" : 675
+      }
+    }, {
+      "uid" : "b6e393f41ea02268",
+      "status" : "passed",
+      "time" : {
+        "start" : 1684153794905,
+        "stop" : 1684153795584,
+        "duration" : 679
+      }
+    }, {
+      "uid" : "7bf034a6f1f3a6b0",
+      "status" : "passed",
+      "time" : {
+        "start" : 1684153794249,
+        "stop" : 1684153794902,
+        "duration" : 653
+      }
+    }, {
+      "uid" : "fcf6ba0421fff92a",
+      "status" : "passed",
+      "time" : {
+        "start" : 1684153793576,
+        "stop" : 1684153794245,
+        "duration" : 669
+      }
+    }, {
+      "uid" : "11641d2b6ab9c095",
+      "status" : "passed",
+      "time" : {
+        "start" : 1684153792850,
+        "stop" : 1684153793567,
+        "duration" : 717
+      }
+    }, {
+      "uid" : "8248f4fe7800ae0c",
+      "status" : "passed",
+      "time" : {
+        "start" : 1684153792307,
+        "stop" : 1684153792846,
+        "duration" : 539
+      }
+    }, {
+      "uid" : "56e4b6846e164ac2",
+      "status" : "passed",
+      "time" : {
+        "start" : 1684153791608,
+        "stop" : 1684153792303,
+        "duration" : 695
+      }
+    }, {
+      "uid" : "67add5dcad86ac0e",
+      "status" : "passed",
+      "time" : {
+        "start" : 1684153790892,
+        "stop" : 1684153791604,
+        "duration" : 712
+      }
+    }, {
+      "uid" : "33d7085255c26be5",
+      "status" : "passed",
+      "time" : {
+        "start" : 1684153789299,
+        "stop" : 1684153790885,
+        "duration" : 1586
+      }
+    }, {
+      "uid" : "2ac7c1b5ef0f2899",
+      "status" : "failed",
+      "statusDetails" : "expected:<[password_mismatch:The two password fields didn’t match.]> but was:<[New Account Created. You are logged in as <username>]>",
+      "time" : {
+        "start" : 1684153512991,
+        "stop" : 1684153513901,
+        "duration" : 910
+      }
+    }, {
+      "uid" : "a7c2418b94072727",
+      "status" : "passed",
+      "time" : {
+        "start" : 1684153512286,
+        "stop" : 1684153512988,
+        "duration" : 702
+      }
+    }, {
+      "uid" : "a9403f0883329b6e",
+      "status" : "passed",
+      "time" : {
+        "start" : 1684153511645,
+        "stop" : 1684153512283,
+        "duration" : 638
+      }
+    }, {
+      "uid" : "d55f2f1e5ac766ac",
+      "status" : "passed",
+      "time" : {
+        "start" : 1684153511031,
+        "stop" : 1684153511641,
+        "duration" : 610
+      }
+    }, {
+      "uid" : "8e016dac61813efa",
+      "status" : "passed",
+      "time" : {
+        "start" : 1684153510330,
+        "stop" : 1684153511027,
+        "duration" : 697
+      }
+    }, {
+      "uid" : "1411401ef3caa1a9",
+      "status" : "passed",
+      "time" : {
+        "start" : 1684153509661,
+        "stop" : 1684153510326,
+        "duration" : 665
+      }
+    }, {
+      "uid" : "c2d0e27b31e7433c",
+      "status" : "passed",
+      "time" : {
+        "start" : 1684153508941,
+        "stop" : 1684153509655,
+        "duration" : 714
+      }
+    }, {
+      "uid" : "6dbfd5d593b4b114",
+      "status" : "passed",
+      "time" : {
+        "start" : 1684153508186,
+        "stop" : 1684153508937,
+        "duration" : 751
+      }
+    }, {
+      "uid" : "d986683684ac6a19",
+      "status" : "passed",
+      "time" : {
+        "start" : 1684153507513,
+        "stop" : 1684153508178,
+        "duration" : 665
+      }
+    }, {
+      "uid" : "13ce0cac85faca6b",
+      "status" : "passed",
+      "time" : {
+        "start" : 1684153506737,
+        "stop" : 1684153507506,
+        "duration" : 769
+      }
+    }, {
+      "uid" : "47dd87bf0c8ee2b1",
+      "status" : "passed",
+      "time" : {
+        "start" : 1684153504902,
+        "stop" : 1684153506728,
+        "duration" : 1826
+      }
+    } ],
+    "categories" : [ {
+      "name" : "Product defects",
+      "matchedStatuses" : [ ],
+      "flaky" : false
+    } ],
+    "history" : {
+      "statistic" : {
+        "failed" : 3,
+        "broken" : 0,
+        "skipped" : 0,
+        "passed" : 0,
+        "unknown" : 0,
+        "total" : 3
+      },
+      "items" : [ {
+        "uid" : "b5a8a4183d2390da",
+        "reportUrl" : "http://localhost:8080/job/DsalgoProject/5/allure/#testresult/b5a8a4183d2390da",
+        "status" : "failed",
+        "statusDetails" : "expected:<[password_mismatch:The two password fields didn’t match.]> but was:<[New Account Created. You are logged in as <username>]>",
+        "time" : {
+          "start" : 1684203851767,
+          "stop" : 1684203869959,
+          "duration" : 18192
+        }
+      }, {
+        "uid" : "422fc2cbf74a5b83",
+        "reportUrl" : "http://localhost:8080/job/DsalgoProject/4/allure/#testresult/422fc2cbf74a5b83",
+        "status" : "failed",
+        "statusDetails" : "expected:<[password_mismatch:The two password fields didn’t match.]> but was:<[New Account Created. You are logged in as <username>]>",
+        "time" : {
+          "start" : 1684203200097,
+          "stop" : 1684203217752,
+          "duration" : 17655
+        }
+      } ]
+    },
+    "tags" : [ ]
+  },
+  "source" : "30cfd746f26fcea0.json",
+  "parameterValues" : [ "\"user navigate to registration page\"", "\"feature to test new user registration\"", "Chrome" ]
+}
